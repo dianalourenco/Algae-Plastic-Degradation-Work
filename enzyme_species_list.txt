@@ -1,0 +1,341 @@
+enzyme_name,species_name
+laccase, Phormidium lucidum 
+laccase, Oscillatoria subbrevis 
+laccase, Scenedesmus dimorphus
+laccase, Anabaena spiroides
+laccase, Navicula pupula 
+laccase, Nostoc carneum
+manganese peroxidase, Phormidium lucidum 
+manganese peroxidase, Oscillatoria subbrevis
+manganese peroxidase, Nostoc Carneum
+PETase, Chlamydomonas reinhardtii
+PETase, Phaeodactylum tricornutum
+Esterase, Chaetoceros muelleri 
+Esterase, Dunaliella salina
+Esterase, Cylindrotheca closterium
+polyphenol oxidase, Chlorella pyrenoidosa
+peroxidase, Chlorella pyrenoidosa
+Glycosyltransferase, Chlorella pyrenoidosa
+Glycosyltransferase, Desmodesmus sp
+DBP Hydrolase, Cylindrotheca closterium
+polyester hydrolase, Chlamydomonas incerta
+polyester hydrolase, Chlamydomonas reinhardtii
+oxidoreductase, Desmodesmus sp.
+lignin peroxidase, Phormidium lucidum
+lignin peroxidase, Oscillatoria subbrevis
+lignin peroxidase, Scenedesmus dimorphus
+lignin peroxidase, Anabaena spiroides
+lignin peroxidase, Navicula pupula
+lignin peroxidase, Nostoc carneum
+versatile peroxidase, Phormidium lucidum
+versatile peroxidase, Oscillatoria subbrevis
+versatile peroxidase, Scenedesmus dimorphus
+versatile peroxidase, Anabaena spiroides
+versatile peroxidase, Navicula pupula
+versatile peroxidase, Nostoc carneum
+laccase, Scenedesmus dimorphus
+laccase, Chlorella vulgaris
+laccase, Chlamydomonas reinhardtii
+laccase, Phaeodactylum tricornutum
+laccase, Dunaliella salina
+laccase, Navicula pupula
+laccase, Anabaena spiroides
+laccase, Oscillatoria subbrevis
+laccase, Phormidium lucidum
+laccase, Oscillatoria princeps
+laccase, Oscillatoria acuminate
+laccase, Oscillatoria willei
+laccase, Oscillatoria amoena
+laccase, Oscillatoria splendida
+laccase, Oscillatoria vizagapatensis
+laccase, Oscillatoria limnetica
+laccase, Oscillatoria earlei
+laccase, Oscillatoria peronata
+laccase, Oscillatoria formosa
+laccase, Oscillatoria okeni
+laccase, Oscillatoria geitleriana
+laccase, Oscillatoria chalybea
+laccase, Oscillatoria rubescens
+laccase, Oscillatoria curviceps
+laccase, Oscillatoria tenuis
+laccase, Oscillatoria laete-virens
+laccase, Lyngbya diguetii
+laccase, Nostoc carneum
+laccase, Cylindrospermum muscicola
+laccase, Chlorella pyrenoidosa
+laccase, Cylindrotheca closterium
+laccase, Uronema africanum
+laccase, Spirulina sp
+laccase, Scenedesmus dimorphus
+lignin peroxidase, Scenedesmus dimorphus
+manganese peroxidase, Scenedesmus dimorphus
+versatile peroxidase, Scenedesmus dimorphus
+laccase, Chlorella vulgaris
+lignin peroxidase, Chlorella vulgaris
+manganese peroxidase, Chlorella vulgaris
+versatile peroxidase, Chlorella vulgaris
+laccase, Chlamydomonas reinhardtii
+lignin peroxidase, Chlamydomonas reinhardtii
+manganese peroxidase, Chlamydomonas reinhardtii
+versatile peroxidase, Chlamydomonas reinhardtii
+laccase, Phaeodactylum tricornutum
+lignin peroxidase, Phaeodactylum tricornutum
+manganese peroxidase, Phaeodactylum tricornutum
+versatile peroxidase, Phaeodactylum tricornutum
+laccase, Dunaliella salina
+lignin peroxidase, Dunaliella salina
+manganese peroxidase, Dunaliella salina
+versatile peroxidase, Dunaliella salina
+laccase, Navicula pupula
+lignin peroxidase, Navicula pupula
+manganese peroxidase, Navicula pupula
+versatile peroxidase, Navicula pupula
+laccase, Anabaena spiroides
+lignin peroxidase, Anabaena spiroides
+manganese peroxidase, Anabaena spiroides
+versatile peroxidase, Anabaena spiroides
+laccase, Oscillatoria subbrevis
+lignin peroxidase, Oscillatoria subbrevis
+manganese peroxidase, Oscillatoria subbrevis
+versatile peroxidase, Oscillatoria subbrevis
+laccase, Phormidium lucidum
+lignin peroxidase, Phormidium lucidum
+manganese peroxidase, Phormidium lucidum
+versatile peroxidase, Phormidium lucidum
+laccase, Oscillatoria princeps
+lignin peroxidase, Oscillatoria princeps
+manganese peroxidase, Oscillatoria princeps
+versatile peroxidase, Oscillatoria princeps
+laccase, Oscillatoria acuminate
+lignin peroxidase, Oscillatoria acuminate
+manganese peroxidase, Oscillatoria acuminate
+versatile peroxidase, Oscillatoria acuminate
+laccase, Oscillatoria willei
+lignin peroxidase, Oscillatoria willei
+manganese peroxidase, Oscillatoria willei
+versatile peroxidase, Oscillatoria willei
+laccase, Oscillatoria amoena
+lignin peroxidase, Oscillatoria amoena
+manganese peroxidase, Oscillatoria amoena
+versatile peroxidase, Oscillatoria amoena
+laccase, Oscillatoria splendida
+lignin peroxidase, Oscillatoria splendida
+manganese peroxidase, Oscillatoria splendida
+versatile peroxidase, Oscillatoria splendida
+laccase, Oscillatoria vizagapatensis
+lignin peroxidase, Oscillatoria vizagapatensis
+manganese peroxidase, Oscillatoria vizagapatensis
+versatile peroxidase, Oscillatoria vizagapatensis
+laccase, Oscillatoria limnetica
+lignin peroxidase, Oscillatoria limnetica
+manganese peroxidase, Oscillatoria limnetica
+versatile peroxidase, Oscillatoria limnetica
+laccase, Oscillatoria earlei
+lignin peroxidase, Oscillatoria earlei
+manganese peroxidase, Oscillatoria earlei
+versatile peroxidase, Oscillatoria earlei
+laccase, Oscillatoria peronata
+lignin peroxidase, Oscillatoria peronata
+manganese peroxidase, Oscillatoria peronata
+versatile peroxidase, Oscillatoria peronata
+laccase, Oscillatoria formosa
+lignin peroxidase, Oscillatoria formosa
+manganese peroxidase, Oscillatoria formosa
+versatile peroxidase, Oscillatoria formosa
+laccase, Oscillatoria okeni
+lignin peroxidase, Oscillatoria okeni
+manganese peroxidase, Oscillatoria okeni
+versatile peroxidase, Oscillatoria okeni
+laccase, Oscillatoria geitleriana
+lignin peroxidase, Oscillatoria geitleriana
+manganese peroxidase, Oscillatoria geitleriana
+versatile peroxidase, Oscillatoria geitleriana
+laccase, Oscillatoria chalybea
+lignin peroxidase, Oscillatoria chalybea
+manganese peroxidase, Oscillatoria chalybea
+versatile peroxidase, Oscillatoria chalybea
+laccase, Oscillatoria rubescens
+lignin peroxidase, Oscillatoria rubescens
+manganese peroxidase, Oscillatoria rubescens
+versatile peroxidase, Oscillatoria rubescens
+laccase, Oscillatoria curviceps
+lignin peroxidase, Oscillatoria curviceps
+manganese peroxidase, Oscillatoria curviceps
+versatile peroxidase, Oscillatoria curviceps
+laccase, Oscillatoria tenuis
+lignin peroxidase, Oscillatoria tenuis
+manganese peroxidase, Oscillatoria tenuis
+versatile peroxidase, Oscillatoria tenuis
+laccase, Oscillatoria laete-virens
+lignin peroxidase, Oscillatoria laete-virens
+manganese peroxidase, Oscillatoria laete-virens
+versatile peroxidase, Oscillatoria laete-virens
+laccase, Lyngbya diguetii
+lignin peroxidase, Lyngbya diguetii
+manganese peroxidase, Lyngbya diguetii
+versatile peroxidase, Lyngbya diguetii
+laccase, Nostoc carneum
+lignin peroxidase, Nostoc carneum
+manganese peroxidase, Nostoc carneum
+versatile peroxidase, Nostoc carneum
+laccase, Cylindrospermum muscicola
+lignin peroxidase, Cylindrospermum muscicola
+manganese peroxidase, Cylindrospermum muscicola
+versatile peroxidase, Cylindrospermum muscicola
+laccase, Chlorella pyrenoidosa
+lignin peroxidase, Chlorella pyrenoidosa
+manganese peroxidase, Chlorella pyrenoidosa
+versatile peroxidase, Chlorella pyrenoidosa
+laccase, Cylindrotheca closterium
+lignin peroxidase, Cylindrotheca closterium
+manganese peroxidase, Cylindrotheca closterium
+versatile peroxidase, Cylindrotheca closterium
+laccase, Uronema africanum Borge
+lignin peroxidase, Uronema africanum Borge
+manganese peroxidase, Uronema africanum Borge
+versatile peroxidase, Uronema africanum Borge
+laccase, Spirulina sp
+lignin peroxidase, Spirulina sp
+manganese peroxidase, Spirulina sp
+versatile peroxidase, Spirulina sp
+laccase, Acutodesmus obliquus
+lignin peroxidase, Acutodesmus obliquus
+manganese peroxidase, Acutodesmus obliquus
+versatile peroxidase, Acutodesmus obliquus
+laccase, Picochlorum maculatum
+lignin peroxidase, Picochlorum maculatum
+manganese peroxidase, Picochlorum maculatum
+versatile peroxidase, Picochlorum maculatum
+laccase, Amphora sp
+lignin peroxidase, Amphora sp
+manganese peroxidase, Amphora sp
+versatile peroxidase, Amphora sp
+laccase, Synechocystis sp
+lignin peroxidase, Synechocystis sp
+manganese peroxidase, Synechocystis sp
+versatile peroxidase, Synechocystis sp
+laccase, Navicula sp
+lignin peroxidase, Navicula sp
+manganese peroxidase, Navicula sp
+versatile peroxidase, Navicula sp
+laccase, Limnospira indica
+lignin peroxidase, Limnospira indica
+manganese peroxidase, Limnospira indica
+versatile peroxidase, Limnospira indica
+laccase, Chloroidium saccharophilum
+lignin peroxidase, Chloroidium saccharophilum
+manganese peroxidase, Chloroidium saccharophilum
+versatile peroxidase, Chloroidium saccharophilum
+laccase, Hymenomonas globosa
+lignin peroxidase, Hymenomonas globosa
+manganese peroxidase, Hymenomonas globosa
+versatile peroxidase, Hymenomonas globosa
+laccase, Limnospira indica
+lignin peroxidase, Limnospira indica
+manganese peroxidase, Limnospira indica
+versatile peroxidase, Limnospira indica
+laccase, Chlorella vulgaris
+lignin peroxidase, Chlorella vulgaris
+manganese peroxidase, Chlorella vulgaris
+versatile peroxidase, Chlorella vulgaris
+laccase, Licmophora sp
+lignin peroxidase, Licmophora sp
+manganese peroxidase, Licmophora sp
+versatile peroxidase, Licmophora sp
+laccase, Stauroneis sp
+lignin peroxidase, Stauroneis sp
+manganese peroxidase, Stauroneis sp
+versatile peroxidase, Stauroneis sp
+laccase, Striatella unipunctata
+lignin peroxidase, Striatella unipunctata
+manganese peroxidase, Striatella unipunctata
+versatile peroxidase, Striatella unipunctata
+laccase, Planktothrix sp
+lignin peroxidase, Planktothrix sp
+manganese peroxidase, Planktothrix sp
+versatile peroxidase, Planktothrix sp
+laccase, Merismopedia sp
+lignin peroxidase, Merismopedia sp
+manganese peroxidase, Merismopedia sp
+versatile peroxidase, Merismopedia sp
+laccase, Anabaena sp
+lignin peroxidase, Anabaena sp
+manganese peroxidase, Anabaena sp
+versatile peroxidase, Anabaena sp
+laccase, Pediastrum sp
+lignin peroxidase, Pediastrum sp
+manganese peroxidase, Pediastrum sp
+versatile peroxidase, Pediastrum sp
+laccase, Nitzschia intermedia
+lignin peroxidase, Nitzschia intermedia
+manganese peroxidase, Nitzschia intermedia
+versatile peroxidase, Nitzschia intermedia
+laccase, Amphora ovalis
+lignin peroxidase, Amphora ovalis
+manganese peroxidase, Amphora ovalis
+versatile peroxidase, Amphora ovalis
+laccase, Oscillatoria princeps
+lignin peroxidase, Oscillatoria princeps
+manganese peroxidase, Oscillatoria princeps
+versatile peroxidase, Oscillatoria princeps
+laccase, Scenedesmus quadricauda
+lignin peroxidase, Scenedesmus quadricauda
+manganese peroxidase, Scenedesmus quadricauda
+versatile peroxidase, Scenedesmus quadricauda
+laccase, Microcystis aeruginosa
+lignin peroxidase, Microcystis aeruginosa
+manganese peroxidase, Microcystis aeruginosa
+versatile peroxidase, Microcystis aeruginosa
+laccase, Aphanothece microscopica
+lignin peroxidase, Aphanothece microscopica
+manganese peroxidase, Aphanothece microscopica
+versatile peroxidase, Aphanothece microscopica
+laccase, Lyngbya cinerescens
+lignin peroxidase, Lyngbya cinerescens
+manganese peroxidase, Lyngbya cinerescens
+versatile peroxidase, Lyngbya cinerescens
+laccase, Cosmarium constrictum
+lignin peroxidase, Cosmarium constrictum
+manganese peroxidase, Cosmarium constrictum
+versatile peroxidase, Cosmarium constrictum
+laccase, Cosmarium formosulum
+lignin peroxidase, Cosmarium formosulum
+manganese peroxidase, Cosmarium formosulum
+versatile peroxidase, Cosmarium formosulum
+laccase, Oedogonium sp
+lignin peroxidase, Oedogonium sp
+manganese peroxidase, Oedogonium sp
+versatile peroxidase, Oedogonium sp
+laccase, Nitzchia hungarica
+lignin peroxidase, Nitzchia hungarica
+manganese peroxidase, Nitzchia hungarica
+versatile peroxidase, Nitzchia hungarica
+laccase, Navicula dicephala
+lignin peroxidase, Navicula dicephala
+manganese peroxidase, Navicula dicephala
+versatile peroxidase, Navicula dicephala
+laccase, Navicula minuta
+lignin peroxidase, Navicula minuta
+manganese peroxidase, Navicula minuta
+versatile peroxidase, Navicula minuta
+laccase, Chlorella sorokiniana
+lignin peroxidase, Chlorella sorokiniana
+manganese peroxidase, Chlorella sorokiniana
+versatile peroxidase, Chlorella sorokiniana
+laccase, Cocconeis placentula Ehr.
+lignin peroxidase, Cocconeis placentula Ehr.
+manganese peroxidase, Cocconeis placentula Ehr.
+versatile peroxidase, Cocconeis placentula Ehr.
+laccase, Chlorella sp.
+lignin peroxidase, Chlorella sp.
+manganese peroxidase, Chlorella sp.
+versatile peroxidase, Chlorella sp.
+laccase, Jacksonvillea sp. ISTCYN1
+lignin peroxidase, Jacksonvillea sp. ISTCYN1
+manganese peroxidase, Jacksonvillea sp. ISTCYN1
+versatile peroxidase, Jacksonvillea sp. ISTCYN1
+esterase, Jacksonvillea sp. ISTCYN1
+lipase, Jacksonvillea sp. ISTCYN1
+peroxidase, Jacksonvillea sp. ISTCYN1
+
+
