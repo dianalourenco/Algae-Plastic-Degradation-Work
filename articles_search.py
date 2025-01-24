@@ -88,9 +88,9 @@ def save_articles(articles, filename="articles.txt"):
     current_time = datetime.datetime.now()
 
     with open(filename, 'a', encoding='utf-8') as f:
-        f.write('\n####################\n')
+        f.write('\n#####################################\n')
         f.write(f'Articles searched on: {current_time}\n')
-        f.write('####################\n\n')
+        f.write('#######################################\n\n')
 
         # Add articles
         for i, (url,article) in enumerate(articles.items()):
