@@ -1,4 +1,4 @@
-# Algae-Plastic-Degrading-Work
+# Algae-Plastic-Degradation-Work
 A bioinformatics pipeline for microalgae plastic-degrading enzyme analysis, including article search from Google Scholar, sequence retrieval from NCBI and BLAST analysis for microplastic biodegradation studies.
 
 ## 1. NCBI Sequence Retrieval
