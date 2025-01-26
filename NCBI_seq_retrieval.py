@@ -41,14 +41,9 @@ def save_seq_to_file(sequence_record, enzyme_name, species_name):
     base_dir = 'sequences'
     os.makedirs(base_dir, exist_ok=True)
 
-    # Create subdirectory inside 'sequences' with date
-    date_dir = datetime.datetime.now().strftime('%G%m%d')
-    date_path = os.path.join(base_dir, date_dir)
-    os.makedirs(date_path, exist_ok = True)
-
     # Create filepath for FASTA files
     filename = f'{enzyme_name}_{species_name}'.replace(' ', '')
-    filepath = os.path.join(date_path, f'{filename}.fasta')
+    filepath = os.path.join(base_dir, f'{filename}.fasta')
 
     #Save sequence in FASTA format
     with open(filepath, 'w') as f:
@@ -60,15 +55,11 @@ def sequence_exists(enzyme, species):
     Check if sequence already exists in the directory
     '''
     base_dir = 'sequences'
+    filename = f'{enzyme}_{species}'.replace(' ', '') + '.fasta'
+    filepath = os.path.join(base_dir, filename)
 
-    for date_dir in os.listdir(base_dir): #iterates over subdirectories
-        date_path = os.path.join(base_dir, date_dir) #path: sequences/date
-        if os.path.isdir(date_path):
-            filename = f'{enzyme}_{species}'.replace(' ', '') + '.fasta'
-            filepath = os.path.join(date_path, filename)
-            if os.path.exists(filepath):
-                print('Sequence for the {enzyme} of {species} already exists.')
-                return True
+    if os.path.exists(filepath):
+            return True
     return False
 
 
@@ -102,7 +93,7 @@ def main(file_path):
         except Exception as e:
             print(f'Error in input text file: {e}')
     
-    print(f'{new_seq} new sequences were found')
+    print(f'\n\n{new_seq} new sequences were found')
 
 if __name__ == '__main__':
     input_file = sys.argv[1]
