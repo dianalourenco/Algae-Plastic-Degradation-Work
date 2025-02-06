@@ -396,3 +396,14 @@ Articles searched on: 2025-01-24 13:23:16.498418
 2. Title: Polymer-enhanced enzymatic microalgal cell disruption for lipid and sugar recovery
    Link: https://www.sciencedirect.com/science/article/pii/S2211926416300200
 
+
+#####################################
+Articles searched on: 2025-02-01 15:13:45.671542
+#######################################
+
+1. Title: [BOEK][B] Algae based polymers, blends, and composites: chemistry, biotechnology and materials science
+   Link: https://books.google.com/books?hl=nl&lr=&id=oAKqDQAAQBAJ&oi=fnd&pg=PP1&dq=algae+polymeric+materials+degradation&ots=PQ4SLszqC0&sig=JSI2tXObhzzbE-kth1Gdq9YkoyA
+
+2. Title: Cheaper membrane materials for microalgae dewatering
+   Link: https://link.springer.com/article/10.1007/s10853-014-8408-8
+
