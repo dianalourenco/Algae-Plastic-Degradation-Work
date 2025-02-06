@@ -1,3 +1,5 @@
+2025-02-06 17:02:18.915075
+
 Query Length: 252
 E-value threshold: 1e-10
 Identity threshold: 0.3
@@ -9,7 +11,7 @@ Title: emb|CAJ1970345.1| unnamed protein product [Cylindrotheca closterium]
 Percent Identity: 33.45%
 E-value: 9.13087e-19
 Query/Sbjct Length: 275
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: AMMKGTGKGVSSRKGGRMYKKGTMTSTSSSTKNRAVY--HGGGR-MGC-SSGATSKMCSKV-------VVSVSYK--ANH----AGDD--NAYAW----VHKNGNYTTAGSRVVG----SAGGGAACRVVDMHRSD-----------TTTKKVVAYMMDDRTSM---DHVDSSNVWNHTSN-YAWDAYKRK----GKSVVADYAAAARRKDMTGAA--W-AVGD------DCRSRYRR--NAHVDTKY--VKGGYHGMVTMCS----DARAHWDS
@@ -23,7 +25,7 @@ Title: emb|CAJ1954648.1| unnamed protein product [Cylindrotheca closterium]
 Percent Identity: 28.82%
 E-value: 3.08192e-11
 Query/Sbjct Length: 229
-Potential Novel Enzyme: Yes
+Potential Novel Enzyme: No
 
 Alignment:
 Query: HGGGR-MGC-SSGATSKMCSKVV-------VSVSYKANHAGDD---------NAYAWV-----HKNGNYTTAGSRVV---GSAGGGAAC----RVVDMHRSDTTTKK----------VVAYMMDDRTSMDHVDSSN----VWNHTSN-YAWDAYK----RKGKSVVADYAAAARRKDMTG--AAWAVGDDC---------RSRYRRNAHVDTKY--VKGGYHGMVTMCS

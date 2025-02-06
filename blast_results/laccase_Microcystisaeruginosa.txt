@@ -1,3 +1,5 @@
+2025-02-06 17:12:58.967203
+
 Query Length: 124
 E-value threshold: 1e-10
 Identity threshold: 0.3
@@ -9,7 +11,7 @@ Title: ref|WP_249263477.1| multicopper oxidase domain-containing protein [Microc
 Percent Identity: 100.00%
 E-value: 2.77319e-91
 Query/Sbjct Length: 124
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: MSSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -23,7 +25,7 @@ Title: gb|REJ44547.1| MAG: hypothetical protein DWQ54_03260 [Microcystis flos-aq
 Percent Identity: 100.00%
 E-value: 2.93199e-73
 Query/Sbjct Length: 101
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: MFIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -37,7 +39,7 @@ Title: ref|WP_044033998.1| multicopper oxidase domain-containing protein, partia
 Percent Identity: 100.00%
 E-value: 9.4223e-67
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -51,7 +53,7 @@ Title: gb|MDJ0801198.1| multicopper oxidase family protein [Calothrix sp. MO_167
 Percent Identity: 79.12%
 E-value: 5.21061e-44
 Query/Sbjct Length: 91
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -65,7 +67,7 @@ Title: gb|NCQ87094.1| multicopper oxidase domain-containing protein [Microcystis
 Percent Identity: 67.59%
 E-value: 4.31489e-43
 Query/Sbjct Length: 108
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: VRLLAIASMFIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -79,7 +81,7 @@ Title: gb|TRU52448.1| MAG: copper oxidase [Microcystis aeruginosa Ma_QC_Ch_20071
 Percent Identity: 64.10%
 E-value: 1.60385e-42
 Query/Sbjct Length: 117
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: VFYCFNSGS--VRLLAIASMFIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -93,7 +95,7 @@ Title: gb|MDJ0678719.1| multicopper oxidase family protein [Xenococcaceae cyanob
 Percent Identity: 63.48%
 E-value: 8.53019e-42
 Query/Sbjct Length: 115
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: FNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSAAAAP-THPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -107,7 +109,7 @@ Title: gb|MEL6931427.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 65.26%
 E-value: 2.14886e-39
 Query/Sbjct Length: 95
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -121,7 +123,7 @@ Title: ref|WP_287726488.1| multicopper oxidase family protein [Microcystis sp. M
 Percent Identity: 69.79%
 E-value: 2.62742e-39
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -135,7 +137,7 @@ Title: ref|WP_288032234.1| multicopper oxidase family protein [Microcystis sp. L
 Percent Identity: 69.79%
 E-value: 3.35366e-39
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -149,7 +151,7 @@ Title: ref|WP_147072694.1| multicopper oxidase family protein [Microcystis aerug
 Percent Identity: 69.79%
 E-value: 4.41757e-39
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -163,7 +165,7 @@ Title: gb|MEL7075825.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 65.31%
 E-value: 1.7999e-37
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -177,7 +179,7 @@ Title: gb|MEO1691379.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 65.31%
 E-value: 1.81838e-37
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -191,7 +193,7 @@ Title: gb|MEL6786192.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 65.31%
 E-value: 1.93331e-37
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -205,7 +207,7 @@ Title: gb|MEO0927554.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 64.29%
 E-value: 8.23647e-37
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -219,7 +221,7 @@ Title: gb|MEL6501964.1| multicopper oxidase family protein [Cyanobacteria bacter
 Percent Identity: 62.50%
 E-value: 5.72722e-36
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAA---PTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -233,7 +235,7 @@ Title: gb|MDJ0590617.1| multicopper oxidase family protein [Pleurocapsa sp. MO_2
 Percent Identity: 63.54%
 E-value: 3.12393e-35
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAA---PTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -247,7 +249,7 @@ Title: gb|MEO1339894.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 62.50%
 E-value: 3.39605e-35
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAA---PTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -261,7 +263,7 @@ Title: gb|MEM6611215.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 64.52%
 E-value: 3.97296e-35
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAA---PTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -275,7 +277,7 @@ Title: gb|MEM9925308.1| multicopper oxidase family protein [Cyanobacteria bacter
 Percent Identity: 59.14%
 E-value: 6.8331e-35
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -289,7 +291,7 @@ Title: gb|MBW4638264.1| multicopper oxidase domain-containing protein [Gloeocaps
 Percent Identity: 62.89%
 E-value: 8.49135e-34
 Query/Sbjct Length: 97
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: FIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -303,7 +305,7 @@ Title: ref|WP_231664333.1| multicopper oxidase family protein [Pseudanabaena sp.
 Percent Identity: 62.92%
 E-value: 1.04763e-33
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -317,7 +319,7 @@ Title: gb|MBW4672546.1| multicopper oxidase domain-containing protein [Desmonost
 Percent Identity: 63.04%
 E-value: 1.18983e-33
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -331,7 +333,7 @@ Title: ref|WP_202950404.1| MULTISPECIES: multicopper oxidase family protein [Pse
 Percent Identity: 62.92%
 E-value: 1.6327e-33
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -345,7 +347,7 @@ Title: gb|ELS33668.1| multicopper oxidase type 3 [Pseudanabaena biceps PCC 7429]
 Percent Identity: 60.00%
 E-value: 1.91258e-33
 Query/Sbjct Length: 95
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -359,7 +361,7 @@ Title: gb|MEO1671166.1| multicopper oxidase domain-containing protein [Cyanobact
 Percent Identity: 62.37%
 E-value: 2.82884e-33
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAA---PTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -373,7 +375,7 @@ Title: gb|NER35533.1| multicopper oxidase domain-containing protein [Oscillatori
 Percent Identity: 54.78%
 E-value: 3.90588e-33
 Query/Sbjct Length: 115
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDP------------------YGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -387,7 +389,7 @@ Title: gb|RAM50180.1| MAG: hypothetical protein C6Y22_18195 [Hapalosiphonaceae c
 Percent Identity: 59.34%
 E-value: 4.71293e-33
 Query/Sbjct Length: 91
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -401,7 +403,7 @@ Title: ref|WP_271795351.1| multicopper oxidase family protein [Dolichospermum pl
 Percent Identity: 60.20%
 E-value: 4.92818e-33
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -415,7 +417,7 @@ Title: gb|MFN6470476.1| multicopper oxidase family protein [Nostoc sp. SerVER01]
 Percent Identity: 62.22%
 E-value: 1.31033e-32
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -429,7 +431,7 @@ Title: gb|MDZ8079588.1| multicopper oxidase family protein [Nostoc sp. DcaGUA01]
 Percent Identity: 62.22%
 E-value: 1.35084e-32
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -443,7 +445,7 @@ Title: gb|MFN6497335.1| multicopper oxidase family protein [Nostoc sp. DedQUE01]
 Percent Identity: 62.22%
 E-value: 1.35084e-32
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -457,7 +459,7 @@ Title: gb|MDZ8028034.1| multicopper oxidase family protein [Nostoc sp. DedQUE11]
 Percent Identity: 62.22%
 E-value: 1.39261e-32
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -471,7 +473,7 @@ Title: ref|WP_011320872.1| MULTISPECIES: multicopper oxidase family protein [Nos
 Percent Identity: 58.42%
 E-value: 2.86132e-32
 Query/Sbjct Length: 101
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: GKSRN----KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -485,7 +487,7 @@ Title: gb|MEY2913371.1| hypothetical protein [Cyanobacteriota bacterium]
 Percent Identity: 58.16%
 E-value: 1.68491e-31
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -499,7 +501,7 @@ Title: ref|WP_190391292.1| multicopper oxidase family protein [Dolichospermum sp
 Percent Identity: 60.87%
 E-value: 1.97823e-31
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -513,7 +515,7 @@ Title: ref|WP_271808454.1| multicopper oxidase family protein [Dolichospermum ci
 Percent Identity: 59.38%
 E-value: 3.29878e-31
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -527,7 +529,7 @@ Title: ref|WP_229451017.1| multicopper oxidase family protein [Nostoc sp. CHAB 5
 Percent Identity: 61.80%
 E-value: 4.68362e-31
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -541,7 +543,7 @@ Title: ref|WP_190456265.1| multicopper oxidase family protein [Cylindrospermum s
 Percent Identity: 60.44%
 E-value: 5.26691e-31
 Query/Sbjct Length: 91
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -555,7 +557,7 @@ Title: gb|MFN6516198.1| multicopper oxidase family protein [Nostoc sp. CreGUA01]
 Percent Identity: 61.54%
 E-value: 1.20454e-30
 Query/Sbjct Length: 91
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -569,7 +571,7 @@ Title: gb|MBX9257035.1| multicopper oxidase domain-containing protein [Desmonost
 Percent Identity: 58.89%
 E-value: 1.70302e-30
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -583,7 +585,7 @@ Title: gb|MBD2518849.1| multicopper oxidase domain-containing protein [Nostoc sp
 Percent Identity: 58.89%
 E-value: 1.7548e-30
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -597,7 +599,7 @@ Title: ref|WP_335186666.1| multicopper oxidase family protein [Nostoc sp.] >gb|M
 Percent Identity: 58.89%
 E-value: 1.7724e-30
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -611,7 +613,7 @@ Title: ref|WP_190756567.1| multicopper oxidase family protein [Nostoc sp. FACHB-
 Percent Identity: 57.78%
 E-value: 1.54774e-29
 Query/Sbjct Length: 90
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -625,7 +627,7 @@ Title: ref|WP_322654255.1| multicopper oxidase family protein [Nostoc sp. CmiVER
 Percent Identity: 60.67%
 E-value: 2.78654e-29
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -639,7 +641,7 @@ Title: ref|WP_322648644.1| multicopper oxidase family protein [Nostoc sp. ChiVER
 Percent Identity: 60.67%
 E-value: 2.81454e-29
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: KAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -653,7 +655,7 @@ Title: gb|MEM9567527.1| multicopper oxidase family protein [Cyanobacteria bacter
 Percent Identity: 53.47%
 E-value: 7.08175e-28
 Query/Sbjct Length: 101
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: IRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQ-----PQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -667,7 +669,7 @@ Title: dbj|BAZ33445.1| multicopper oxidase, types 2 and 3 [Cylindrospermum sp. N
 Percent Identity: 61.33%
 E-value: 1.08643e-27
 Query/Sbjct Length: 75
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -681,7 +683,7 @@ Title: ref|WP_099435686.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 40.77%
 E-value: 1.90151e-20
 Query/Sbjct Length: 130
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -695,7 +697,7 @@ Title: ref|WP_015218995.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 40.77%
 E-value: 1.92038e-20
 Query/Sbjct Length: 130
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -709,7 +711,7 @@ Title: ref|WP_041233071.1| multicopper oxidase domain-containing protein [Cylind
 Percent Identity: 64.81%
 E-value: 1.9712e-20
 Query/Sbjct Length: 54
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: GKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -723,7 +725,7 @@ Title: ref|WP_190361465.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 40.77%
 E-value: 3.20814e-20
 Query/Sbjct Length: 130
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -737,7 +739,7 @@ Title: ref|WP_324281828.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 41.32%
 E-value: 3.9915e-20
 Query/Sbjct Length: 121
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: YCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -751,7 +753,7 @@ Title: gb|NES68077.1| multicopper oxidase domain-containing protein [Okeania sp.
 Percent Identity: 48.96%
 E-value: 4.86581e-20
 Query/Sbjct Length: 96
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: AQYWDLETDPNSAAAAPTHPFHIHVNPFQV--DRKDPYGKTERI---WRDTLLITKGQPQ-TVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -765,7 +767,7 @@ Title: gb|MFK0733535.1| multicopper oxidase family protein [Gloeotrichia echinul
 Percent Identity: 48.28%
 E-value: 5.02639e-20
 Query/Sbjct Length: 87
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: AAAPTHPFHIHVNPFQV------------DRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -779,7 +781,7 @@ Title: ref|WP_155083740.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 40.00%
 E-value: 1.12176e-19
 Query/Sbjct Length: 130
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -793,7 +795,7 @@ Title: ref|WP_320002143.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 40.00%
 E-value: 1.22572e-19
 Query/Sbjct Length: 130
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -807,7 +809,7 @@ Title: gb|NQV11474.1| multicopper oxidase family protein [Cyanobacteria bacteriu
 Percent Identity: 46.51%
 E-value: 1.26087e-19
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -821,7 +823,7 @@ Title: ref|WP_342597114.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 40.00%
 E-value: 1.30032e-19
 Query/Sbjct Length: 130
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SSSSLVFYCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISNQ
@@ -835,7 +837,7 @@ Title: ref|WP_073607384.1| multicopper oxidase family protein [Phormidium tenue]
 Percent Identity: 44.57%
 E-value: 1.66317e-19
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDL-ETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -849,7 +851,7 @@ Title: ref|WP_342596847.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 41.32%
 E-value: 1.76016e-19
 Query/Sbjct Length: 121
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: YCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -863,7 +865,7 @@ Title: ref|WP_323269734.1| multicopper oxidase family protein [Synechococcus sp.
 Percent Identity: 45.35%
 E-value: 2.30322e-19
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -877,7 +879,7 @@ Title: dbj|BAZ47211.1| type 3 multicopper oxidase [Chondrocystis sp. NIES-4102]
 Percent Identity: 47.37%
 E-value: 2.75665e-19
 Query/Sbjct Length: 95
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDL-ETDPNSAAAAPTHPFHIHVNPFQV----DRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -891,7 +893,7 @@ Title: ref|WP_324281881.1| multicopper oxidase family protein [Cyanobacterium ap
 Percent Identity: 41.32%
 E-value: 3.65689e-19
 Query/Sbjct Length: 121
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: YCFNSGSVRLLAIASMFIRGKSRNKAQYWDLETDPNSA-------AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -905,7 +907,7 @@ Title: ref|WP_323247009.1| multicopper oxidase family protein [Synechococcus sp.
 Percent Identity: 43.01%
 E-value: 4.92841e-19
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -919,7 +921,7 @@ Title: gb|MEY3930378.1| hypothetical protein [Cyanobacteriota bacterium]
 Percent Identity: 46.24%
 E-value: 5.8366e-19
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: THPFHIHVNPFQVDRK---------------------DP-YGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -933,7 +935,7 @@ Title: gb|MEN9495740.1| hypothetical protein [Cyanobacteriota bacterium]
 Percent Identity: 46.24%
 E-value: 5.92796e-19
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: THPFHIHVNPFQVDRK---------------------DP-YGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -947,7 +949,7 @@ Title: gb|NBW63278.1| multicopper oxidase family protein [Synechococcaceae bacte
 Percent Identity: 46.24%
 E-value: 6.53202e-19
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: THPFHIHVNPFQVDRK---------------------DP-YGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -961,7 +963,7 @@ Title: ref|WP_186696705.1| multicopper oxidase family protein [Cyanobium sp. NS0
 Percent Identity: 45.35%
 E-value: 7.71153e-19
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -975,7 +977,7 @@ Title: ref|WP_293134718.1| multicopper oxidase family protein [Okeania sp. SIO3I
 Percent Identity: 49.47%
 E-value: 1.08332e-18
 Query/Sbjct Length: 95
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDLETDPNSAAAAPTHPFHIHVNPFQV--DRKDPYGKTERI---WRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -989,7 +991,7 @@ Title: gb|MEY2644028.1| hypothetical protein [Cyanobacteriota bacterium]
 Percent Identity: 46.81%
 E-value: 1.11774e-18
 Query/Sbjct Length: 94
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: THPFHIHVNPFQV----DRK-----------------DP-YGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1003,7 +1005,7 @@ Title: gb|MBW4536374.1| multicopper oxidase family protein [Pleurocapsa minor HA
 Percent Identity: 45.05%
 E-value: 1.32054e-18
 Query/Sbjct Length: 91
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDL-ETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1017,7 +1019,7 @@ Title: gb|MCT4364034.1| multicopper oxidase family protein [Candidatus Regnicocc
 Percent Identity: 44.19%
 E-value: 1.37839e-18
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1031,7 +1033,7 @@ Title: ref|WP_313772418.1| multicopper oxidase family protein, partial [Candidat
 Percent Identity: 44.19%
 E-value: 1.41024e-18
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1045,7 +1047,7 @@ Title: ref|WP_006910310.1| multicopper oxidase family protein [Cyanobium sp. PCC
 Percent Identity: 51.43%
 E-value: 1.41818e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1059,7 +1061,7 @@ Title: gb|MFO8238530.1| multicopper oxidase family protein [Prochlorococcaceae c
 Percent Identity: 51.43%
 E-value: 1.47114e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1073,7 +1075,7 @@ Title: ref|WP_186697144.1| multicopper oxidase family protein [Cyanobium sp. NS0
 Percent Identity: 44.19%
 E-value: 1.50083e-18
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1087,7 +1089,7 @@ Title: ref|WP_259723078.1| multicopper oxidase family protein [Synechococcus sp.
 Percent Identity: 44.19%
 E-value: 1.51493e-18
 Query/Sbjct Length: 86
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: WDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1101,7 +1103,7 @@ Title: ref|WP_071801805.1| MULTISPECIES: multicopper oxidase family protein [unc
 Percent Identity: 40.82%
 E-value: 2.26188e-18
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: FIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1115,7 +1117,7 @@ Title: gb|TWB87882.1| FtsP/CotA-like multicopper oxidase with cupredoxin domain 
 Percent Identity: 40.82%
 E-value: 2.27045e-18
 Query/Sbjct Length: 98
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: FIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1129,7 +1131,7 @@ Title: gb|MBE9020209.1| multicopper oxidase family protein [Chroococcidiopsidale
 Percent Identity: 45.05%
 E-value: 2.54365e-18
 Query/Sbjct Length: 91
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDL-ETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1143,7 +1145,7 @@ Title: ref|WP_036488646.1| multicopper oxidase family protein [Myxosarcina sp. G
 Percent Identity: 50.00%
 E-value: 2.96951e-18
 Query/Sbjct Length: 72
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -1157,7 +1159,7 @@ Title: gb|NER33532.1| multicopper oxidase domain-containing protein [Oscillatori
 Percent Identity: 45.45%
 E-value: 2.99116e-18
 Query/Sbjct Length: 99
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: RNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQV-DRKDPYGKTERIWRDTLLI-----TKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQISN
@@ -1171,7 +1173,7 @@ Title: ref|WP_013325367.1| multicopper oxidase family protein [Gloeothece verruc
 Percent Identity: 44.57%
 E-value: 3.09896e-18
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: NKAQYWDL-ETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1185,7 +1187,7 @@ Title: gb|NES02052.1| multicopper oxidase domain-containing protein [Okeania sp.
 Percent Identity: 45.65%
 E-value: 3.34299e-18
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRK-DPYGKT---------------------ERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1199,7 +1201,7 @@ Title: ref|WP_293093574.1| multicopper oxidase family protein [Okeania sp. SIO2F
 Percent Identity: 45.65%
 E-value: 3.36317e-18
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRK-DPYGKT---------------------ERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1213,7 +1215,7 @@ Title: ref|WP_017325118.1| multicopper oxidase family protein [Synechococcus sp.
 Percent Identity: 42.39%
 E-value: 3.5454e-18
 Query/Sbjct Length: 92
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1227,7 +1229,7 @@ Title: gb|MEX1324736.1| multicopper oxidase family protein [Synechococcaceae cya
 Percent Identity: 46.67%
 E-value: 3.61679e-18
 Query/Sbjct Length: 75
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: AAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1241,7 +1243,7 @@ Title: gb|MEO1004147.1| multicopper oxidase family protein [Cyanobacteria bacter
 Percent Identity: 48.57%
 E-value: 3.68982e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1255,7 +1257,7 @@ Title: gb|RMF27128.1| MAG: multicopper oxidase family protein [Cyanobacteria bac
 Percent Identity: 52.86%
 E-value: 3.79036e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1269,7 +1271,7 @@ Title: ref|WP_323351343.1| multicopper oxidase family protein [Leptolyngbya sp. 
 Percent Identity: 52.11%
 E-value: 4.22582e-18
 Query/Sbjct Length: 71
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1283,7 +1285,7 @@ Title: gb|TAO03934.1| MAG: multicopper oxidase family protein, partial [Phormidi
 Percent Identity: 48.57%
 E-value: 4.26751e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1297,7 +1299,7 @@ Title: ref|WP_194021510.1| multicopper oxidase family protein [Nodosilinea sp. L
 Percent Identity: 46.07%
 E-value: 4.32896e-18
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: QYWDL-ETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1311,7 +1313,7 @@ Title: ref|WP_410253806.1| multicopper oxidase family protein [Sodalinema sp.] >
 Percent Identity: 48.57%
 E-value: 4.3346e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1325,7 +1327,7 @@ Title: gb|MBF2088401.1| multicopper oxidase family protein [Synechococcales cyan
 Percent Identity: 43.82%
 E-value: 4.46146e-18
 Query/Sbjct Length: 89
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: QYWDL-ETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1339,7 +1341,7 @@ Title: ref|WP_323250492.1| multicopper oxidase family protein [Synechococcus sp.
 Percent Identity: 47.89%
 E-value: 4.51399e-18
 Query/Sbjct Length: 71
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1353,7 +1355,7 @@ Title: ref|WP_255100941.1| MULTISPECIES: multicopper oxidase family protein [unc
 Percent Identity: 48.57%
 E-value: 4.61504e-18
 Query/Sbjct Length: 70
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
@@ -1367,7 +1369,7 @@ Title: ref|WP_272125804.1| multicopper oxidase domain-containing protein [Spirul
 Percent Identity: 39.78%
 E-value: 4.61826e-18
 Query/Sbjct Length: 93
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: SRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1381,7 +1383,7 @@ Title: ref|WP_263975598.1| multicopper oxidase domain-containing protein [Leptol
 Percent Identity: 49.30%
 E-value: 5.50726e-18
 Query/Sbjct Length: 71
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: HPFHIHVNPFQVDRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQIS
@@ -1395,7 +1397,7 @@ Title: gb|MEO1131543.1| multicopper oxidase family protein [Cyanobacteria bacter
 Percent Identity: 40.59%
 E-value: 5.59458e-18
 Query/Sbjct Length: 101
-Potential Novel Enzyme: No
+Potential Novel Enzyme: Yes
 
 Alignment:
 Query: FIRGKSRNKAQYWDLETDPNSAAAAPTHPFHIHVNPFQV----DRKDPYGKTERIWRDTLLITKGQPQTVRTRYTVFTGKFVLHCHILDHEDQGMMEAVQI
