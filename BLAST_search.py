@@ -17,7 +17,6 @@ def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDE
     blast_record = NCBIXML.read(result_handle)
     
     with open(output_filename, 'w') as txt_file:
-        txt_file.write(f"BLAST Results for Novel Enzyme Discovery\n{'='*50}\n\n")
         txt_file.write(f"Query Length: {blast_record.query_length}\n")
         txt_file.write(f"E-value threshold: {E_VALUE_THRESH}\n")
         txt_file.write(f"Identity threshold: {IDENTITY_THRESH}\n\n")
@@ -27,12 +26,12 @@ def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDE
             for hsp in alignment.hsps:
                 if hsp.expect < E_VALUE_THRESH:
                     hits_found = True
-                    identity = hsp.identities / hsp.align_length
-                    potential_novelty = "Yes" if identity < IDENTITY_THRESH else "No"
+                    identity = (hsp.identities / hsp.align_length) * 100
+                    potential_novelty = "Yes" if identity < IDENTITY_THRESH*100 else "No"
                     
                     txt_file.write(f"\nHit #{i}\n{'-'*30}\n")
                     txt_file.write(f"Title: {alignment.title}\n")
-                    txt_file.write(f"Identity: {identity:.2%}\n")
+                    txt_file.write(f"Percent Identity: {identity:.2%}\n")
                     txt_file.write(f"E-value: {hsp.expect}\n")
                     txt_file.write(f"Query/Sbjct Length: {hsp.align_length}\n")
                     txt_file.write(f"Potential Novel Enzyme: {potential_novelty}\n\n")
