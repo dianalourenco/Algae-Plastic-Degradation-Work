@@ -1,6 +1,3 @@
-BLAST Results for Novel Enzyme Discovery
-==================================================
-
 Query Length: 260
 E-value threshold: 1e-10
 Identity threshold: 0.3
@@ -9,7 +6,7 @@ Identity threshold: 0.3
 Hit #1
 ------------------------------
 Title: gb|OAB59605.1| laccase [Phormidium willei BDU 130791]
-Identity: 100.00%
+Percent Identity: 100.00%
 E-value: 0.0
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
@@ -23,8 +20,8 @@ Sbjct: MDAWQWQTWQGKPYLTCHLLDPFPHGFFTRNFYPDRPTTLVESLTTDAVVYRTHQVHGNRIAATESLHPISAT
 Hit #2
 ------------------------------
 Title: gb|MFP4219815.1| peptidoglycan editing factor PgeF [Phormidium sp.] >gb|MFP4318251.1| peptidoglycan editing factor PgeF [Phormidium sp.] >gb|MFP4651856.1| peptidoglycan editing factor PgeF [Phormidium sp.]
-Identity: 93.08%
-E-value: 1.18148e-179
+Percent Identity: 93.08%
+E-value: 1.182e-179
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -37,8 +34,8 @@ Sbjct: MDAWQWQTWQGKPYLTCRLLDPFPHGFFTRNFYPDRPITLVESLTTNAVVYRTHQVHGNRIAATESLHPISAT
 Hit #3
 ------------------------------
 Title: gb|KPQ39343.1| MAG: hypothetical protein HLUCCO16_08210 [Phormidium sp. OSCR]
-Identity: 90.77%
-E-value: 2.16507e-175
+Percent Identity: 90.77%
+E-value: 2.16602e-175
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -51,8 +48,8 @@ Sbjct: MDAWQWQTWQGKPYLTCRLLDPFPHGFFTRNFYPDRPITLVESLTTNAVVYRTHQVHGNRIAATDSLKPISAT
 Hit #4
 ------------------------------
 Title: ref|WP_410253799.1| peptidoglycan editing factor PgeF, partial [Sodalinema sp.] >gb|MFO8041284.1| peptidoglycan editing factor PgeF [Sodalinema sp.]
-Identity: 95.48%
-E-value: 2.48174e-152
+Percent Identity: 95.48%
+E-value: 2.48283e-152
 Query/Sbjct Length: 221
 Potential Novel Enzyme: No
 
@@ -65,8 +62,8 @@ Sbjct: LVESLTTDAVVYRTHQVHGNRIAATQSLHPISATHRGTTEEADGLVSDRPEESVWVCTADCTPVLIADVDRGS
 Hit #5
 ------------------------------
 Title: ref|WP_159784944.1| peptidoglycan editing factor PgeF [Sodalinema gerasimenkoae]
-Identity: 80.69%
-E-value: 2.81359e-152
+Percent Identity: 80.69%
+E-value: 2.81482e-152
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -79,8 +76,8 @@ Sbjct: MDAWQWQTWQGKSYLTCRLLDPFPHGFFTREFRPDSPLTLVEGLTADAVVYRTHQVHGNVIADTRSLPPMSEA
 Hit #6
 ------------------------------
 Title: ref|WP_170188539.1| peptidoglycan editing factor PgeF [Geitlerinema sp. P-1104] >gb|NMG57829.1| peptidoglycan editing factor PgeF [Geitlerinema sp. P-1104]
-Identity: 79.23%
-E-value: 6.35718e-149
+Percent Identity: 79.23%
+E-value: 6.35996e-149
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -93,8 +90,8 @@ Sbjct: MDAWQWQTWQGKSYLTCRLLDPFPHGFFTREFRPDSPLTLAQGLKADAVVYRTHQVHGNAIADTRSLTPIVEP
 Hit #7
 ------------------------------
 Title: gb|TVR12790.1| MAG: peptidoglycan editing factor PgeF [Phormidium sp. GEM2.Bin31]
-Identity: 77.22%
-E-value: 4.23297e-145
+Percent Identity: 77.22%
+E-value: 4.23482e-145
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -107,8 +104,8 @@ Sbjct: MDAWQWQTWQGKAYLTCGLLHPVPHGFFTREFSPDSPLTLAQGLKADAVVYRTHQVHGNAIADTRSLTPMVEP
 Hit #8
 ------------------------------
 Title: ref|WP_252663507.1| peptidoglycan editing factor PgeF [Phormidium yuhuli] >gb|USR91490.1| peptidoglycan editing factor PgeF [Phormidium yuhuli AB48]
-Identity: 74.90%
-E-value: 1.90231e-140
+Percent Identity: 74.90%
+E-value: 1.90314e-140
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -121,8 +118,8 @@ Sbjct: MDAWQWQTWQGKSYLTCRLLDPFLHGFFTREFSPDSPLALVKGLNADAPVYRTHQVHGNAIVDTHSLAPICES
 Hit #9
 ------------------------------
 Title: gb|TAN82770.1| MAG: peptidoglycan editing factor PgeF, partial [Phormidium sp. SL48-SHIP]
-Identity: 94.44%
-E-value: 1.79341e-120
+Percent Identity: 94.44%
+E-value: 1.79419e-120
 Query/Sbjct Length: 180
 Potential Novel Enzyme: No
 
@@ -135,8 +132,8 @@ Sbjct: ADGLVSDRPEESVWVCTADCTPVLIADVDRGSVAAIHSGWRGTAAKIVPEAIAQFWNRGSETPNLRVALGPAI
 Hit #10
 ------------------------------
 Title: gb|MBO9999338.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium SID2] >gb|MBP0006014.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium SBC]
-Identity: 63.53%
-E-value: 1.68291e-115
+Percent Identity: 63.53%
+E-value: 1.68365e-115
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -149,8 +146,8 @@ Sbjct: MTTWQWQTWQGKSYLTCRLLEPFTHGFFTQQFRPQTPQDLVRVLAPNTPAYRTQQVHGNAIAKTVDLEPMSPH
 Hit #11
 ------------------------------
 Title: ref|WP_017661575.1| peptidoglycan editing factor PgeF [Baaleninema simplex]
-Identity: 59.70%
-E-value: 2.48488e-107
+Percent Identity: 59.70%
+E-value: 2.48597e-107
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -163,8 +160,8 @@ Sbjct: MTTWQWQTWQGKPYLTCSLLDPFSHGFFTRQFRPDTPRELVRVLDAEATAYRTQQVHGRAIARTCHLEPLASE
 Hit #12
 ------------------------------
 Title: gb|MDY6806460.1| peptidoglycan editing factor PgeF [Cyanobacteriota bacterium]
-Identity: 59.38%
-E-value: 3.65067e-106
+Percent Identity: 59.38%
+E-value: 3.65226e-106
 Query/Sbjct Length: 256
 Potential Novel Enzyme: No
 
@@ -177,8 +174,8 @@ Sbjct: WHWQTWEGLSYLTCSLLKKWPHGFFTQQFSPQGPVELVEILRPNVPAYRIKQVHGNSVLKTTEAVSISQESEG
 Hit #13
 ------------------------------
 Title: gb|MCS6794187.1| peptidoglycan editing factor PgeF [Oscillatoriaceae cyanobacterium SKYG93] >gb|MCX8119551.1| peptidoglycan editing factor PgeF [Oscillatoriaceae cyanobacterium SKW80] >gb|MDW8455018.1| peptidoglycan editing factor PgeF [Oscillatoriaceae cyanobacterium SKYGB_i_bin93] >tpg|HIK28205.1| peptidoglycan editing factor PgeF [Oscillatoriaceae cyanobacterium M7585_C2015_266]
-Identity: 55.60%
-E-value: 3.6664e-101
+Percent Identity: 55.60%
+E-value: 3.66801e-101
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -191,8 +188,8 @@ Sbjct: MHNWHWRTWNGLPYLTCSFLEKWPHGFFTQQFWPRLPAELVEALHPKAETYRVKQVHGNRVLSTKELESTVKA
 Hit #14
 ------------------------------
 Title: gb|NJK38117.1| peptidoglycan editing factor PgeF [Oscillatoriales cyanobacterium SM2_3_0] >gb|NJO46804.1| peptidoglycan editing factor PgeF [Oscillatoriales cyanobacterium RM2_1_1] >gb|NJO71417.1| peptidoglycan editing factor PgeF [Oscillatoriales cyanobacterium RM1_1_9]
-Identity: 56.92%
-E-value: 8.43932e-101
+Percent Identity: 56.92%
+E-value: 8.443e-101
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -205,8 +202,8 @@ Sbjct: MHTWQWRDWQAVPYLTCDLLEPWPHGFFTRQFSPQTPAKLVRALHPQALAYRVKQVHGNQVLKARKVQPYNPT
 Hit #15
 ------------------------------
 Title: gb|MBW4497700.1| peptidoglycan editing factor PgeF [Oscillatoria princeps RMCB-10]
-Identity: 56.12%
-E-value: 2.09672e-100
+Percent Identity: 56.12%
+E-value: 2.09764e-100
 Query/Sbjct Length: 278
 Potential Novel Enzyme: No
 
@@ -219,8 +216,8 @@ Sbjct: MHTWHWQTWNGLPYLTCSLLEQWPHGFFTNQFWPRSPQELVGALRPTARVYRVKQVHGNTVLATGTLTPVSEG
 Hit #16
 ------------------------------
 Title: gb|RMG09840.1| MAG: peptidoglycan editing factor PgeF [Cyanobacteria bacterium J055] >tpg|HIK30387.1| peptidoglycan editing factor PgeF [Oscillatoriales cyanobacterium M4454_W2019_049] >tpg|HIK50310.1| peptidoglycan editing factor PgeF [Oscillatoriales cyanobacterium M59_W2019_021]
-Identity: 59.07%
-E-value: 2.3683e-100
+Percent Identity: 59.07%
+E-value: 2.36934e-100
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -233,8 +230,8 @@ Sbjct: MHAWHWQTWQGKPYLTCSLFAPWQHGFFTQQFSPNSPLALVEALHPQAEVYRTQQVHGNAIVDTESIAPLSPS
 Hit #17
 ------------------------------
 Title: gb|MCU0523443.1| peptidoglycan editing factor PgeF [Elainella sp. Prado103]
-Identity: 56.87%
-E-value: 4.68693e-100
+Percent Identity: 56.87%
+E-value: 4.68898e-100
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -247,8 +244,8 @@ Sbjct: WHWQTWQGLPYLTCSLLNDWSHGFFTQQFAPRPPEALIEILHPAATVYRVKQVHGDQVLNADSLPPVRSTDRD
 Hit #18
 ------------------------------
 Title: ref|WP_236503835.1| peptidoglycan editing factor PgeF [Tychonema sp. BBK16] >gb|MFM9266411.1| peptidoglycan editing factor PgeF [Tychonema sp. BBK16]
-Identity: 56.06%
-E-value: 5.97137e-100
+Percent Identity: 56.06%
+E-value: 5.97398e-100
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -261,8 +258,8 @@ Sbjct: WEWQTWEGLPYLTCSLLAPWSHGFFTAQFSPRGPIDLVEVLSPGAPVYRVKQVHGNLVLKTGEISPVSAGSQG
 Hit #19
 ------------------------------
 Title: ref|WP_368008394.1| peptidoglycan editing factor PgeF [Laspinema palackyanum]
-Identity: 55.64%
-E-value: 6.09289e-100
+Percent Identity: 55.64%
+E-value: 6.09555e-100
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -275,8 +272,8 @@ Sbjct: MHTWHWRNWNGLPYLTCSLLEPWPHGFFTQQFWPRSPEELVEVLEPTASVYRVKQVHGNRVLSTQSLTP-QVR
 Hit #20
 ------------------------------
 Title: ref|WP_187041780.1| MULTISPECIES: peptidoglycan editing factor PgeF [Sphaerospermopsis] >gb|MFM5983633.1| peptidoglycan editing factor PgeF [Sphaerospermopsis kisseleviana] >gb|MBC5797960.1| peptidoglycan editing factor PgeF [Sphaerospermopsis sp. LEGE 00249] >gb|MBE9238144.1| peptidoglycan editing factor PgeF [Sphaerospermopsis aphanizomenoides LEGE 00250] >gb|MFM5988403.1| peptidoglycan editing factor PgeF [Sphaerospermopsis kisseleviana] >gb|MFM5992880.1| peptidoglycan editing factor PgeF [Sphaerospermopsis kisseleviana]
-Identity: 53.28%
-E-value: 9.39495e-100
+Percent Identity: 53.28%
+E-value: 9.39905e-100
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -289,8 +286,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLTPWPHGFFTQQFWPRPPQELTQVLQPEAAAYRLKQVHGNTVLTPQEVDEHLNN
 Hit #21
 ------------------------------
 Title: gb|MEB3147648.1| peptidoglycan editing factor PgeF [Sphaerospermopsis sp.]
-Identity: 53.28%
-E-value: 1.97517e-99
+Percent Identity: 53.28%
+E-value: 1.97603e-99
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -303,8 +300,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLTPWPHGFFTQQFWPRPPQELTQVLQPEAAAYRLKQVHGNTVLTPQEVDEHLNN
 Hit #22
 ------------------------------
 Title: tpg|HLO47502.1| peptidoglycan editing factor PgeF [Kamptonema sp.]
-Identity: 54.72%
-E-value: 2.16242e-99
+Percent Identity: 54.72%
+E-value: 2.16337e-99
 Query/Sbjct Length: 265
 Potential Novel Enzyme: No
 
@@ -317,8 +314,8 @@ Sbjct: WQWHSWEGLPYLTCSWLNSWPHGFFTQNFAPKTPSDLVEVLNPQARVYRVKQVHGARVVKTDRLYPVSSAGDD
 Hit #23
 ------------------------------
 Title: ref|WP_096831730.1| peptidoglycan editing factor PgeF [Tychonema bourrellyi] >gb|MDQ2098025.1| peptidoglycan editing factor PgeF [Tychonema bourrellyi B0820] >gb|PHX56438.1| peptidoglycan editing factor PgeF [Tychonema bourrellyi FEM_GT703]
-Identity: 55.68%
-E-value: 2.18919e-99
+Percent Identity: 55.68%
+E-value: 2.19014e-99
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -331,8 +328,8 @@ Sbjct: WEWQTWEGLPYLTCSLLEPWCHGFFTAQFSPRSPIDLVEVLSPGAQVYRVKQVHGNVVLKTGEVSPVSAGSPG
 Hit #24
 ------------------------------
 Title: ref|WP_096572868.1| MULTISPECIES: peptidoglycan editing factor PgeF [Sphaerospermopsis] >gb|MBD2133595.1| peptidoglycan editing factor PgeF [Sphaerospermopsis sp. FACHB-1094] >gb|MBD2146718.1| peptidoglycan editing factor PgeF [Sphaerospermopsis sp. FACHB-1194] >gb|MDB9440601.1| peptidoglycan editing factor PgeF [Sphaerospermopsis kisseleviana CS-549] >gb|QYX32658.1| peptidoglycan editing factor PgeF [Sphaerospermopsis torques-reginae ITEP-024] >dbj|GCL36039.1| hypothetical protein SR1949_11390 [Sphaerospermopsis reniformis]
-Identity: 53.28%
-E-value: 2.30167e-99
+Percent Identity: 53.28%
+E-value: 2.30268e-99
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -345,8 +342,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLTPWPHGFFTQQFWPRPPQELTQVLQPEAAAYRLKQVHGNTVLTPQEVDEHLNN
 Hit #25
 ------------------------------
 Title: gb|NJR22145.1| peptidoglycan editing factor PgeF [Richelia sp. CSU_2_1]
-Identity: 56.49%
-E-value: 2.38792e-99
+Percent Identity: 56.49%
+E-value: 2.38896e-99
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -359,8 +356,8 @@ Sbjct: AWQWQSWEGLPYLTCSLLARWEHGFFTQHFSPKGPIDLVGALHPEAQVYRVKQVHGNAVLATGAVRSLAGTQT
 Hit #26
 ------------------------------
 Title: ref|WP_026098378.1| peptidoglycan editing factor PgeF [Oscillatoria sp. PCC 10802]
-Identity: 54.29%
-E-value: 3.92018e-99
+Percent Identity: 54.29%
+E-value: 3.92189e-99
 Query/Sbjct Length: 280
 Potential Novel Enzyme: No
 
@@ -373,8 +370,8 @@ Sbjct: MHTWHWQTWNGLPYLTCSLLEQWPHGFFTNQFWPRSPQELVGALRPTARVYRVKQVHGNTVLPTGTLTPVSEG
 Hit #27
 ------------------------------
 Title: gb|OCQ93313.1| laccase [Oscillatoriales cyanobacterium USR001]
-Identity: 55.06%
-E-value: 4.85291e-99
+Percent Identity: 55.06%
+E-value: 4.85503e-99
 Query/Sbjct Length: 267
 Potential Novel Enzyme: No
 
@@ -387,8 +384,8 @@ Sbjct: WHWHNWEGLPYLTCSLLDAWPHGFFTQNFSPKTPSDLVKILHSQSRVYRVKQVHGNIVLKTSEIRPFSTPEDS
 Hit #28
 ------------------------------
 Title: ref|WP_371119572.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2228174.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2232950.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2245212.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2273488.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2285597.1| peptidoglycan editing factor PgeF [Microcoleus sp.]
-Identity: 57.41%
-E-value: 5.24277e-99
+Percent Identity: 57.41%
+E-value: 5.24506e-99
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -401,8 +398,8 @@ Sbjct: WQWQSWEGLPYLTCSLLEPWKHGFFTAPFSPRTPIDLVQVLSPGAPVYRVKQVHGNSVLQTGQVAPVSVSGPG
 Hit #29
 ------------------------------
 Title: gb|MFM7406180.1| peptidoglycan editing factor PgeF [Cuspidothrix sp.]
-Identity: 54.05%
-E-value: 5.63868e-99
+Percent Identity: 54.05%
+E-value: 5.64114e-99
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -415,8 +412,8 @@ Sbjct: MHIWHWQNWQGLPYLTCSLLKPWPHGFFTQQFWPRPPDELTQALQPEASAYRLKQVHGNTVLTPQEIDDYINT
 Hit #30
 ------------------------------
 Title: ref|WP_371117778.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2236171.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2252019.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2279866.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2303374.1| peptidoglycan editing factor PgeF [Microcoleus sp.] >gb|MEZ2318237.1| peptidoglycan editing factor PgeF [Microcoleus sp.]
-Identity: 57.41%
-E-value: 6.88783e-99
+Percent Identity: 57.41%
+E-value: 6.89083e-99
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -429,8 +426,8 @@ Sbjct: WQWQSWEGLPYLTCSLLEPWKHGFFTAPFSPRTPIDLVQVLSPGAPVYRVKQVHGNSVLQTGQVAPVSVSGPG
 Hit #31
 ------------------------------
 Title: ref|WP_323313987.1| peptidoglycan editing factor PgeF [Anabaena cylindrica] >gb|MEA5554001.1| peptidoglycan editing factor PgeF [Anabaena cylindrica UHCC 0172]
-Identity: 53.67%
-E-value: 7.79144e-99
+Percent Identity: 53.67%
+E-value: 7.79484e-99
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -443,8 +440,8 @@ Sbjct: MHTWHWRNWEGLPYLTCNLLEPWPHGFFTQQFWPRPPDELTKVLQPEALAYRLQQVHGNTVLTPEEVDSQLKS
 Hit #32
 ------------------------------
 Title: gb|MEB3280198.1| peptidoglycan editing factor PgeF [Lyngbya sp.]
-Identity: 54.96%
-E-value: 8.05103e-99
+Percent Identity: 54.96%
+E-value: 8.05454e-99
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -457,8 +454,8 @@ Sbjct: MHTWYWHQWQDLPYLKCSLLDSWPHGFFSRHFSPRSPAELVAVLDPDAAAYRVKQVHGNLVLNTTEVTPIVSG
 Hit #33
 ------------------------------
 Title: ref|WP_368012044.1| peptidoglycan editing factor PgeF [Laspinema palackyanum]
-Identity: 55.64%
-E-value: 8.38804e-99
+Percent Identity: 55.64%
+E-value: 8.39171e-99
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -471,8 +468,8 @@ Sbjct: MHTWHWRNWNGLPYLTCSLLEPWAHGFFTQQFWPRSPEELVEVLEPTASVYRVKQVHGNRVLSTQSLTP-QVR
 Hit #34
 ------------------------------
 Title: ref|WP_341737719.1| peptidoglycan editing factor PgeF [Microcoleus sp. CAWBG640]
-Identity: 57.03%
-E-value: 9.66153e-99
+Percent Identity: 57.03%
+E-value: 9.66575e-99
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -485,8 +482,8 @@ Sbjct: WQWQSWEGLPYLTCSLLESWQHGFFTAPFSPRTPIDLVEVLSPGAPVYRVKQVHGNSVLQTGQVAPVSASGLG
 Hit #35
 ------------------------------
 Title: gb|MBO1043557.1| peptidoglycan editing factor PgeF [Aphanizomenon flos-aquae UKL13-PB] >gb|MBO1061935.1| peptidoglycan editing factor PgeF [Aphanizomenon flos-aquae CP01] >gb|MFN5241156.1| peptidoglycan editing factor PgeF [Aphanizomenon sp.] >gb|OBQ26769.1| MAG: laccase [Aphanizomenon flos-aquae LD13] >gb|OBQ29120.1| MAG: laccase [Aphanizomenon flos-aquae MDT14a] >tpg|HCQ22058.1| peptidoglycan editing factor PgeF [Anabaena sp. UBA12330]
-Identity: 54.05%
-E-value: 9.96223e-99
+Percent Identity: 54.05%
+E-value: 9.96658e-99
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -499,8 +496,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWSHGFFTQQFWPRLPHELTQVLQPDALAYRLKQVHGNTVLTPQEVDDHLNS
 Hit #36
 ------------------------------
 Title: ref|WP_168359125.1| peptidoglycan editing factor PgeF [Dolichospermum planctonicum] >gb|MCW9681767.1| peptidoglycan editing factor PgeF [Dolichospermum planctonicum UHCC 0167]
-Identity: 54.83%
-E-value: 1.05886e-98
+Percent Identity: 54.83%
+E-value: 1.05932e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -513,8 +510,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTEALQPEALVYRLKQVHGNTVLTPQEVAHYVNI
 Hit #37
 ------------------------------
 Title: gb|MCU0517895.1| peptidoglycan editing factor PgeF [Oscillatoria sp. Prado101]
-Identity: 53.93%
-E-value: 1.20722e-98
+Percent Identity: 53.93%
+E-value: 1.20775e-98
 Query/Sbjct Length: 280
 Potential Novel Enzyme: No
 
@@ -527,8 +524,8 @@ Sbjct: MHTWHWQTWNGLPYLTCSLLEQWPHGFFTNQFWPRSPQELVGALHPTARVYRVKQVHGNTVLATGTLTPLSQG
 Hit #38
 ------------------------------
 Title: ref|WP_190492058.1| peptidoglycan editing factor PgeF [Microcoleus sp. FACHB-831] >gb|MBD1924635.1| peptidoglycan editing factor PgeF [Microcoleus sp. FACHB-831]
-Identity: 53.99%
-E-value: 1.21832e-98
+Percent Identity: 53.99%
+E-value: 1.21885e-98
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -541,8 +538,8 @@ Sbjct: MHSWHWRSWEGLPYLTCSLLEKWPHGFFTKQFSPQYPAELVKVLQPDAGVYRVKQVHGNAVLTPSEIEAAMSS
 Hit #39
 ------------------------------
 Title: ref|WP_194057227.1| peptidoglycan editing factor PgeF [Sphaerospermopsis sp. LEGE 08334] >gb|MBE9057696.1| peptidoglycan editing factor PgeF [Sphaerospermopsis sp. LEGE 08334]
-Identity: 52.90%
-E-value: 1.42735e-98
+Percent Identity: 52.90%
+E-value: 1.42797e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -555,8 +552,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLTPWPHGFFTQQFWPRLPQELTKVLQPEAAAYRLKQVHGNTVLTPQEVDEHLNN
 Hit #40
 ------------------------------
 Title: gb|MBD1215863.1| peptidoglycan editing factor PgeF [Aphanizomenon flos-aquae Clear-A1] >gb|MEI6368371.1| peptidoglycan editing factor PgeF [Nostocales cyanobacterium ELA608] >gb|MFN4877032.1| peptidoglycan editing factor PgeF [Aphanizomenon sp.] >gb|MFO5507045.1| peptidoglycan editing factor PgeF [Dolichospermum sp.] >gb|NTW18753.1| peptidoglycan editing factor PgeF [Nostocales cyanobacterium W4_Combined_metabat2_030] >gb|OBQ21868.1| MAG: laccase [Anabaena sp. WA113] >gb|OBQ42112.1| MAG: laccase [Aphanizomenon flos-aquae WA102]
-Identity: 53.67%
-E-value: 1.79719e-98
+Percent Identity: 53.67%
+E-value: 1.79797e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -569,8 +566,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWSHGFFTQQFWPRLPHELTQVLQPDALAYRLKQVHGNTVLTPQEVDDHLNS
 Hit #41
 ------------------------------
 Title: tpg|HBK64490.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium UBA11166]
-Identity: 56.49%
-E-value: 1.80845e-98
+Percent Identity: 56.49%
+E-value: 1.80924e-98
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -583,8 +580,8 @@ Sbjct: MNAWQWQTWDDLPYLTCSLLEPWQHGFFTQHFSPRLPDRIAIALQSDAKVYRVKQVHGNTVLTPTEIDRAIPD
 Hit #42
 ------------------------------
 Title: ref|WP_272031878.1| peptidoglycan editing factor PgeF [Kamptonema animale] >gb|MDB9511686.1| peptidoglycan editing factor PgeF [Kamptonema animale CS-326]
-Identity: 56.02%
-E-value: 2.21396e-98
+Percent Identity: 56.02%
+E-value: 2.21492e-98
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -597,8 +594,8 @@ Sbjct: WQWRSWEGLPYLTCSLLDSWPHGFFTQNFSPKTPSDLVEVLHPQARVYRVKQVHGNGVFKTSEIRPFSNPDDD
 Hit #43
 ------------------------------
 Title: ref|WP_190387132.1| MULTISPECIES: peptidoglycan editing factor PgeF [Aphanizomenon] >gb|MCE2906011.1| peptidoglycan editing factor PgeF [Anabaena sp. CoA2_C59] >gb|MDJ0504996.1| peptidoglycan editing factor PgeF [Nostocales cyanobacterium LE14-WE12] >gb|MFN4953003.1| peptidoglycan editing factor PgeF [Aphanizomenon sp.] >gb|MBD2391434.1| peptidoglycan editing factor PgeF [Aphanizomenon flos-aquae FACHB-1171] >gb|MBD2557163.1| peptidoglycan editing factor PgeF [Aphanizomenon flos-aquae FACHB-1290]
-Identity: 53.67%
-E-value: 2.93846e-98
+Percent Identity: 53.67%
+E-value: 2.93974e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -611,8 +608,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWSHGFFTQQFWPRLPHELTQVLQPDALAYRLKQVHGNTVLTPQEVDDHLNS
 Hit #44
 ------------------------------
 Title: gb|MCU0542346.1| peptidoglycan editing factor PgeF [Oscillatoriaceae cyanobacterium Prado104]
-Identity: 56.87%
-E-value: 3.58024e-98
+Percent Identity: 56.87%
+E-value: 3.58181e-98
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -625,8 +622,8 @@ Sbjct: AWQWQSWEGLSYLTCSLLARWDHGFFTQQFSPRGPIELVGALRPEAQVYRVKQVHGNAVLNTGTVRALAASET
 Hit #45
 ------------------------------
 Title: ref|WP_254563482.1| peptidoglycan editing factor PgeF [Oscillatoria sp. HE19RPO]
-Identity: 54.92%
-E-value: 3.5868e-98
+Percent Identity: 54.92%
+E-value: 3.58837e-98
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -639,8 +636,8 @@ Sbjct: MHTWHWRNWNGLPYLTCSLLEPWPHGFFTQQFWPRSPQELVEVLQPTASVYRVKQVHGNTVLSTQMLTPQVRE
 Hit #46
 ------------------------------
 Title: ref|WP_190559437.1| peptidoglycan editing factor PgeF [Anabaena sphaerica] >gb|MBD2293732.1| peptidoglycan editing factor PgeF [Anabaena sphaerica FACHB-251]
-Identity: 54.05%
-E-value: 3.73338e-98
+Percent Identity: 54.05%
+E-value: 3.73501e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -653,8 +650,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLAPWPHGFFTQQFWPRPPQELTKVLQPEAAAYRLKQVHGNTVLTPQEVDQHLND
 Hit #47
 ------------------------------
 Title: gb|MDX2097190.1| peptidoglycan editing factor PgeF [Leptolyngbyaceae cyanobacterium bins.59]
-Identity: 56.54%
-E-value: 4.77015e-98
+Percent Identity: 56.54%
+E-value: 4.77224e-98
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -667,8 +664,8 @@ Sbjct: MHTWHWHTWEGLPYLTCSLLDPWPHGFFTNHFWPQNPLDLTPVLHPIAPFYRTRQVHGNVVLTPTEIGASAAT
 Hit #48
 ------------------------------
 Title: gb|NJK66834.1| peptidoglycan editing factor PgeF [Microcoleus sp. SU_5_3] >gb|NJS09895.1| peptidoglycan editing factor PgeF [Microcoleus sp. CSU_2_2]
-Identity: 55.89%
-E-value: 4.96733e-98
+Percent Identity: 55.89%
+E-value: 4.9695e-98
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -681,8 +678,8 @@ Sbjct: WQWQSWEGLPYLTCSLLSMWSHGFFTAQFSPRGPSDLTEVLSPGARVYRLKQVHGNAVLKTGLLNPVAASPTG
 Hit #49
 ------------------------------
 Title: ref|WP_193848941.1| peptidoglycan editing factor PgeF [Dolichospermum flos-aquae] >gb|MBE9219496.1| peptidoglycan editing factor PgeF [Dolichospermum flos-aquae LEGE 04289]
-Identity: 54.44%
-E-value: 5.04954e-98
+Percent Identity: 54.44%
+E-value: 5.05174e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -695,8 +692,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTEALQPEALVYRLKQVHGNTVLTPQEVDHYVNI
 Hit #50
 ------------------------------
 Title: ref|WP_137908091.1| MULTISPECIES: peptidoglycan editing factor PgeF [Nostocales] >gb|MBD2141848.1| peptidoglycan editing factor PgeF [Anabaena sp. FACHB-1250] >gb|MBD2268000.1| peptidoglycan editing factor PgeF [Anabaena sp. FACHB-1391] >dbj|GCL42487.1| hypothetical protein NIES80_21930 [Dolichospermum planctonicum]
-Identity: 54.44%
-E-value: 6.28248e-98
+Percent Identity: 54.44%
+E-value: 6.28522e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -709,8 +706,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTEALQPEALVYRLKQVHGNTVLTPQEVDHYVNI
 Hit #51
 ------------------------------
 Title: gb|MFM2063778.1| peptidoglycan editing factor PgeF [Cyanobacteriota bacterium]
-Identity: 53.67%
-E-value: 7.03574e-98
+Percent Identity: 53.67%
+E-value: 7.03881e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -723,8 +720,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLTPWPHGFFTQQFWPRPPHELTKVLQADAAAYRLKQVHGNTVLTPQEVDEHLNN
 Hit #52
 ------------------------------
 Title: ref|WP_028082843.1| peptidoglycan editing factor PgeF [Dolichospermum circinale] >gb|MDB9457657.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-545/17] >gb|MDB9452874.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-541/06] >gb|MDB9463915.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-541/04] >gb|MDB9466889.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-539/09] >gb|MDB9472119.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-539]
-Identity: 54.83%
-E-value: 7.08458e-98
+Percent Identity: 54.83%
+E-value: 7.08767e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -737,8 +734,8 @@ Sbjct: MHTWHWHNWQGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTQALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #53
 ------------------------------
 Title: gb|QSV66546.1| MAG: peptidoglycan editing factor PgeF [Aphanizomenon flos-aquae DEX188]
-Identity: 53.28%
-E-value: 7.11956e-98
+Percent Identity: 53.28%
+E-value: 7.12267e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -751,8 +748,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWSHGFFTQQFWPRLPHELTQVLQPEALAYRLKQVHGNTVLTPQEVDDHLNS
 Hit #54
 ------------------------------
 Title: ref|WP_323292552.1| peptidoglycan editing factor PgeF [Crocosphaera sp. XPORK-15E] >gb|MEA5535547.1| peptidoglycan editing factor PgeF [Crocosphaera sp. XPORK-15E]
-Identity: 55.60%
-E-value: 7.84625e-98
+Percent Identity: 55.60%
+E-value: 7.84968e-98
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -765,8 +762,8 @@ Sbjct: WQWQAGEGLPYLTCSLLQAWPHGFFTQPFYPRTPESLTEILHPEAIAYRLKQVHGNRV-----LSPAEIAAEG
 Hit #55
 ------------------------------
 Title: gb|OBQ36322.1| MAG: laccase [Anabaena sp. CRKS33]
-Identity: 54.44%
-E-value: 1.08474e-97
+Percent Identity: 54.44%
+E-value: 1.08521e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -779,8 +776,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTQALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #56
 ------------------------------
 Title: ref|WP_271794679.1| peptidoglycan editing factor PgeF [Dolichospermum planctonicum] >gb|MDB9534610.1| peptidoglycan editing factor PgeF [Dolichospermum planctonicum CS-1226]
-Identity: 54.44%
-E-value: 1.17093e-97
+Percent Identity: 54.44%
+E-value: 1.17144e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -793,8 +790,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTEALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #57
 ------------------------------
 Title: ref|WP_036533155.1| peptidoglycan editing factor PgeF [Neosynechococcus sphagnicola] >gb|KGF72708.1| laccase [Neosynechococcus sphagnicola sy1]
-Identity: 54.02%
-E-value: 1.17682e-97
+Percent Identity: 54.02%
+E-value: 1.17733e-97
 Query/Sbjct Length: 261
 Potential Novel Enzyme: No
 
@@ -807,8 +804,8 @@ Sbjct: MHTWYWCNWEGLPYLRCHLLDAWPHGFFTRSFAPRSPLELSAILQPTAQIYRIKQVHGNTVLAT---HEITHT
 Hit #58
 ------------------------------
 Title: ref|WP_190429690.1| MULTISPECIES: peptidoglycan editing factor PgeF [Cyanophyceae] >gb|MBD1880375.1| peptidoglycan editing factor PgeF [Coleofasciculus sp. FACHB-T130] >gb|MBD1944120.1| peptidoglycan editing factor PgeF [Coleofasciculus sp. FACHB-712] >gb|MBD2086721.1| peptidoglycan editing factor PgeF [Coleofasciculus sp. FACHB-542]
-Identity: 53.79%
-E-value: 1.18091e-97
+Percent Identity: 53.79%
+E-value: 1.18142e-97
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -821,8 +818,8 @@ Sbjct: MNTWHWRTWEGLPYLTCSLLERWSHGFFTQQFSPRSPAELVSVLQPDAKVYRVKQVHGNRVMTPSEIE--AAT
 Hit #59
 ------------------------------
 Title: tpg|HBR77130.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium UBA11159] >tpg|HBS67618.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium UBA11153] >tpg|HBW88543.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium UBA11149] >tpg|HCA95150.1| peptidoglycan editing factor PgeF [Cyanobacteria bacterium UBA9226]
-Identity: 55.89%
-E-value: 1.39454e-97
+Percent Identity: 55.89%
+E-value: 1.39515e-97
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -835,8 +832,8 @@ Sbjct: MNAWQWQTWDDLPYLTCSLLEPWQHGFFTQHFSPRLPDRIAIALQSDAKVYRVKQVHGNTVLTPTEIDRAIPD
 Hit #60
 ------------------------------
 Title: ref|WP_413174725.1| peptidoglycan editing factor PgeF [Anabaena azotica] >gb|XNO57414.1| peptidoglycan editing factor PgeF [Anabaena azotica SJ-1]
-Identity: 52.90%
-E-value: 1.70466e-97
+Percent Identity: 52.90%
+E-value: 1.7054e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -849,8 +846,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLEVWPHGFFTQQFWPRLPHELTKVLQPEALAYRLKQVHGNTVLTPQEVDKHLLN
 Hit #61
 ------------------------------
 Title: ref|WP_261234965.1| peptidoglycan editing factor PgeF [Laspinema olomoucense] >gb|MCT7977480.1| peptidoglycan editing factor PgeF [Laspinema olomoucense D3b]
-Identity: 54.68%
-E-value: 1.71062e-97
+Percent Identity: 54.68%
+E-value: 1.71136e-97
 Query/Sbjct Length: 267
 Potential Novel Enzyme: No
 
@@ -863,8 +860,8 @@ Sbjct: MHTWRWRNWNGLPYLTCSLLEPWAHGFFTQQFWPRSPEELVEVLQPTASVYRVKQVHGNVVLSTQTLTP-QVR
 Hit #62
 ------------------------------
 Title: ref|WP_023068714.1| peptidoglycan editing factor PgeF [Lyngbya aestuarii] >gb|ERT05050.1| multi-copper polyphenol oxidoreductase laccase family protein [Lyngbya aestuarii BL J]
-Identity: 54.96%
-E-value: 1.80963e-97
+Percent Identity: 54.96%
+E-value: 1.81042e-97
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -877,8 +874,8 @@ Sbjct: MHTWHWHQWQELPYLKCSLLESWPHGFFSRHFSPRTPAELVEVLEPNAAAYRVKQVHGNLVLGTAQVRPLPAS
 Hit #63
 ------------------------------
 Title: ref|WP_271808766.1| peptidoglycan editing factor PgeF [Dolichospermum circinale] >gb|MDB9489810.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-534/05]
-Identity: 54.44%
-E-value: 2.20631e-97
+Percent Identity: 54.44%
+E-value: 2.20727e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -891,8 +888,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTQALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #64
 ------------------------------
 Title: gb|MEY3401677.1| peptidoglycan editing factor PgeF [Cyanobacteriota bacterium]
-Identity: 54.05%
-E-value: 2.23054e-97
+Percent Identity: 54.05%
+E-value: 2.23151e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -905,8 +902,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTQALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #65
 ------------------------------
 Title: ref|WP_190439926.1| MULTISPECIES: peptidoglycan editing factor PgeF [Cyanophyceae] >gb|MBD1838982.1| peptidoglycan editing factor PgeF [Coleofasciculus sp. FACHB-501] >gb|MBD2048462.1| peptidoglycan editing factor PgeF [Coleofasciculus sp. FACHB-64]
-Identity: 53.58%
-E-value: 2.35013e-97
+Percent Identity: 53.58%
+E-value: 2.35116e-97
 Query/Sbjct Length: 265
 Potential Novel Enzyme: No
 
@@ -919,8 +916,8 @@ Sbjct: MNTWHWRTWEGLPYLTCSLLERWSHGFFTQQFLPRSPAELVSVLQPDAKVYRVKQVHGNRVMTPSEIE--AAT
 Hit #66
 ------------------------------
 Title: ref|WP_193937628.1| peptidoglycan editing factor PgeF [Cuspidothrix issatschenkoi] >gb|MBE9232860.1| peptidoglycan editing factor PgeF [Cuspidothrix issatschenkoi LEGE 03284]
-Identity: 52.90%
-E-value: 2.72923e-97
+Percent Identity: 52.90%
+E-value: 2.73042e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -933,8 +930,8 @@ Sbjct: MQTWQWHNWEGLPYLTCNLLKPWPHGFFTQQFWPRPPHELTQALQPEALAYRLKQVHGNTVLTPQEVDHHLNT
 Hit #67
 ------------------------------
 Title: gb|TAD78443.1| MAG: peptidoglycan editing factor PgeF [Oscillatoriales cyanobacterium]
-Identity: 55.43%
-E-value: 2.78952e-97
+Percent Identity: 55.43%
+E-value: 2.79074e-97
 Query/Sbjct Length: 267
 Potential Novel Enzyme: No
 
@@ -947,8 +944,8 @@ Sbjct: MTRWHWCNWQGLPYLTCSLLEPLPHGFFTRDFSPRTPAELSVILDDRAQTFRVKQVHGDRVLVPAEIQAGQVM
 Hit #68
 ------------------------------
 Title: gb|MDY6940293.1| peptidoglycan editing factor PgeF [Cyanobacteriota bacterium]
-Identity: 57.09%
-E-value: 3.23364e-97
+Percent Identity: 57.09%
+E-value: 3.23506e-97
 Query/Sbjct Length: 261
 Potential Novel Enzyme: No
 
@@ -961,8 +958,8 @@ Sbjct: MHTWHWQTWEGMPYLTCSLLDSWQHGFFTQQFAPRTPVDLVEVLHPHAGVYRTKQVHGNVVPLTSELEPLSGA
 Hit #69
 ------------------------------
 Title: ref|WP_190393524.1| peptidoglycan editing factor PgeF [Dolichospermum sp. FACHB-1091] >gb|MBD2444866.1| peptidoglycan editing factor PgeF [Dolichospermum sp. FACHB-1091]
-Identity: 52.90%
-E-value: 3.3588e-97
+Percent Identity: 52.90%
+E-value: 3.36027e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -975,8 +972,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWTHGFFTQWFWPRSPHELTQALQPGALAYRLKQVHGNTVLTPQEIHHYVNT
 Hit #70
 ------------------------------
 Title: gb|MBV8887768.1| peptidoglycan editing factor PgeF [Chroococcidiopsidaceae cyanobacterium CP_BM_RX_35]
-Identity: 55.17%
-E-value: 3.71214e-97
+Percent Identity: 55.17%
+E-value: 3.71376e-97
 Query/Sbjct Length: 261
 Potential Novel Enzyme: No
 
@@ -989,8 +986,8 @@ Sbjct: MHTWHWQTWEGLPYLTCSLLSPWSHGFFTQQFWPRSPLELVQVLQPDAEVYQLKQVHGNTVLTPSEIG--SSI
 Hit #71
 ------------------------------
 Title: tpg|HEY9689345.1| peptidoglycan editing factor PgeF [Coleofasciculaceae cyanobacterium]
-Identity: 54.68%
-E-value: 4.08868e-97
+Percent Identity: 54.68%
+E-value: 4.09047e-97
 Query/Sbjct Length: 267
 Potential Novel Enzyme: No
 
@@ -1003,8 +1000,8 @@ Sbjct: MTRWHWRTWDGLPYLTCSLLEPLPHGFFTRDFSPRTPAELAPVLDERAQTFRVKQVHGDRVLAPSELEPGQVV
 Hit #72
 ------------------------------
 Title: ref|WP_071189004.1| peptidoglycan editing factor PgeF [Trichormus sp. NMC-1]
-Identity: 52.51%
-E-value: 4.1336e-97
+Percent Identity: 52.51%
+E-value: 4.1354e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1017,8 +1014,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLESWPHGFFTQQFWPRPPHELTKVLQPDALVYRLQQVHGNTVLTPQEVDIQLST
 Hit #73
 ------------------------------
 Title: ref|WP_261196677.1| peptidoglycan editing factor PgeF [Laspinema olomoucense] >gb|MCT7986894.1| peptidoglycan editing factor PgeF [Laspinema olomoucense D3a]
-Identity: 55.47%
-E-value: 4.23558e-97
+Percent Identity: 55.47%
+E-value: 4.23743e-97
 Query/Sbjct Length: 265
 Potential Novel Enzyme: No
 
@@ -1031,8 +1028,8 @@ Sbjct: MHTWRWRNWNGLPYLTCSLLEPWAHGFFTQQFWPRSPEELVEVLQPTASVYRVKQVHGNVVLSTQTLTP-QVR
 Hit #74
 ------------------------------
 Title: gb|MDD1414663.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_con] >gb|MDD1419392.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed1] >gb|MDD1423404.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed9] >gb|MDD1431603.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed6] >gb|MDD1437018.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed10] >gb|MDD1439025.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed3] >gb|MDD1445718.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed8] >gb|MDD1453851.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed7] >gb|MDD1459646.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed2] >gb|MDD1468748.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed5] >gb|MDD1471156.1| peptidoglycan editing factor PgeF [Dolichospermum sp. ST_sed4]
-Identity: 53.67%
-E-value: 4.5111e-97
+Percent Identity: 53.67%
+E-value: 4.51307e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1045,8 +1042,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWSHGFFTQKFWPRLPHELTQALQPDALAYRLKQVHGNTVLTPQEVEDHVNT
 Hit #75
 ------------------------------
 Title: gb|MEP0880639.1| peptidoglycan editing factor PgeF [Trichocoleus sp. ST-U3]
-Identity: 53.41%
-E-value: 4.57759e-97
+Percent Identity: 53.41%
+E-value: 4.57959e-97
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -1059,8 +1056,8 @@ Sbjct: INTWHWRTWEGLPYLTCSLLERWSHGFFTQQFSPRSPAELVSVLQPDAKVYRVKQVHGNRVMTPSEIE--AAT
 Hit #76
 ------------------------------
 Title: gb|MFN5594295.1| peptidoglycan editing factor PgeF [Aphanizomenon sp.]
-Identity: 53.28%
-E-value: 6.39883e-97
+Percent Identity: 53.28%
+E-value: 6.40163e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1073,8 +1070,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWSHGFFTQQFWPRLPHELTQVLQPDALAYRLKQVHGNTVLTPQEVDDHLNS
 Hit #77
 ------------------------------
 Title: gb|MEP0758386.1| peptidoglycan editing factor PgeF [Trichocoleus sp. DQ-A2]
-Identity: 53.41%
-E-value: 6.52186e-97
+Percent Identity: 53.41%
+E-value: 6.52471e-97
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -1087,8 +1084,8 @@ Sbjct: INTWHWRTWEGLPYLTCSLLERWSHGFFTQQFSPRSPAELVSVLQPDAKVYRVKQVHGNRVMTPSEIE--AAT
 Hit #78
 ------------------------------
 Title: ref|WP_190717843.1| peptidoglycan editing factor PgeF [Anabaena lutea] >gb|MBD2570260.1| peptidoglycan editing factor PgeF [Anabaena lutea FACHB-196]
-Identity: 52.51%
-E-value: 7.37524e-97
+Percent Identity: 52.51%
+E-value: 7.37846e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1101,8 +1098,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLESWPHGFFTQQFWPRPPHELTKVLQPQALAYRLQQVHGNTVLTPQEVDIQLST
 Hit #79
 ------------------------------
 Title: tpg|HLO87029.1| peptidoglycan editing factor PgeF [Nostocaceae cyanobacterium]
-Identity: 53.08%
-E-value: 7.78261e-97
+Percent Identity: 53.08%
+E-value: 7.78601e-97
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -1115,8 +1112,8 @@ Sbjct: MHTWHWRDWQGMPYLTCNLLELWPHGFFTQQFWPLPPQELTKTLHPEAATYRLKQVHGNSVLTPQEIDRFLSS
 Hit #80
 ------------------------------
 Title: ref|WP_008318418.1| peptidoglycan editing factor PgeF [Leptolyngbya sp. PCC 6406]
-Identity: 53.76%
-E-value: 7.94646e-97
+Percent Identity: 53.76%
+E-value: 7.94993e-97
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -1129,8 +1126,8 @@ Sbjct: WSWSTWEGQPYLTTDLLSPWPHGFFTAQSWPQTPETLTPGLASPAMVYRAQQVHGNRIVQPEDFPPGVSVDPL
 Hit #81
 ------------------------------
 Title: ref|WP_261248981.1| peptidoglycan editing factor PgeF [Laspinema olomoucense] >gb|MCT7972357.1| peptidoglycan editing factor PgeF [Laspinema olomoucense D3d]
-Identity: 54.14%
-E-value: 8.24692e-97
+Percent Identity: 54.14%
+E-value: 8.25052e-97
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -1143,8 +1140,8 @@ Sbjct: MHTWRWRNWNGLPYLTCSLLEPWAHGFFTQQFWPRSPEELVEVLQPTASVYRVKQVHGNVVLSTQTLTPQVRE
 Hit #82
 ------------------------------
 Title: ref|WP_348237685.1| peptidoglycan editing factor PgeF [Trichocoleus sp. Lan]
-Identity: 54.17%
-E-value: 8.3441e-97
+Percent Identity: 54.17%
+E-value: 8.34775e-97
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -1157,8 +1154,8 @@ Sbjct: MNTWHWRTWEGLPYLTCSLLERWSHGFFTQQFSPRSPAELVNVLQPDARVYRVKQVHGNTVMTPSEIE--AAT
 Hit #83
 ------------------------------
 Title: ref|WP_353929147.1| peptidoglycan editing factor PgeF [Okeanomitos corallinicola] >gb|WZB86231.1| peptidoglycan editing factor PgeF [Okeanomitos corallinicola TIOX110]
-Identity: 51.74%
-E-value: 8.57921e-97
+Percent Identity: 51.74%
+E-value: 8.58296e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1171,8 +1168,8 @@ Sbjct: MHTWNWQSWQGMSYLTCNLLKSWPHGFFTRQYWPRLPPELTTALQPEAVTYRLKQVHGNTVLTPQEVNEFLHS
 Hit #84
 ------------------------------
 Title: gb|MFO5493549.1| peptidoglycan editing factor PgeF [Cuspidothrix sp.] >gb|MFO5529399.1| peptidoglycan editing factor PgeF [Cuspidothrix sp.]
-Identity: 52.51%
-E-value: 9.27693e-97
+Percent Identity: 52.51%
+E-value: 9.28098e-97
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1185,8 +1182,8 @@ Sbjct: MHTWQWHNWEGLPYLTCNLLEPWPHGFFTQQFWPRPPHELTQALQPNASAYRLKQVHGNTVLTPQEVDHLLNT
 Hit #85
 ------------------------------
 Title: ref|WP_323358906.1| peptidoglycan editing factor PgeF [Anabaena sp. UHCC 0451] >gb|MEA5575466.1| peptidoglycan editing factor PgeF [Anabaena sp. UHCC 0451]
-Identity: 53.67%
-E-value: 1.20475e-96
+Percent Identity: 53.67%
+E-value: 1.20528e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1199,8 +1196,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLGLWPHGFFTQQFWPRLPHELTKVLQPEAAAYRLKQVHGNTVLTPQEVDEHLNH
 Hit #86
 ------------------------------
 Title: ref|WP_015213949.1| MULTISPECIES: peptidoglycan editing factor PgeF [Anabaena] >gb|AFZ57301.1| Multi-copper polyphenol oxidoreductase, laccase [Anabaena cylindrica PCC 7122] >gb|MBD2420969.1| peptidoglycan editing factor PgeF [Anabaena cylindrica FACHB-243] >gb|MBY5283430.1| peptidoglycan editing factor PgeF [Anabaena sp. PCC 7938] >gb|MBY5311279.1| peptidoglycan editing factor PgeF [Anabaena sp. PCC 7938] >gb|MCM2405722.1| peptidoglycan editing factor PgeF [Anabaena sp. PCC 7938]
-Identity: 53.67%
-E-value: 1.26465e-96
+Percent Identity: 53.67%
+E-value: 1.26521e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1213,8 +1210,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLEPWPHGFFTQQFWPRPPHELTQVLQPQALAYRLQQVHGNTVLTPQEVDE-QLQ
 Hit #87
 ------------------------------
 Title: ref|WP_104388119.1| peptidoglycan editing factor PgeF [Cuspidothrix issatschenkoi] >gb|MEY3222585.1| hypothetical protein [Cyanobacteriota bacterium] >gb|MEY3331981.1| hypothetical protein [Cyanobacteriota bacterium] >gb|PPJ63007.1| peptidoglycan editing factor PgeF [Cuspidothrix issatschenkoi CHARLIE-1]
-Identity: 52.51%
-E-value: 1.27346e-96
+Percent Identity: 52.51%
+E-value: 1.27401e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1227,8 +1224,8 @@ Sbjct: MHTWQWHNWEGLPYLTCNLLEPWPHGFFTQQFWPRPPHELTQALQPNASAYRLKQVHGNTVLTPQEVDHLLNT
 Hit #88
 ------------------------------
 Title: gb|MEP0747897.1| peptidoglycan editing factor PgeF [Trichocoleus sp. AS-A2] >gb|MEP0836779.1| peptidoglycan editing factor PgeF [Trichocoleus sp. AS-A1]
-Identity: 53.21%
-E-value: 1.31138e-96
+Percent Identity: 53.21%
+E-value: 1.31196e-96
 Query/Sbjct Length: 265
 Potential Novel Enzyme: No
 
@@ -1241,8 +1238,8 @@ Sbjct: INTWHWRTWEGLPYLTCSLLERWSHGFFTQQFLPRSPAELVSVLQPDAKVYRVKQVHGNRVMTPSEIE--AAT
 Hit #89
 ------------------------------
 Title: gb|MBW4517178.1| peptidoglycan editing factor PgeF [Timaviella obliquedivisa GSE-PSE-MK23-08B]
-Identity: 54.75%
-E-value: 1.35231e-96
+Percent Identity: 54.75%
+E-value: 1.3529e-96
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -1255,8 +1252,8 @@ Sbjct: MNTWHWQTWQTLPYLTCALLEDFPHGFFTQQFWARAPGELVQILEPTAQVYRVKQVHGNVVLSPSELEKPPSR
 Hit #90
 ------------------------------
 Title: gb|MBV9387666.1| peptidoglycan editing factor PgeF [Chroococcidiopsidaceae cyanobacterium CP_BM_ER_R8_30]
-Identity: 54.41%
-E-value: 1.39203e-96
+Percent Identity: 54.41%
+E-value: 1.39264e-96
 Query/Sbjct Length: 261
 Potential Novel Enzyme: No
 
@@ -1269,8 +1266,8 @@ Sbjct: MHTWQWQTWEELPYLTCSLLKPWPHGFFTQKFWPRSPLELVKVFQPDAEVYQLKQVHGNTVLTPSEIG--SSM
 Hit #91
 ------------------------------
 Title: ref|WP_168642474.1| peptidoglycan editing factor PgeF [Dolichospermum sp. UHCC 0259] >gb|MTJ46628.1| peptidoglycan editing factor PgeF [Dolichospermum sp. UHCC 0259]
-Identity: 53.85%
-E-value: 1.50019e-96
+Percent Identity: 53.85%
+E-value: 1.50084e-96
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -1283,8 +1280,8 @@ Sbjct: MHTWQWHNWEGLPYLTCNLLEPWSHGFFTQQFWPRLPRELTPVLQPDALAYRLKQVHGNTVLTPQEVDDHVNT
 Hit #92
 ------------------------------
 Title: gb|MBO1054822.1| peptidoglycan editing factor PgeF [Dolichospermum sp. DET73]
-Identity: 53.67%
-E-value: 1.53332e-96
+Percent Identity: 53.67%
+E-value: 1.53399e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1297,8 +1294,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLEPWSHGFFTQRFWPRLPHELTQALQPEALAYRLKQVHGNTVLTPQEVDDHVNT
 Hit #93
 ------------------------------
 Title: gb|MFN5953443.1| peptidoglycan editing factor PgeF [Dolichospermum sp.] >gb|MFN5988535.1| peptidoglycan editing factor PgeF [Dolichospermum sp.] >gb|MFN6003861.1| peptidoglycan editing factor PgeF [Dolichospermum sp.] >gb|MFN6028549.1| peptidoglycan editing factor PgeF [Dolichospermum sp.] >gb|MFN6035180.1| peptidoglycan editing factor PgeF [Dolichospermum sp.]
-Identity: 54.05%
-E-value: 1.59303e-96
+Percent Identity: 54.05%
+E-value: 1.59373e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1311,8 +1308,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTQALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #94
 ------------------------------
 Title: ref|WP_190907092.1| peptidoglycan editing factor PgeF [Anabaena catenula] >gb|MBD2692741.1| peptidoglycan editing factor PgeF [Anabaena catenula FACHB-362]
-Identity: 52.51%
-E-value: 1.84622e-96
+Percent Identity: 52.51%
+E-value: 1.84702e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1325,8 +1322,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLESWPHGFFTQQFWPRPPHELTKVLQPQALAYRLQQVHGNTVLTPQEVDIQLST
 Hit #95
 ------------------------------
 Title: ref|WP_028090315.1| peptidoglycan editing factor PgeF [Dolichospermum circinale] >gb|MDB9474475.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-537/11] >gb|MDB9478456.1| peptidoglycan editing factor PgeF [Dolichospermum circinale CS-537/03] >gb|MEY2913271.1| hypothetical protein [Cyanobacteriota bacterium]
-Identity: 54.05%
-E-value: 2.02569e-96
+Percent Identity: 54.05%
+E-value: 2.02658e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1339,8 +1336,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLKPWPHGFFTQRFWPRLPHELTQALQPEALVYRLKQVHGNTVLTPQEVDHHVNI
 Hit #96
 ------------------------------
 Title: ref|WP_290226876.1| peptidoglycan editing factor PgeF [Trichocoleus desertorum]
-Identity: 53.99%
-E-value: 2.30769e-96
+Percent Identity: 53.99%
+E-value: 2.3087e-96
 Query/Sbjct Length: 263
 Potential Novel Enzyme: No
 
@@ -1353,8 +1350,8 @@ Sbjct: MHTWHWQTWGERPYLTCSLLEAWSHGFFTQHFWPQTPSSLVSALESEAQVYRVKQVHGNVVLAPSEIQ-LSLI
 Hit #97
 ------------------------------
 Title: gb|TAF08484.1| MAG: peptidoglycan editing factor PgeF [Nostocales cyanobacterium]
-Identity: 53.28%
-E-value: 2.76346e-96
+Percent Identity: 53.28%
+E-value: 2.76466e-96
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -1367,8 +1364,8 @@ Sbjct: MHTWHWHNWEGLPYLTCNLLGLWPHGFFTQQFWPRPPQELTKVLQPQAAAYRLKQVHGNTVLTPQEVDEHLNH
 Hit #98
 ------------------------------
 Title: ref|WP_007354981.1| MULTISPECIES: peptidoglycan editing factor PgeF [Kamptonema] >emb|CBN55766.1| conserved hypothetical protein [Kamptonema sp. PCC 6506]
-Identity: 54.14%
-E-value: 2.84828e-96
+Percent Identity: 54.14%
+E-value: 2.84952e-96
 Query/Sbjct Length: 266
 Potential Novel Enzyme: No
 
@@ -1381,8 +1378,8 @@ Sbjct: WQWRSWEGLPYLTCSLLDSWPHGFFTQNFSPKTPSDLVKILDPQAQVYRVKQVHGNAVLKTSEIRPFSTPDDN
 Hit #99
 ------------------------------
 Title: ref|WP_190986317.1| MULTISPECIES: peptidoglycan editing factor PgeF [Cyanophyceae] >gb|MBD2540614.1| peptidoglycan editing factor PgeF [Coleofasciculus sp. FACHB-SPT36]
-Identity: 53.79%
-E-value: 3.061e-96
+Percent Identity: 53.79%
+E-value: 3.06234e-96
 Query/Sbjct Length: 264
 Potential Novel Enzyme: No
 
@@ -1395,8 +1392,8 @@ Sbjct: MNTWHWRTWEGLPYLTCSLLERWSHGFFTQQFSPRSPAELVSVLQPDARVYRVKQVHGNTVMTPSGIE--AAT
 Hit #100
 ------------------------------
 Title: tpg|HEY9743998.1| peptidoglycan editing factor PgeF [Coleofasciculaceae cyanobacterium]
-Identity: 51.70%
-E-value: 3.10768e-96
+Percent Identity: 51.70%
+E-value: 3.10904e-96
 Query/Sbjct Length: 265
 Potential Novel Enzyme: No
 

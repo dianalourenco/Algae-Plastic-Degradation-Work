@@ -1,6 +1,3 @@
-BLAST Results for Novel Enzyme Discovery
-==================================================
-
 Query Length: 252
 E-value threshold: 1e-10
 Identity threshold: 0.3
@@ -9,8 +6,8 @@ Identity threshold: 0.3
 Hit #1
 ------------------------------
 Title: emb|CAJ1970345.1| unnamed protein product [Cylindrotheca closterium]
-Identity: 33.45%
-E-value: 9.12689e-19
+Percent Identity: 33.45%
+E-value: 9.13087e-19
 Query/Sbjct Length: 275
 Potential Novel Enzyme: No
 
@@ -23,8 +20,8 @@ Sbjct: PMLEGVESEEIPRIGKMYFPKEEEDSTKTVATSAAVLYIHGGGRIMGTYASGANNKICSRIAKLLNVPVLSAK
 Hit #2
 ------------------------------
 Title: emb|CAJ1954648.1| unnamed protein product [Cylindrotheca closterium]
-Identity: 28.82%
-E-value: 3.08057e-11
+Percent Identity: 28.82%
+E-value: 3.08192e-11
 Query/Sbjct Length: 229
 Potential Novel Enzyme: Yes
 

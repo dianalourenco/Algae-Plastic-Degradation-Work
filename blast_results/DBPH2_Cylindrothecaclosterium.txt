@@ -1,6 +1,3 @@
-BLAST Results for Novel Enzyme Discovery
-==================================================
-
 Query Length: 338
 E-value threshold: 1e-10
 Identity threshold: 0.3
@@ -9,8 +6,8 @@ Identity threshold: 0.3
 Hit #1
 ------------------------------
 Title: emb|CAJ1970345.1| unnamed protein product [Cylindrotheca closterium]
-Identity: 54.88%
-E-value: 2.20884e-118
+Percent Identity: 54.88%
+E-value: 2.2098e-118
 Query/Sbjct Length: 328
 Potential Novel Enzyme: No
 
@@ -23,8 +20,8 @@ Sbjct: WVDQVDPELMNDIIRDFPDTTIDSKEKHESTHEVLCRPGPMLEGVESEEIP-RIGKMYFPKEEEDSTKTVATS
 Hit #2
 ------------------------------
 Title: gb|KAL3934292.1| MAG: hypothetical protein SGBAC_009957 [Bacillariaceae sp.]
-Identity: 52.38%
-E-value: 3.49912e-115
+Percent Identity: 52.38%
+E-value: 3.50064e-115
 Query/Sbjct Length: 336
 Potential Novel Enzyme: No
 
@@ -37,8 +34,8 @@ Sbjct: KHIEHSKKL-WVDQVNPELMNDIIREFPDMSIDSKEKHESTHEVLCRSGPMMEGVKSEEVPG-IGRKFHSEEG
 Hit #3
 ------------------------------
 Title: emb|CAJ1954648.1| unnamed protein product [Cylindrotheca closterium]
-Identity: 50.43%
-E-value: 1.15287e-109
+Percent Identity: 50.43%
+E-value: 1.15337e-109
 Query/Sbjct Length: 349
 Potential Novel Enzyme: No
 
@@ -51,8 +48,8 @@ Sbjct: LTMTEEEKKREANKNYWLDRVHPELLNPVVRYQPDLNFNTERKVRFFNFLMGIKGPPTKGVKAEDVPG-IGVW
 Hit #4
 ------------------------------
 Title: ref|XP_002290119.1| hypothetical protein THAPSDRAFT_262431 [Thalassiosira pseudonana CCMP1335] >gb|EED91871.1| hypothetical protein THAPSDRAFT_262431 [Thalassiosira pseudonana CCMP1335]
-Identity: 49.85%
-E-value: 2.53005e-100
+Percent Identity: 49.85%
+E-value: 2.53116e-100
 Query/Sbjct Length: 327
 Potential Novel Enzyme: No
 
@@ -65,8 +62,8 @@ Sbjct: WESRVDPKLLT-IARTLPAINFDSWLKKSFFNMIMAFPGKPSAGVKMEKIAG-IGALFYPEDYEPPSGI--TS
 Hit #5
 ------------------------------
 Title: gb|KAL3805777.1| hypothetical protein HJC23_007738 [Cyclotella cryptica]
-Identity: 48.49%
-E-value: 2.88324e-93
+Percent Identity: 48.49%
+E-value: 2.8845e-93
 Query/Sbjct Length: 332
 Potential Novel Enzyme: No
 
@@ -79,8 +76,8 @@ Sbjct: WCDRLHPDFQ-FIARM-PQMNLDSWFKTTLFSTVTKIIPLPRIPPN-ITKENVAG-IGVYFSTK---SDSRKK
 Hit #6
 ------------------------------
 Title: gb|KAL3761142.1| hypothetical protein ACHAWU_002392 [Discostella pseudostelligera]
-Identity: 47.98%
-E-value: 2.2407e-92
+Percent Identity: 47.98%
+E-value: 2.24168e-92
 Query/Sbjct Length: 346
 Potential Novel Enzyme: No
 
@@ -93,8 +90,8 @@ Sbjct: QNNDGQVDHIKNWKDHVHPELKPLM-RWILDFSVNSWWKAHLLHVLLRLPVPVSAGVQVRKIKG-IGAYFYPA
 Hit #7
 ------------------------------
 Title: gb|KAL3798506.1| hypothetical protein ACHAWO_002605 [Cyclotella atomus]
-Identity: 44.51%
-E-value: 2.52702e-87
+Percent Identity: 44.51%
+E-value: 2.52813e-87
 Query/Sbjct Length: 346
 Potential Novel Enzyme: No
 
@@ -107,8 +104,8 @@ Sbjct: TSNACVND----KNYWYDRLHKDFQS--MQRIPVFNLDSWCKTKLFQLLMNIAPSPRTPPEITKEKVPG-FGV
 Hit #8
 ------------------------------
 Title: gb|KAL3807655.1| hypothetical protein ACHAXA_007945 [Cyclostephanos tholiformis]
-Identity: 43.03%
-E-value: 1.80707e-81
+Percent Identity: 43.03%
+E-value: 1.80786e-81
 Query/Sbjct Length: 330
 Potential Novel Enzyme: No
 
@@ -121,8 +118,8 @@ Sbjct: WIDRVHPELKA-----PPTITIDSWWKVYLLNMLNLIPCKTMPGVKMTKVKG-IGVYYHPANNSKDHEDDAPA
 Hit #9
 ------------------------------
 Title: gb|KAL3935910.1| MAG: hypothetical protein SGARI_002774 [Bacillariaceae sp.]
-Identity: 45.63%
-E-value: 9.54039e-66
+Percent Identity: 45.63%
+E-value: 9.54455e-66
 Query/Sbjct Length: 252
 Potential Novel Enzyme: No
 
@@ -135,8 +132,8 @@ Sbjct: MWVHGGGRIMGHPKMDV-AKLTSRLVQCTGLPVLSVDYRTAPQHVFPAALDDCIEAYEWLCQQ--------DN
 Hit #10
 ------------------------------
 Title: gb|KAL3768258.1| hypothetical protein ACHAW5_000011 [Stephanodiscus triporus]
-Identity: 40.14%
-E-value: 4.96868e-62
+Percent Identity: 40.14%
+E-value: 4.97085e-62
 Query/Sbjct Length: 279
 Potential Novel Enzyme: No
 
@@ -149,8 +146,8 @@ Sbjct: MWIHGGGRVIGRSCLPGDVAICCRIVLLFGAPVLSADYRKPPGHPFPAGLDDLREAYRWLSGRVRGG------
 Hit #11
 ------------------------------
 Title: gb|KAL3934390.1| MAG: hypothetical protein SGARI_003402 [Bacillariaceae sp.]
-Identity: 51.67%
-E-value: 1.89018e-49
+Percent Identity: 51.67%
+E-value: 1.891e-49
 Query/Sbjct Length: 180
 Potential Novel Enzyme: No
 
@@ -163,8 +160,8 @@ Sbjct: MVAGESAGGGLAAELCQRLLDESKNDFSGTGTAGSLPLPVAQLLFYPMLDDRTCL---DEEKNSGPTHFLWNS
 Hit #12
 ------------------------------
 Title: gb|MDJ0703374.1| alpha/beta hydrolase [Leptolyngbyaceae cyanobacterium MO_188.B28]
-Identity: 41.33%
-E-value: 1.26056e-40
+Percent Identity: 41.33%
+E-value: 1.26111e-40
 Query/Sbjct Length: 225
 Potential Novel Enzyme: No
 
@@ -177,8 +174,8 @@ Sbjct: GLLWIHGGGYVFGNVEG--DDLRLKQLVKAVNCVVLSVDYRLAPENPFPAPLEDCYAALKWLIAYADELG---
 Hit #13
 ------------------------------
 Title: gb|EJK64711.1| hypothetical protein THAOC_14525 [Thalassiosira oceanica]
-Identity: 40.87%
-E-value: 3.73698e-35
+Percent Identity: 40.87%
+E-value: 3.73861e-35
 Query/Sbjct Length: 208
 Potential Novel Enzyme: No
 
@@ -191,8 +188,8 @@ Sbjct: WVPQVRPKLEPLISGANPNFSINSPEKRSRIHNFLSKPGPTWPGVDATKLQVEGIGTLYSSPNKSGEGRSP--
 Hit #14
 ------------------------------
 Title: ref|WP_334914332.1| alpha/beta hydrolase [Nostoc sp.] >gb|MEH2182128.1| alpha/beta hydrolase [Nostoc sp.]
-Identity: 35.22%
-E-value: 4.05947e-34
+Percent Identity: 35.22%
+E-value: 4.06124e-34
 Query/Sbjct Length: 335
 Potential Novel Enzyme: No
 
@@ -205,8 +202,8 @@ Sbjct: KVMPTFHPDLR-LTARLIPRYSFNPFLRKLTNKLSQFRGVPTPPTVEGVTIRDVTVAVGQNIESIRVRLYSPQ
 Hit #15
 ------------------------------
 Title: ref|WP_202947645.1| alpha/beta hydrolase [Acaryochloris marina] >dbj|BDM81166.1| hypothetical protein AM10699_40330 [Acaryochloris marina MBIC10699]
-Identity: 31.27%
-E-value: 1.41061e-33
+Percent Identity: 31.27%
+E-value: 1.41122e-33
 Query/Sbjct Length: 307
 Potential Novel Enzyme: No
 
@@ -219,8 +216,8 @@ Sbjct: IDLVDPELRPTM-ESLPAFKIGTETLAEVRAGVLDFVPPTADYERDDVKMESRTIPGLEGGPDIGINIFTPIG
 Hit #16
 ------------------------------
 Title: gb|ABW26347.1| alpha/beta hydrolase fold domain protein, putative [Acaryochloris marina MBIC11017]
-Identity: 31.27%
-E-value: 1.9678e-33
+Percent Identity: 31.27%
+E-value: 1.96866e-33
 Query/Sbjct Length: 307
 Potential Novel Enzyme: No
 
@@ -233,8 +230,8 @@ Sbjct: IDLVDPELRPTM-ESLPAFKIGTETLAEVRAGVLDFVPPTADYERDDVKMESRTIPGLEGGPDIGINIFTPIG
 Hit #17
 ------------------------------
 Title: gb|MCG8365911.1| alpha/beta hydrolase fold domain-containing protein [Pseudanabaenales cyanobacterium]
-Identity: 37.87%
-E-value: 1.05658e-30
+Percent Identity: 37.87%
+E-value: 1.05704e-30
 Query/Sbjct Length: 235
 Potential Novel Enzyme: No
 
@@ -247,8 +244,8 @@ Sbjct: GLLWIHGGGYVFGDVEA--DDLRLKQLVNDVKCVVLSVDYRLAPEHPFPAPIEDCYAALKWLTTHADELG---
 Hit #18
 ------------------------------
 Title: ref|WP_190461719.1| alpha/beta hydrolase [Aerosakkonema funiforme] >gb|MBD2179980.1| alpha/beta hydrolase [Aerosakkonema funiforme FACHB-1375]
-Identity: 31.27%
-E-value: 1.67818e-25
+Percent Identity: 31.27%
+E-value: 1.67891e-25
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -261,8 +258,8 @@ Sbjct: RVENRTIPGPDGEIPIRIYVPNGRA-PFPVVVFFHGGGWVLGNLD-AMDST-CRSLAKDVGCIVVSVDYRLAP
 Hit #19
 ------------------------------
 Title: ref|WP_374827539.1| alpha/beta hydrolase [Aerosakkonema sp. BLCC-F183] >gb|MFB2973869.1| alpha/beta hydrolase [Aerosakkonema sp. BLCC-F183]
-Identity: 30.89%
-E-value: 9.69908e-25
+Percent Identity: 30.89%
+E-value: 9.70331e-25
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -275,8 +272,8 @@ Sbjct: RVENRTIPGPDSEIPIRIYVPNGNA-PFPVVVFFHGGGWVLGNLD-AMDST-CRSLAKDVGCIVVSVDYRLAP
 Hit #20
 ------------------------------
 Title: ref|WP_374789789.1| alpha/beta hydrolase [Aerosakkonema funiforme] >gb|MFB2917203.1| alpha/beta hydrolase [Aerosakkonema funiforme BLCC-F2]
-Identity: 30.89%
-E-value: 1.6979e-24
+Percent Identity: 30.89%
+E-value: 1.69864e-24
 Query/Sbjct Length: 259
 Potential Novel Enzyme: No
 
@@ -289,8 +286,8 @@ Sbjct: RVENRTIPGPDSEIPIRIYVPNGNA-PFPVVVFFHGGGWVLGNLD-AMDST-CRSLAKDVGCIVVSVDYRLAP
 Hit #21
 ------------------------------
 Title: gb|NEQ64683.1| alpha/beta hydrolase [Symploca sp. SIO2D2]
-Identity: 32.14%
-E-value: 4.52026e-24
+Percent Identity: 32.14%
+E-value: 4.52224e-24
 Query/Sbjct Length: 252
 Potential Novel Enzyme: No
 
@@ -303,8 +300,8 @@ Sbjct: YYPEN--QNKALPVLYWIHGGGLVVGTAQ--QDEVILKNIVKDMGCVVVAVDYRLAPEYPFPKPLEDCYAGLE
 Hit #22
 ------------------------------
 Title: tpg|HEY9690664.1| alpha/beta hydrolase [Oculatellaceae cyanobacterium]
-Identity: 29.84%
-E-value: 7.04044e-24
+Percent Identity: 29.84%
+E-value: 7.04352e-24
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -317,8 +314,8 @@ Sbjct: SQVNIPIRI---YTPKENI--QLPILVYLHGGGWVLGDLDGV--DHICRSLANQADCIVVSVDYRLAPEHKFP
 Hit #23
 ------------------------------
 Title: ref|WP_006621583.1| MULTISPECIES: alpha/beta hydrolase [Limnospira] >gb|EKD10455.1| alpha/beta hydrolase fold-3 domain protein [Arthrospira platensis C1] >gb|MDT9197481.1| alpha/beta hydrolase [Limnospira sp. PMC 1042.18] >gb|MDT9233067.1| alpha/beta hydrolase [Limnospira sp. PMC 917.15] >gb|MEX6776351.1| alpha/beta hydrolase [Limnospira fusiformis NRMCF6962] >gb|QNH58409.1| MAG: alpha/beta hydrolase [Limnospira indica BM01]
-Identity: 29.48%
-E-value: 4.06964e-23
+Percent Identity: 29.48%
+E-value: 4.07142e-23
 Query/Sbjct Length: 346
 Potential Novel Enzyme: Yes
 
@@ -331,8 +328,8 @@ Sbjct: VNPETQSFL---------NHVLAANHPPISAMEPAELRNLNKMFVKASHPPEAIAKVENRTIAGPAGELPIRI
 Hit #24
 ------------------------------
 Title: ref|WP_006667878.1| MULTISPECIES: alpha/beta hydrolase [Limnospira] >gb|EDZ97003.1| Alpha/beta hydrolase fold-3 domain protein [Limnospira maxima CS-328] >gb|MDT9177199.1| alpha/beta hydrolase [Limnospira sp. PMC 1238.20] >gb|MDT9187022.1| alpha/beta hydrolase [Limnospira sp. PMC 894.15] >gb|MDT9192424.1| alpha/beta hydrolase [Limnospira sp. PMC 1245.20] >gb|MDT9202615.1| alpha/beta hydrolase [Limnospira sp. PMC 1243.20]
-Identity: 29.48%
-E-value: 4.73576e-23
+Percent Identity: 29.48%
+E-value: 4.73783e-23
 Query/Sbjct Length: 346
 Potential Novel Enzyme: Yes
 
@@ -345,8 +342,8 @@ Sbjct: VNPETQSFL---------NHVLAANHPPISAMEPAELRNLNKMFVKASHPPEAIAKVENRTIAGPAGELPIRI
 Hit #25
 ------------------------------
 Title: ref|WP_368663763.1| alpha/beta hydrolase [Limnospira fusiformis]
-Identity: 29.48%
-E-value: 4.86985e-23
+Percent Identity: 29.48%
+E-value: 4.87197e-23
 Query/Sbjct Length: 346
 Potential Novel Enzyme: Yes
 
@@ -359,8 +356,8 @@ Sbjct: VNPETQSFI---------NHVLAANHPPISAMEPAELRNLNKMFVKASHPPEAIAKVENRTIAGPAGELPIRI
 Hit #26
 ------------------------------
 Title: ref|WP_317267486.1| alpha/beta hydrolase [Arthrospira sp. SH-MAG29] >gb|MBS0018279.1| alpha/beta hydrolase [Arthrospira sp. SH-MAG29]
-Identity: 30.35%
-E-value: 5.40046e-23
+Percent Identity: 30.35%
+E-value: 5.40282e-23
 Query/Sbjct Length: 313
 Potential Novel Enzyme: No
 
@@ -373,8 +370,8 @@ Sbjct: VNPETQSFLNHVSASNYPQISAMEPAELRNLNQMFVKASHPPEAIAKVENRTIAGPGGELPIRI---YTPKRN
 Hit #27
 ------------------------------
 Title: ref|WP_006619648.1| alpha/beta hydrolase [Arthrospira platensis] >gb|KDR56432.1| lipase [Arthrospira platensis str. Paraca] >gb|MDT9310171.1| alpha/beta hydrolase [Limnospira sp. Paracas R14] >gb|MET0096396.1| alpha/beta hydrolase [Arthrospira platensis]
-Identity: 29.71%
-E-value: 5.51068e-23
+Percent Identity: 29.71%
+E-value: 5.51308e-23
 Query/Sbjct Length: 340
 Potential Novel Enzyme: Yes
 
@@ -387,8 +384,8 @@ Sbjct: VNPETQSFINHVSASNYPPISAMEPAELRNLNQMFVKASHPPEAIAKVENRTIAGLGGELPIRI---YTPKGN
 Hit #28
 ------------------------------
 Title: ref|WP_374880197.1| alpha/beta hydrolase [Microseira sp. BLCC-F43] >gb|MFB2978751.1| alpha/beta hydrolase [Microseira sp. BLCC-F43]
-Identity: 30.00%
-E-value: 8.95411e-23
+Percent Identity: 30.00%
+E-value: 8.95802e-23
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -401,8 +398,8 @@ Sbjct: VKNRTISTPV-GDIPIRIYTPKGNA-PMPALVYFHGGGWVLGDLDAA--DSICWNISLKVECVVVSVDYRLAP
 Hit #29
 ------------------------------
 Title: ref|WP_324703814.1| alpha/beta hydrolase [Lyngbya sp. CCY1209] >gb|MEB3883488.1| alpha/beta hydrolase [Lyngbya sp. CCY1209]
-Identity: 31.76%
-E-value: 9.2223e-23
+Percent Identity: 31.76%
+E-value: 9.22632e-23
 Query/Sbjct Length: 233
 Potential Novel Enzyme: No
 
@@ -415,8 +412,8 @@ Sbjct: LVYFHGGGYVLGDLD--MVDSICRTLANGAKCIVVSVDYRLAPEHPFPAAIADGFTATEWVFNQAETFGG---
 Hit #30
 ------------------------------
 Title: ref|WP_062945734.1| MULTISPECIES: alpha/beta hydrolase [Arthrospira] >gb|AMW28484.1| lipase [Arthrospira platensis YZ] >gb|MBD2669450.1| alpha/beta hydrolase [Arthrospira platensis FACHB-439] >gb|MBD2709986.1| alpha/beta hydrolase [Arthrospira platensis FACHB-835] >gb|QQW31281.1| alpha/beta hydrolase [Arthrospira sp. PCC 9108] >gb|MBD2572930.1| alpha/beta hydrolase [Arthrospira platensis FACHB-971]
-Identity: 30.03%
-E-value: 1.43749e-22
+Percent Identity: 30.03%
+E-value: 1.43812e-22
 Query/Sbjct Length: 313
 Potential Novel Enzyme: No
 
@@ -429,8 +426,8 @@ Sbjct: VNPETQSFLNHVSASNHPPISAMEPAELRNLNQMFVKASHPPEAIAKVENRTIAGLGGELPIRI---YTPKGN
 Hit #31
 ------------------------------
 Title: ref|WP_014275418.1| alpha/beta hydrolase [Arthrospira platensis] >gb|MDF2209696.1| alpha/beta hydrolase [Arthrospira platensis NCB002] >dbj|BAI90457.1| putative lipase [Arthrospira platensis NIES-39] >dbj|BDT12758.1| putative lipase [Arthrospira platensis NIES-39] >dbj|GCE92951.1| putative lipase [Arthrospira platensis NIES-46]
-Identity: 30.03%
-E-value: 1.49666e-22
+Percent Identity: 30.03%
+E-value: 1.49731e-22
 Query/Sbjct Length: 313
 Potential Novel Enzyme: No
 
@@ -443,8 +440,8 @@ Sbjct: VNPETQSFLNHVSASNHPPISAMEPAELRNLNQMFVKASHPPEAIAKVENRTIAGLGGELPIRI---YTPKGN
 Hit #32
 ------------------------------
 Title: ref|WP_015201391.1| alpha/beta hydrolase [Crinalium epipsammum] >gb|AFZ11247.1| esterase/lipase/thioesterase [Crinalium epipsammum PCC 9333]
-Identity: 29.80%
-E-value: 4.6987e-22
+Percent Identity: 29.80%
+E-value: 4.70075e-22
 Query/Sbjct Length: 255
 Potential Novel Enzyme: Yes
 
@@ -457,8 +454,8 @@ Sbjct: SQGNIPIRI---YTPR--LDTQLPILVYLHGGGWVLGDLDGV--DHICRSLANQADCIVVSVDYRLAPEHKFP
 Hit #33
 ------------------------------
 Title: gb|MDT9182509.1| alpha/beta hydrolase [Limnospira sp. PMC 289.06]
-Identity: 29.71%
-E-value: 9.25368e-22
+Percent Identity: 29.71%
+E-value: 9.25772e-22
 Query/Sbjct Length: 313
 Potential Novel Enzyme: Yes
 
@@ -471,8 +468,8 @@ Sbjct: VNPETQSFLNHVSASNHPPISAMEPAELRNLNQMFVKASHPPEAIAKVENRTIAGLGGELPIRI---YTPKGN
 Hit #34
 ------------------------------
 Title: ref|WP_324634335.1| alpha/beta hydrolase [Phormidium sp. CCY1219] >gb|MEB3830874.1| alpha/beta hydrolase [Phormidium sp. CCY1219]
-Identity: 31.46%
-E-value: 2.34726e-21
+Percent Identity: 31.46%
+E-value: 2.34828e-21
 Query/Sbjct Length: 267
 Potential Novel Enzyme: No
 
@@ -485,8 +482,8 @@ Sbjct: IPGP------AGEIPLRIYTPAGQAPFP---------VLVYFHGGGWVIGNLE--MEESICRTLANRADCVVV
 Hit #35
 ------------------------------
 Title: ref|WP_249067987.1| alpha/beta hydrolase [Argonema antarcticum] >gb|MCL1472423.1| alpha/beta hydrolase [Argonema antarcticum A004/B2]
-Identity: 28.24%
-E-value: 7.16588e-21
+Percent Identity: 28.24%
+E-value: 7.16901e-21
 Query/Sbjct Length: 255
 Potential Novel Enzyme: Yes
 
@@ -499,8 +496,8 @@ Sbjct: VENCTITGDIAIRIYTPHG-KKALPVLVFFHGGGWVLGDLD--VADSTCRSLAKDAGCVVVSVDYRLAPEHKF
 Hit #36
 ------------------------------
 Title: gb|ARV62777.1| hypothetical protein BZZ01_00305 [Nostocales cyanobacterium HT-58-2]
-Identity: 32.59%
-E-value: 8.14084e-21
+Percent Identity: 32.59%
+E-value: 8.14439e-21
 Query/Sbjct Length: 270
 Potential Novel Enzyme: No
 
@@ -513,8 +510,8 @@ Sbjct: IPGPAEN------IPLRI---YTPQ---GDGNFPVLVYLHGGGFTTGDFD--THDAQCRAFASRADSIVISIG
 Hit #37
 ------------------------------
 Title: gb|MEQ8754118.1| alpha/beta hydrolase [Coleofasciculus sp. G1-WW12-02]
-Identity: 31.03%
-E-value: 9.6986e-21
+Percent Identity: 31.03%
+E-value: 9.70284e-21
 Query/Sbjct Length: 232
 Potential Novel Enzyme: No
 
@@ -527,8 +524,8 @@ Sbjct: VVFFHGGGWVVGNLEAA--DSICRTLANQVGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #38
 ------------------------------
 Title: ref|WP_249093943.1| alpha/beta hydrolase [Argonema galeatum] >gb|MCL1463438.1| alpha/beta hydrolase [Argonema galeatum A003/A1]
-Identity: 28.24%
-E-value: 1.29965e-20
+Percent Identity: 28.24%
+E-value: 1.30022e-20
 Query/Sbjct Length: 255
 Potential Novel Enzyme: Yes
 
@@ -541,8 +538,8 @@ Sbjct: VENRTIPGDIAIRIYTPHG-KKPLPVLVFFHGGGWVLGDLD--VADSTCRSLAKDVGCVVVSVDYRLAPEHKF
 Hit #39
 ------------------------------
 Title: gb|NEP45803.1| alpha/beta hydrolase [Okeania sp. SIO2H7]
-Identity: 32.20%
-E-value: 2.16916e-20
+Percent Identity: 32.20%
+E-value: 2.1701e-20
 Query/Sbjct Length: 236
 Potential Novel Enzyme: No
 
@@ -555,8 +552,8 @@ Sbjct: LVYFHGGGYAIGNLE--MTDSICRTLTNGAECVVVSVEYRLAPEHKFPAAIEDGYSATLWVAENATAI-NG--
 Hit #40
 ------------------------------
 Title: ref|WP_015955730.1| alpha/beta hydrolase [Gloeothece citriformis] >gb|ACK72138.1| Alpha/beta hydrolase fold-3 domain protein [Gloeothece citriformis PCC 7424]
-Identity: 31.43%
-E-value: 2.48189e-20
+Percent Identity: 31.43%
+E-value: 2.48297e-20
 Query/Sbjct Length: 245
 Potential Novel Enzyme: No
 
@@ -569,8 +566,8 @@ Sbjct: VVYFHGGGWVLGDLD--MMDGFCRVLCKEAQCVVVSVDYRLAPEHKFPAAVEDAYAATLWVSRHVEELK--GN
 Hit #41
 ------------------------------
 Title: ref|WP_334747228.1| alpha/beta hydrolase [Nostoc sp.] >gb|MEH1842577.1| alpha/beta hydrolase [Nostoc sp.]
-Identity: 29.57%
-E-value: 2.89687e-20
+Percent Identity: 29.57%
+E-value: 2.89814e-20
 Query/Sbjct Length: 257
 Potential Novel Enzyme: Yes
 
@@ -583,8 +580,8 @@ Sbjct: IPGPGGDVLARIYLPK--GKGPFP---------VLVYFHGGGWVIANLDTYDSS--CRALTNAANCMVVSVAY
 Hit #42
 ------------------------------
 Title: ref|WP_039726824.1| alpha/beta hydrolase [Leptolyngbya iicbica]
-Identity: 29.82%
-E-value: 3.03039e-20
+Percent Identity: 29.82%
+E-value: 3.03171e-20
 Query/Sbjct Length: 228
 Potential Novel Enzyme: Yes
 
@@ -597,8 +594,8 @@ Sbjct: IVFFHGGGWVTGSLE--THDRVCRRIAQATMALVVSVDYRLAPWHKFPLPLEDCYDAVQWAATNAAELG---A
 Hit #43
 ------------------------------
 Title: gb|RZM78016.1| alpha/beta hydrolase [Leptolyngbya iicbica LK]
-Identity: 29.82%
-E-value: 3.05981e-20
+Percent Identity: 29.82%
+E-value: 3.06115e-20
 Query/Sbjct Length: 228
 Potential Novel Enzyme: Yes
 
@@ -611,8 +608,8 @@ Sbjct: IVFFHGGGWVTGSLE--THDRVCRRIAQATMALVVSVDYRLAPWHKFPLPLEDCYDAVQWAATNAAELG---A
 Hit #44
 ------------------------------
 Title: tpg|HIK11224.1| alpha/beta hydrolase [Oscillatoriaceae cyanobacterium M33_DOE_052]
-Identity: 27.20%
-E-value: 3.58754e-20
+Percent Identity: 27.20%
+E-value: 3.5891e-20
 Query/Sbjct Length: 261
 Potential Novel Enzyme: Yes
 
@@ -625,8 +622,8 @@ Sbjct: RSAKRSIPGTGGEIKLRIYTPTG-ENPLPLLVYFHGGGWVLGDLE--IADSCCRHIANHAGCIVVSVDYRLAP
 Hit #45
 ------------------------------
 Title: gb|MFP5269720.1| alpha/beta hydrolase [Coleofasciculus sp.]
-Identity: 30.00%
-E-value: 4.04735e-20
+Percent Identity: 30.00%
+E-value: 4.04911e-20
 Query/Sbjct Length: 230
 Potential Novel Enzyme: No
 
@@ -639,8 +636,8 @@ Sbjct: LVFFHGGGWVVGNLEAA--DSICRTLANQVGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #46
 ------------------------------
 Title: gb|MDY6806982.1| alpha/beta hydrolase [Cyanobacteriota bacterium]
-Identity: 29.48%
-E-value: 5.21838e-20
+Percent Identity: 29.48%
+E-value: 5.22066e-20
 Query/Sbjct Length: 251
 Potential Novel Enzyme: Yes
 
@@ -653,8 +650,8 @@ Sbjct: IDGDIPVRIYTPEG-AGEFPMLVYFHSGGWVLGDLE--VEDSVCRIFANGAGCVVVSVDYRLAPEHKFPAAAE
 Hit #47
 ------------------------------
 Title: ref|WP_323226179.1| alpha/beta hydrolase [Spirulina sp. 06S082] >gb|MEA5470925.1| alpha/beta hydrolase [Spirulina sp. 06S082]
-Identity: 30.22%
-E-value: 6.62876e-20
+Percent Identity: 30.22%
+E-value: 6.63165e-20
 Query/Sbjct Length: 268
 Potential Novel Enzyme: No
 
@@ -667,8 +664,8 @@ Sbjct: VCISDRTIPVAINYKLPLRI---YTP-ESQKKSLPILMFFHGGGWVLGI----LESFDRLCSFLAKEAECLVI
 Hit #48
 ------------------------------
 Title: gb|MBW4495991.1| alpha/beta hydrolase [Oscillatoria princeps RMCB-10]
-Identity: 29.23%
-E-value: 9.67739e-20
+Percent Identity: 29.23%
+E-value: 9.68162e-20
 Query/Sbjct Length: 260
 Potential Novel Enzyme: Yes
 
@@ -681,8 +678,8 @@ Sbjct: RVENRPVPGADGDIPVRIYTPKS--SAPLPVLVYFHGGGWVLGDLDAA--DPICRSLANGAECVVVSADYRLA
 Hit #49
 ------------------------------
 Title: gb|MBV9389138.1| alpha/beta hydrolase [Chroococcidiopsidaceae cyanobacterium CP_BM_ER_R8_30]
-Identity: 28.24%
-E-value: 9.75202e-20
+Percent Identity: 28.24%
+E-value: 9.75628e-20
 Query/Sbjct Length: 262
 Potential Novel Enzyme: Yes
 
@@ -695,8 +692,8 @@ Sbjct: KVVTQTIGGRHGDIPLQLYYP--ATQTNLALLIFIHGGGWV----SGNFETHDVMCRRIAHISGALVVAVGYR
 Hit #50
 ------------------------------
 Title: gb|MBW4574047.1| alpha/beta hydrolase [Aphanothece sp. CMT-3BRIN-NPC111]
-Identity: 28.95%
-E-value: 1.08581e-19
+Percent Identity: 28.95%
+E-value: 1.08628e-19
 Query/Sbjct Length: 266
 Potential Novel Enzyme: Yes
 
@@ -709,8 +706,8 @@ Sbjct: GRVENR-TLLNIPVRI---YTPEG--STPLPVLVYFHGGGWVLGNLDAA--DNICRSLANGAGCIVVSVDYRL
 Hit #51
 ------------------------------
 Title: ref|WP_226573231.1| alpha/beta hydrolase [Microseira wollei] >dbj|GET35542.1| putative lipase [Microseira wollei NIES-4236]
-Identity: 30.77%
-E-value: 1.59986e-19
+Percent Identity: 30.77%
+E-value: 1.60056e-19
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -723,8 +720,8 @@ Sbjct: VKNRTISTPV-GDIPIRIYTPKGNA-PMPVLVYFHGGGWVLGDLDAA--DSICWNISLKAECVVVSVDYRLAP
 Hit #52
 ------------------------------
 Title: gb|MEC4814926.1| alpha/beta hydrolase [Scytonema sp. PMC 1069.18] >gb|MEC4880539.1| alpha/beta hydrolase [Scytonema sp. PMC 1070.18]
-Identity: 26.59%
-E-value: 2.27952e-19
+Percent Identity: 26.59%
+E-value: 2.28052e-19
 Query/Sbjct Length: 267
 Potential Novel Enzyme: Yes
 
@@ -737,8 +734,8 @@ Sbjct: ISLPQVTQRTINGRHGEIPIRL---YYPST--EQIRTLILFFHGGGWVYGNFQ--THDLMCRRIARDTGGLVV
 Hit #53
 ------------------------------
 Title: gb|MDY6806983.1| alpha/beta hydrolase [Cyanobacteriota bacterium]
-Identity: 29.92%
-E-value: 2.28984e-19
+Percent Identity: 29.92%
+E-value: 2.29084e-19
 Query/Sbjct Length: 264
 Potential Novel Enzyme: Yes
 
@@ -751,8 +748,8 @@ Sbjct: TVAKVENRTIPGTGGEITLRIYTPQGVG-PFPVLVYFHGGGYAIGNLD--MVDSICRTLTNGAECVVVSVEYR
 Hit #54
 ------------------------------
 Title: gb|MBV9385540.1| alpha/beta hydrolase [Chroococcidiopsidaceae cyanobacterium CP_BM_ER_R8_30]
-Identity: 29.25%
-E-value: 3.91971e-19
+Percent Identity: 29.25%
+E-value: 3.92142e-19
 Query/Sbjct Length: 253
 Potential Novel Enzyme: Yes
 
@@ -765,8 +762,8 @@ Sbjct: GDIPLKLYYPRQ--QSALGVIVFFHGGGWIGGNFQ--THDAMCRRLAHQSGVAVIAVGYRLAPRYPFAIALED
 Hit #55
 ------------------------------
 Title: gb|MEM7590220.1| alpha/beta hydrolase [Cyanobacteria bacterium P01_A01_bin.83]
-Identity: 27.31%
-E-value: 4.06473e-19
+Percent Identity: 27.31%
+E-value: 4.0665e-19
 Query/Sbjct Length: 249
 Potential Novel Enzyme: Yes
 
@@ -779,8 +776,8 @@ Sbjct: IPIRL---YYPNK--QKYSSLILFFHGGGWVYGN--FDTHDRLCRRVARDTGAIVLAVDYRLAPFYKYPTALE
 Hit #56
 ------------------------------
 Title: gb|MEM6256189.1| alpha/beta hydrolase [Cyanobacteria bacterium P01_D01_bin.156]
-Identity: 28.40%
-E-value: 4.3245e-19
+Percent Identity: 28.40%
+E-value: 4.32639e-19
 Query/Sbjct Length: 257
 Potential Novel Enzyme: Yes
 
@@ -793,8 +790,8 @@ Sbjct: RVVNSRVTGRHGPIPVRLYYPR--LDDDLPVIVFFHGGGWVTGSLE--THDRLCRRIAKGTGALIMAVDYRLA
 Hit #57
 ------------------------------
 Title: gb|MEL6401891.1| alpha/beta hydrolase fold domain-containing protein [Cyanobacteria bacterium J06626_4]
-Identity: 29.55%
-E-value: 5.88521e-19
+Percent Identity: 29.55%
+E-value: 5.88778e-19
 Query/Sbjct Length: 247
 Potential Novel Enzyme: Yes
 
@@ -807,8 +804,8 @@ Sbjct: KIPVR---TYRPSDA-TESLPVMLFFHWGGFMLGNLE--TEHARCVMIARDAGCLAVSVDYRLAPEHPFPAGA
 Hit #58
 ------------------------------
 Title: tpg|HEY9850275.1| alpha/beta hydrolase [Leptolyngbyaceae cyanobacterium]
-Identity: 27.76%
-E-value: 6.4309e-19
+Percent Identity: 27.76%
+E-value: 6.43371e-19
 Query/Sbjct Length: 263
 Potential Novel Enzyme: Yes
 
@@ -821,8 +818,8 @@ Sbjct: PKIGSVENRTIPSQGGEIPIRIYLPEGVA-PFPVLVFFHGGGWVLGDLDAV--DSCCRSWCKDAGCVVVSVDY
 Hit #59
 ------------------------------
 Title: ref|WP_348257720.1| alpha/beta hydrolase [Funiculus sociatus] >gb|MEP0879765.1| alpha/beta hydrolase [Funiculus sociatus GB2-M2]
-Identity: 31.90%
-E-value: 7.01464e-19
+Percent Identity: 31.90%
+E-value: 7.01771e-19
 Query/Sbjct Length: 232
 Potential Novel Enzyme: No
 
@@ -835,8 +832,8 @@ Sbjct: ILYLHGGGFIAGSRIS--HRRLASDFSEAANATVLLIDYRLVPEHPYPAALEDALAAYHWLIDKHGLS-----
 Hit #60
 ------------------------------
 Title: ref|WP_334970276.1| alpha/beta hydrolase [Nostoc sp.] >gb|MEH2249166.1| alpha/beta hydrolase [Nostoc sp.]
-Identity: 29.23%
-E-value: 7.16807e-19
+Percent Identity: 29.23%
+E-value: 7.1712e-19
 Query/Sbjct Length: 260
 Potential Novel Enzyme: Yes
 
@@ -849,8 +846,8 @@ Sbjct: IPGPGGDLLARIYLPK--GKGPFP---------VLVYFHGGGWVIANLDTYDSS--CRALTNAVNCMVVSVAY
 Hit #61
 ------------------------------
 Title: gb|MEM1369616.1| alpha/beta hydrolase [Cyanobacteria bacterium P01_H01_bin.15]
-Identity: 28.51%
-E-value: 8.01992e-19
+Percent Identity: 28.51%
+E-value: 8.02342e-19
 Query/Sbjct Length: 235
 Potential Novel Enzyme: Yes
 
@@ -863,8 +860,8 @@ Sbjct: GLVYFHGGGWVLNNITLLDSVSRAICNQT----GCKLVAVNYQKAPEHKFPIPFDDCYASTEWVFEHADDLG-
 Hit #62
 ------------------------------
 Title: ref|WP_054468255.1| MULTISPECIES: alpha/beta hydrolase [Planktothricoides] >gb|KOR35276.1| lipase [Planktothricoides sp. SR001] >gb|MBD2543774.1| alpha/beta hydrolase [Planktothricoides raciborskii FACHB-1370] >gb|MBD2582331.1| alpha/beta hydrolase [Planktothricoides raciborskii FACHB-1261] >gb|XCM38417.1| alpha/beta hydrolase [Planktothricoides raciborskii GIHE-MW2]
-Identity: 29.61%
-E-value: 9.14088e-19
+Percent Identity: 29.61%
+E-value: 9.14487e-19
 Query/Sbjct Length: 233
 Potential Novel Enzyme: Yes
 
@@ -877,8 +874,8 @@ Sbjct: LVYFHGGGWVIGDLP--MVDSICRTLANAAGCVVVSVDYRLAPEHKFPAGLEDAYTATKWVAENAALL-NG--
 Hit #63
 ------------------------------
 Title: gb|MEQ9672042.1| alpha/beta hydrolase [Coleofasciculus sp. G2-EDA-02]
-Identity: 29.57%
-E-value: 1.22264e-18
+Percent Identity: 29.57%
+E-value: 1.22317e-18
 Query/Sbjct Length: 230
 Potential Novel Enzyme: Yes
 
@@ -891,8 +888,8 @@ Sbjct: VVFFHGGGWVVGNLEAA--DSICRTLANQVGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #64
 ------------------------------
 Title: gb|MBP0020823.1| alpha/beta hydrolase [Cyanobacteria bacterium SBLK]
-Identity: 29.64%
-E-value: 1.25211e-18
+Percent Identity: 29.64%
+E-value: 1.25266e-18
 Query/Sbjct Length: 253
 Potential Novel Enzyme: Yes
 
@@ -905,8 +902,8 @@ Sbjct: IPLRIYTPESQQTSLPIFLFFHGGGWVFGALEDF--DRLCSFIAKNAECLVISVGYRLAPEYKFPTAVEDAYS
 Hit #65
 ------------------------------
 Title: ref|WP_193994729.1| alpha/beta hydrolase [Leptolyngbya ectocarpi] >gb|MBE9068795.1| alpha/beta hydrolase [Leptolyngbya cf. ectocarpi LEGE 11479]
-Identity: 29.46%
-E-value: 1.29329e-18
+Percent Identity: 29.46%
+E-value: 1.29386e-18
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -919,8 +916,8 @@ Sbjct: TATPAIPVRLYRPRRPQSEGASPLPALVYFHGGGFISGDFD--THDRPLRALANASGCVIVAVKYRLAPEFPF
 Hit #66
 ------------------------------
 Title: gb|TFI52059.1| alpha/beta hydrolase [Mastigocladus laminosus UU774]
-Identity: 32.19%
-E-value: 1.72883e-18
+Percent Identity: 32.19%
+E-value: 1.72958e-18
 Query/Sbjct Length: 233
 Potential Novel Enzyme: No
 
@@ -933,8 +930,8 @@ Sbjct: VILYLHGGGFIAGSRIS--HRRLASDFSEATDATVLLIDYRLVPEHPYPAALEDTITAYEWLMNERDFSPS--
 Hit #67
 ------------------------------
 Title: gb|MEQ9484142.1| alpha/beta hydrolase [Coleofasciculus sp. F4-SAH-05]
-Identity: 29.69%
-E-value: 1.85577e-18
+Percent Identity: 29.69%
+E-value: 1.85658e-18
 Query/Sbjct Length: 229
 Potential Novel Enzyme: Yes
 
@@ -947,8 +944,8 @@ Sbjct: LVFFHGGGWVIGNLEAV--DSICRTLTNQAGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #68
 ------------------------------
 Title: gb|MFP4099072.1| alpha/beta hydrolase [Coleofasciculus sp.]
-Identity: 29.32%
-E-value: 2.13135e-18
+Percent Identity: 29.32%
+E-value: 2.13228e-18
 Query/Sbjct Length: 266
 Potential Novel Enzyme: Yes
 
@@ -961,8 +958,8 @@ Sbjct: VENRIIPGSTVDIPIRIYTSAGNPPFP---------ILVFFHGGGWVIGSLDEV--DSICRTLTNQADCIVVS
 Hit #69
 ------------------------------
 Title: gb|MEM1367623.1| alpha/beta hydrolase [Cyanobacteria bacterium P01_H01_bin.15]
-Identity: 28.79%
-E-value: 2.47547e-18
+Percent Identity: 28.79%
+E-value: 2.47655e-18
 Query/Sbjct Length: 264
 Potential Novel Enzyme: Yes
 
@@ -975,8 +972,8 @@ Sbjct: PSLSRVEDIQIPGRKVSIPARVYVPRDDA--NLPLTVFFHGGGWV--TCNLDTHDIMCRRIAQEVETIVVSVA
 Hit #70
 ------------------------------
 Title: tpg|HBE53720.1| lipase [Cyanobacteria bacterium UBA11369]
-Identity: 30.15%
-E-value: 3.15803e-18
+Percent Identity: 30.15%
+E-value: 3.15941e-18
 Query/Sbjct Length: 262
 Potential Novel Enzyme: No
 
@@ -989,8 +986,8 @@ Sbjct: NRTIKTPV-GDIPIRIYTPKGNA-PMPALVYFHGGGWVLGDLDAA--DSICWNLSLKAECVVVSVDYRLAPEH
 Hit #71
 ------------------------------
 Title: ref|WP_190464855.1| alpha/beta hydrolase [Aerosakkonema funiforme] >gb|MBD2182043.1| alpha/beta hydrolase [Aerosakkonema funiforme FACHB-1375]
-Identity: 28.78%
-E-value: 3.39705e-18
+Percent Identity: 28.78%
+E-value: 3.39854e-18
 Query/Sbjct Length: 271
 Potential Novel Enzyme: Yes
 
@@ -1003,8 +1000,8 @@ Sbjct: VENREIPGIAGTIPVRIYTPQAVNKDTPFPILVFFHGGGWVL--CDLNTHDPICRHLCKQADCIVVSVDYRLA
 Hit #72
 ------------------------------
 Title: gb|NER33758.1| alpha/beta hydrolase [Oscillatoria sp. SIO1A7]
-Identity: 29.23%
-E-value: 4.04184e-18
+Percent Identity: 29.23%
+E-value: 4.0436e-18
 Query/Sbjct Length: 260
 Potential Novel Enzyme: Yes
 
@@ -1017,8 +1014,8 @@ Sbjct: IDNRTIPGPVGAIPIRIYRPEGTG-PFPILVYFHGGGWVVGS----LETVDFICRNLANGADCIVVSVAYRLA
 Hit #73
 ------------------------------
 Title: gb|MEQ9359476.1| alpha/beta hydrolase [Coleofasciculus chthonoplastes F2-STO-03] >gb|MEQ9622141.1| alpha/beta hydrolase [Coleofasciculus chthonoplastes F1-TOW-03]
-Identity: 29.69%
-E-value: 4.56049e-18
+Percent Identity: 29.69%
+E-value: 4.56248e-18
 Query/Sbjct Length: 229
 Potential Novel Enzyme: Yes
 
@@ -1031,8 +1028,8 @@ Sbjct: LVFFHGGGWVIGNLEAV--DSICRTLTNQAGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #74
 ------------------------------
 Title: gb|MBD0334861.1| alpha/beta hydrolase [Cyanobacteria bacterium Co-bin13]
-Identity: 30.62%
-E-value: 4.97215e-18
+Percent Identity: 30.62%
+E-value: 4.97432e-18
 Query/Sbjct Length: 258
 Potential Novel Enzyme: No
 
@@ -1045,8 +1042,8 @@ Sbjct: VPLRLYKPYTEGDGLL---PALVYFHGGGFVSGGFD-THDRQL-RALANSGGCAVVAAGYRLAPEFPYPAAPE
 Hit #75
 ------------------------------
 Title: ref|WP_233258605.1| alpha/beta hydrolase [[Phormidium] sp. ETS-05]
-Identity: 27.31%
-E-value: 5.13093e-18
+Percent Identity: 27.31%
+E-value: 5.13317e-18
 Query/Sbjct Length: 238
 Potential Novel Enzyme: Yes
 
@@ -1059,8 +1056,8 @@ Sbjct: LVYFHGGGWVLGDLE--VADSFCRQIAHQVGCIVVSVDYRLAPEHKFPTPVEDCYTATQWVASHCGVPDSILS
 Hit #76
 ------------------------------
 Title: ref|WP_373545411.1| alpha/beta hydrolase [Chamaesiphon sp.]
-Identity: 30.11%
-E-value: 6.41489e-18
+Percent Identity: 30.11%
+E-value: 6.41769e-18
 Query/Sbjct Length: 279
 Potential Novel Enzyme: No
 
@@ -1073,8 +1070,8 @@ Sbjct: QISHILIPGAAGDIVARVFTPKGHG-PFPVLVYFHGGGWVIANLDVYESS--CRALCNAAECVVVSVAYRQAP
 Hit #77
 ------------------------------
 Title: gb|MEQ8970496.1| alpha/beta hydrolase [Coleofasciculus sp. C1-SOL-03]
-Identity: 29.69%
-E-value: 7.10861e-18
+Percent Identity: 29.69%
+E-value: 7.11172e-18
 Query/Sbjct Length: 229
 Potential Novel Enzyme: Yes
 
@@ -1087,8 +1084,8 @@ Sbjct: LVFFHGGGWVIGNLEAV--DSICRTLTNQAGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #78
 ------------------------------
 Title: gb|NUN66549.1| alpha/beta hydrolase [Pseudanabaena biceps]
-Identity: 30.77%
-E-value: 7.75131e-18
+Percent Identity: 30.77%
+E-value: 7.7547e-18
 Query/Sbjct Length: 273
 Potential Novel Enzyme: No
 
@@ -1101,8 +1098,8 @@ Sbjct: NISHQL--IPGPAGDLLARVYQPK--GAKTLP---------VLVYFHGGGWVI-ANLGTYDAS-CRALANAAN
 Hit #79
 ------------------------------
 Title: gb|MEQ9368995.1| alpha/beta hydrolase [Coleofasciculus chthonoplastes F3-SA18-01]
-Identity: 29.69%
-E-value: 9.00551e-18
+Percent Identity: 29.69%
+E-value: 9.00945e-18
 Query/Sbjct Length: 229
 Potential Novel Enzyme: Yes
 
@@ -1115,8 +1112,8 @@ Sbjct: LVFFHGGGWVIGNLEAV--DSICRTLTNQAGCIVVSVDYRLAPEHKFPAAVEDAYTATEWVA---KNAASFQG
 Hit #80
 ------------------------------
 Title: gb|MEQ8382744.1| alpha/beta hydrolase [Coleofasciculus sp. A1-SPW-01]
-Identity: 29.69%
-E-value: 9.64846e-18
+Percent Identity: 29.69%
+E-value: 9.65267e-18
 Query/Sbjct Length: 229
 Potential Novel Enzyme: Yes
 
@@ -1129,8 +1126,8 @@ Sbjct: LVFFHGGGWVIGSLDAV--DSICRTLANQAGCIVVSVDYRLAPEHKFPAAVEDAYTAIEWVA---KNAASFQG
 Hit #81
 ------------------------------
 Title: tpg|HAA27860.1| lipase [Cyanobacteria bacterium UBA8553]
-Identity: 27.83%
-E-value: 1.00721e-17
+Percent Identity: 27.83%
+E-value: 1.00765e-17
 Query/Sbjct Length: 230
 Potential Novel Enzyme: Yes
 
@@ -1143,8 +1140,8 @@ Sbjct: LVFFHGGGWATGDLD-TMDTPL-RALTNRVGCVVVSVDYRLAPEHKFPAAVEDAYTATCWVADNASAI---QG
 Hit #82
 ------------------------------
 Title: gb|MFM7423911.1| alpha/beta hydrolase [Elainella sp.]
-Identity: 28.96%
-E-value: 1.23363e-17
+Percent Identity: 28.96%
+E-value: 1.23417e-17
 Query/Sbjct Length: 259
 Potential Novel Enzyme: Yes
 
@@ -1157,8 +1154,8 @@ Sbjct: QVTDRTIPGRQGDIPIRLYHPS--LQPNLPLLLFFHGGGWVAGNFQ--THDSLCRRLAHDTGAIVLAVEYRLA
 Hit #83
 ------------------------------
 Title: ref|WP_232321588.1| alpha/beta hydrolase [Picosynechococcus sp. PCC 7117]
-Identity: 32.38%
-E-value: 1.54901e-17
+Percent Identity: 32.38%
+E-value: 1.54968e-17
 Query/Sbjct Length: 244
 Potential Novel Enzyme: No
 
@@ -1171,8 +1168,8 @@ Sbjct: KRPHSPAIPIRI---YRPICDKGVDLSLPILVYFQGGGWVFGSLDSA--DDTCSFLAKYGQCIVISVDYRRSP
 Hit #84
 ------------------------------
 Title: ref|WP_065711918.1| alpha/beta hydrolase [Picosynechococcus sp. PCC 7117] >gb|ANV89034.1| esterase [Picosynechococcus sp. PCC 7117]
-Identity: 32.38%
-E-value: 1.55922e-17
+Percent Identity: 32.38%
+E-value: 1.55991e-17
 Query/Sbjct Length: 244
 Potential Novel Enzyme: No
 
@@ -1185,8 +1182,8 @@ Sbjct: KRPHSPAIPIRI---YRPICDKGVDLSLPILVYFQGGGWVFGSLDSA--DDTCSFLAKYGQCIVISVDYRRSP
 Hit #85
 ------------------------------
 Title: ref|WP_254047967.1| alpha/beta hydrolase [Synechococcus sp. BDU 130192]
-Identity: 32.38%
-E-value: 1.56422e-17
+Percent Identity: 32.38%
+E-value: 1.56491e-17
 Query/Sbjct Length: 244
 Potential Novel Enzyme: No
 
@@ -1199,8 +1196,8 @@ Sbjct: KRPHSPAIPIRI---YRPICDKGVDLSLPILVYFQGGGWVFGSLDSA--DDTCSFLAKYGQCIVISVDYRRSP
 Hit #86
 ------------------------------
 Title: ref|WP_138073875.1| alpha/beta hydrolase [Picosynechococcus sp. PCC 11901] >gb|QCS51052.1| alpha/beta hydrolase [Picosynechococcus sp. PCC 11901]
-Identity: 32.38%
-E-value: 1.63747e-17
+Percent Identity: 32.38%
+E-value: 1.63818e-17
 Query/Sbjct Length: 244
 Potential Novel Enzyme: No
 
@@ -1213,8 +1210,8 @@ Sbjct: KRPHSPAIPIRI---YRPICDKGVDLSLPILVYFQGGGWVFGSLDSA--DDTCSFLAKYGQCIVISVDYRRSP
 Hit #87
 ------------------------------
 Title: gb|MEO0373847.1| alpha/beta hydrolase [Cyanobacteria bacterium P01_A01_bin.17]
-Identity: 31.80%
-E-value: 1.90192e-17
+Percent Identity: 31.80%
+E-value: 1.90275e-17
 Query/Sbjct Length: 239
 Potential Novel Enzyme: No
 
@@ -1227,8 +1224,8 @@ Sbjct: ALVYFHGGGFV----SGDLETHDRPLRAIANRSNCVVIAVDYRLAPEYPFPAAPEDCFAALEWV---RKEAEQ
 Hit #88
 ------------------------------
 Title: ref|WP_374825491.1| alpha/beta hydrolase [Aerosakkonema sp. BLCC-F183] >gb|MFB2970470.1| alpha/beta hydrolase [Aerosakkonema sp. BLCC-F183]
-Identity: 28.41%
-E-value: 2.14209e-17
+Percent Identity: 28.41%
+E-value: 2.14303e-17
 Query/Sbjct Length: 271
 Potential Novel Enzyme: Yes
 
@@ -1241,8 +1238,8 @@ Sbjct: VENREIPGVAGTIPVRIYTPQAVNKDTPFPILVFFHGGGWVL--CDLDTHDPICRHLCKQADCIVVSVDYRLA
 Hit #89
 ------------------------------
 Title: ref|WP_088243934.1| alpha/beta hydrolase [Calothrix rhizosoleniae]
-Identity: 31.51%
-E-value: 2.1462e-17
+Percent Identity: 31.51%
+E-value: 2.14714e-17
 Query/Sbjct Length: 238
 Potential Novel Enzyme: No
 
@@ -1255,8 +1252,8 @@ Sbjct: VDSSRIILYLHGGAYVSGSPST--HKTLCYFLSQATNSRILLIEYRLAPEYPFPAAVDDGLTAYNWLINEVKA
 Hit #90
 ------------------------------
 Title: ref|WP_335205140.1| alpha/beta hydrolase [Nostoc sp.] >gb|MEH2335110.1| alpha/beta hydrolase [Nostoc sp.]
-Identity: 31.86%
-E-value: 2.15954e-17
+Percent Identity: 31.86%
+E-value: 2.16049e-17
 Query/Sbjct Length: 226
 Potential Novel Enzyme: No
 
@@ -1269,8 +1266,8 @@ Sbjct: AIIHLHGGAYVQGSAHAY--RHLAGQVAARTSVSAFVADYRLAPEHPFPAALDDAKAAYRGLIEQGTQ-----
 Hit #91
 ------------------------------
 Title: gb|MEQ8465356.1| alpha/beta hydrolase [Coleofasciculus sp. E1-EBD-02]
-Identity: 29.46%
-E-value: 2.20513e-17
+Percent Identity: 29.46%
+E-value: 2.20609e-17
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -1283,8 +1280,8 @@ Sbjct: STVDIPIRIYTPAGNPPFP---------ILVFFHGGGWVIGSLDAV--DSICRTLANQADCIVVSVDYRLAPE
 Hit #92
 ------------------------------
 Title: ref|WP_006101248.1| alpha/beta hydrolase [Coleofasciculus chthonoplastes] >gb|EDX75541.1| alpha/beta hydrolase fold domain protein [Coleofasciculus chthonoplastes PCC 7420]
-Identity: 29.46%
-E-value: 2.63182e-17
+Percent Identity: 29.46%
+E-value: 2.63297e-17
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -1297,8 +1294,8 @@ Sbjct: STVDIPIRIYTPAGNPPFP---------ILVFFHGGGWVIGSLDAV--DSICRTLANQAGCIVVSVDYRLAPE
 Hit #93
 ------------------------------
 Title: gb|MEQ8999106.1| alpha/beta hydrolase [Coleofasciculus sp. B1-GNL1-01]
-Identity: 29.46%
-E-value: 2.81917e-17
+Percent Identity: 29.46%
+E-value: 2.8204e-17
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -1311,8 +1308,8 @@ Sbjct: STVDIPIRIYTPAGNPPFP---------VLVFFHGGGWVIGSLDAV--DSICRTLANQAGCIVVSVDYRLAPE
 Hit #94
 ------------------------------
 Title: gb|MDJ0649353.1| alpha/beta hydrolase [Xenococcaceae cyanobacterium MO_188.B19]
-Identity: 27.16%
-E-value: 2.92521e-17
+Percent Identity: 27.16%
+E-value: 2.92649e-17
 Query/Sbjct Length: 232
 Potential Novel Enzyme: Yes
 
@@ -1325,8 +1322,8 @@ Sbjct: ILFFHGGGWVYGNLQ--THDPMCRRIAQDTGAIVLAVGYRLAPFFKYPTALEDCYDAYLWAVENTTTLKANPE
 Hit #95
 ------------------------------
 Title: ref|WP_015121923.1| alpha/beta hydrolase [Rivularia sp. PCC 7116] >gb|AFY58371.1| esterase/lipase [Rivularia sp. PCC 7116]
-Identity: 31.47%
-E-value: 2.93741e-17
+Percent Identity: 31.47%
+E-value: 2.9387e-17
 Query/Sbjct Length: 232
 Potential Novel Enzyme: No
 
@@ -1339,8 +1336,8 @@ Sbjct: ILYLHGGGFMVGNRK--TYRRLASDLSAASNAQVLLIEYRLAPEYPFPAALEDTLIAYNWLIKERGFNSN---
 Hit #96
 ------------------------------
 Title: ref|WP_071819531.1| MULTISPECIES: alpha/beta hydrolase [Cyanophyceae]
-Identity: 32.64%
-E-value: 4.52955e-17
+Percent Identity: 32.64%
+E-value: 4.53153e-17
 Query/Sbjct Length: 242
 Potential Novel Enzyme: No
 
@@ -1353,8 +1350,8 @@ Sbjct: KRPHSPAIPIRIYRPICDK-GIDLSLPILVYFQGGGWVFGSLDSA--DDTCSFLAKYGQCIVISVDYRRSPEH
 Hit #97
 ------------------------------
 Title: tpg|HEY9708122.1| alpha/beta hydrolase [Oculatellaceae cyanobacterium]
-Identity: 26.00%
-E-value: 5.24299e-17
+Percent Identity: 26.00%
+E-value: 5.24528e-17
 Query/Sbjct Length: 250
 Potential Novel Enzyme: Yes
 
@@ -1367,8 +1364,8 @@ Sbjct: GELPLRIYTPEGQA-PFPVLVFFHGGGWTTGDLD-TMDTPL-RALTNRAGCVVVSVDYRLAPEHKFPAAVEDA
 Hit #98
 ------------------------------
 Title: ref|WP_017716110.1| alpha/beta hydrolase [Oscillatoria sp. PCC 10802]
-Identity: 28.46%
-E-value: 5.43693e-17
+Percent Identity: 28.46%
+E-value: 5.4393e-17
 Query/Sbjct Length: 260
 Potential Novel Enzyme: Yes
 
@@ -1381,8 +1378,8 @@ Sbjct: RVENRAIPGADGDIPVRIYTPKS--SAPLPVLVYFHGGGWVLGDLDAA--DPICRALANGAECVVVSADYRLA
 Hit #99
 ------------------------------
 Title: gb|MBN4002434.1| alpha/beta hydrolase [Nostoc sp. LPT]
-Identity: 29.85%
-E-value: 5.45764e-17
+Percent Identity: 29.85%
+E-value: 5.46003e-17
 Query/Sbjct Length: 268
 Potential Novel Enzyme: Yes
 
@@ -1395,8 +1392,8 @@ Sbjct: DITHQL--IPGPGGDLLARIYLPK--GKGPFP---------VLVYFHGGGWVIANLDTYDSS--CRALTNAAN
 Hit #100
 ------------------------------
 Title: ref|WP_012305495.1| alpha/beta hydrolase [Picosynechococcus sp. PCC 7002] >gb|ACB01058.1| esterase/lipase [Picosynechococcus sp. PCC 7002] >emb|SMH47864.1| acetyl esterase [Picosynechococcus sp. OG1] >emb|SMQ81095.1| acetyl esterase [Synechococcus sp. 7002]
-Identity: 32.79%
-E-value: 5.61198e-17
+Percent Identity: 32.79%
+E-value: 5.61443e-17
 Query/Sbjct Length: 244
 Potential Novel Enzyme: No
 

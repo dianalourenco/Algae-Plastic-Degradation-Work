@@ -1,6 +1,3 @@
-BLAST Results for Novel Enzyme Discovery
-==================================================
-
 Query Length: 535
 E-value threshold: 1e-10
 Identity threshold: 0.3
@@ -9,8 +6,8 @@ Identity threshold: 0.3
 Hit #1
 ------------------------------
 Title: gb|MFN9624236.1| multicopper oxidase family protein [Cyanobacteriota bacterium]
-Identity: 31.65%
-E-value: 6.20769e-32
+Percent Identity: 31.65%
+E-value: 6.2104e-32
 Query/Sbjct Length: 316
 Potential Novel Enzyme: No
 
@@ -23,8 +20,8 @@ Sbjct: DGVKRLVYGYGGQLIGPTLRVKEGERLNIKILNQLPVPTIVHWHGMHQPGTWRMDGVEGVSGPAIPPGESFTY
 Hit #2
 ------------------------------
 Title: gb|MEB3259200.1| multicopper oxidase family protein [Cyanobacteriota bacterium]
-Identity: 28.41%
-E-value: 8.4529e-32
+Percent Identity: 28.41%
+E-value: 8.45659e-32
 Query/Sbjct Length: 352
 Potential Novel Enzyme: Yes
 
@@ -37,8 +34,8 @@ Sbjct: DGVRREIFTYGGQLIGPTIRVKEGERMMIEIVNNLKVPTIVHWHGMHQPNSWQMDGVEGVSGPAIAPGRSFLY
 Hit #3
 ------------------------------
 Title: gb|MBF2056971.1| copper resistance system multicopper oxidase [Cyanobacterium sp. T60_A2020_053]
-Identity: 28.63%
-E-value: 7.28735e-25
+Percent Identity: 28.63%
+E-value: 7.29053e-25
 Query/Sbjct Length: 262
 Potential Novel Enzyme: Yes
 
@@ -51,8 +48,8 @@ Sbjct: INIDGSSAMGKLLNSSLPSPTIRLKEGQNVTINVTNQLNEDTSIHWHGL--ILPANMDGVPGVSFRGIKPGET
 Hit #4
 ------------------------------
 Title: gb|MEB3256389.1| multicopper oxidase family protein [Synechococcaceae cyanobacterium]
-Identity: 37.96%
-E-value: 4.3983e-23
+Percent Identity: 37.96%
+E-value: 4.40022e-23
 Query/Sbjct Length: 137
 Potential Novel Enzyme: No
 
@@ -65,8 +62,8 @@ Sbjct: DGVSRQIYAYGGRLLGPTIRVREGERLVIEIVNNLRVPTIVHWHGMHQPNSWQMDGVEGVSGPAIEPGRSFVY
 Hit #5
 ------------------------------
 Title: ref|WP_072621474.1| copper resistance system multicopper oxidase [Spirulina major]
-Identity: 31.33%
-E-value: 1.48623e-22
+Percent Identity: 31.33%
+E-value: 1.48688e-22
 Query/Sbjct Length: 249
 Potential Novel Enzyme: No
 
@@ -79,8 +76,8 @@ Sbjct: ITVNGTMPGPILRFKEGQTITLNVTNQLDTDTSIHWHGL--ILPAQMDGVPGVSFHGIKPGQTYTYQFPLNQN
 Hit #6
 ------------------------------
 Title: ref|WP_330204428.1| copper resistance system multicopper oxidase [Cyanobacterium sp. Dongsha4] >gb|WVL01339.1| copper resistance system multicopper oxidase [Cyanobacterium sp. Dongsha4]
-Identity: 28.03%
-E-value: 1.51216e-22
+Percent Identity: 28.03%
+E-value: 1.51282e-22
 Query/Sbjct Length: 264
 Potential Novel Enzyme: Yes
 
@@ -93,8 +90,8 @@ Sbjct: VIAETKINIDDRSSSGKLVNGSLPSPTIRLKEGQNVTINVKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRG
 Hit #7
 ------------------------------
 Title: ref|WP_036489064.1| copper resistance system multicopper oxidase [Myxosarcina sp. GI1]
-Identity: 31.87%
-E-value: 1.70922e-22
+Percent Identity: 31.87%
+E-value: 1.70997e-22
 Query/Sbjct Length: 251
 Potential Novel Enzyme: No
 
@@ -107,8 +104,8 @@ Sbjct: TLTVNGSIPGPLVRLREGQTATIQVTNNLDEDTSLHWHGL--IVPREMDGVPGISYAGIKPGETFTYRFPVKQ
 Hit #8
 ------------------------------
 Title: ref|WP_066117844.1| copper resistance system multicopper oxidase [Geminocystis sp. NIES-3709] >dbj|BAQ64747.1| multicopper oxidase [Geminocystis sp. NIES-3709]
-Identity: 28.69%
-E-value: 1.75543e-22
+Percent Identity: 28.69%
+E-value: 1.7562e-22
 Query/Sbjct Length: 244
 Potential Novel Enzyme: Yes
 
@@ -121,8 +118,8 @@ Sbjct: LVNSRLPSPTIRLREGQNVRINLTNNLNEDTSIHWHGL--ILPANMDGVRGVSFRGIKPGETFTYQFPVNQSG
 Hit #9
 ------------------------------
 Title: ref|WP_066347994.1| copper resistance system multicopper oxidase [Geminocystis sp. NIES-3708] >dbj|BAQ62379.1| multicopper oxidase [Geminocystis sp. NIES-3708]
-Identity: 28.03%
-E-value: 2.49993e-22
+Percent Identity: 28.03%
+E-value: 2.50103e-22
 Query/Sbjct Length: 264
 Potential Novel Enzyme: Yes
 
@@ -135,8 +132,8 @@ Sbjct: VIAETKINIGDRTSQGKVVNGSLPSPTIRLKEGQNVTINIKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRG
 Hit #10
 ------------------------------
 Title: ref|WP_339374212.1| copper resistance system multicopper oxidase [Picosynechococcus sp. PCC 11901]
-Identity: 28.74%
-E-value: 2.80444e-22
+Percent Identity: 28.74%
+E-value: 2.80567e-22
 Query/Sbjct Length: 254
 Potential Novel Enzyme: Yes
 
@@ -149,8 +146,8 @@ Sbjct: ITVNGTVPGPVIRLKEGQIAKINVSNELDSETSIHWHGL--ILPATMDGVPGISFNGIKPKTTFSYEFPVNQN
 Hit #11
 ------------------------------
 Title: ref|WP_099434723.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum] >gb|MTF38852.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum 0216] >gb|PHV64180.1| copper resistance protein CopA [Cyanobacterium aponinum IPPAS B-1201]
-Identity: 29.96%
-E-value: 3.02126e-22
+Percent Identity: 29.96%
+E-value: 3.02258e-22
 Query/Sbjct Length: 247
 Potential Novel Enzyme: Yes
 
@@ -163,8 +160,8 @@ Sbjct: LVNGSLPSPTIRLKEGQNVTINVKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQFPVNQSG
 Hit #12
 ------------------------------
 Title: gb|OEU06134.1| L-ascorbate:oxygen oxidoreductase, partial [Fragilariopsis cylindrus CCMP1102]
-Identity: 30.89%
-E-value: 3.2262e-22
+Percent Identity: 30.89%
+E-value: 3.2276e-22
 Query/Sbjct Length: 246
 Potential Novel Enzyme: No
 
@@ -177,8 +174,8 @@ Sbjct: PGPLIEAEEGDTIRITITNKNEIMATTVHWHGLHQRGTVWNDGTSQITQCSLSPFESQTYEFIAYPAGTHYWH
 Hit #13
 ------------------------------
 Title: gb|OEU21588.1| Cu-oxidase-domain-containing protein [Fragilariopsis cylindrus CCMP1102]
-Identity: 31.08%
-E-value: 5.34981e-22
+Percent Identity: 31.08%
+E-value: 5.35215e-22
 Query/Sbjct Length: 251
 Potential Novel Enzyme: No
 
@@ -191,8 +188,8 @@ Sbjct: PGPLLEATEGDTIRLTVNNEDKSLSTAIHFHGMHQKETPWMDGVAQITQCPLGPMQSQTYEFKAYPAGTHYWH
 Hit #14
 ------------------------------
 Title: ref|WP_190362091.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum] >gb|MBD2395833.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum FACHB-4101]
-Identity: 29.96%
-E-value: 6.04762e-22
+Percent Identity: 29.96%
+E-value: 6.05026e-22
 Query/Sbjct Length: 247
 Potential Novel Enzyme: Yes
 
@@ -205,8 +202,8 @@ Sbjct: LVNGSLPSPTIRLKEGQNVTINVKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQFPVNQSG
 Hit #15
 ------------------------------
 Title: gb|OEU20856.1| Cu-oxidase_2-domain-containing protein, partial [Fragilariopsis cylindrus CCMP1102]
-Identity: 30.89%
-E-value: 7.32695e-22
+Percent Identity: 30.89%
+E-value: 7.33015e-22
 Query/Sbjct Length: 246
 Potential Novel Enzyme: No
 
@@ -219,8 +216,8 @@ Sbjct: PGPLIEAQEGDTIRITITNKNEIMATTVHWHGLHQRGTVWNDGTSQITQCSLSPFESQTYEFIAYPAGTHYWH
 Hit #16
 ------------------------------
 Title: ref|WP_324281823.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum] >gb|WRL37582.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum UTEX 3221] >gb|WRL41149.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum UTEX 3222]
-Identity: 29.96%
-E-value: 7.50679e-22
+Percent Identity: 29.96%
+E-value: 7.51007e-22
 Query/Sbjct Length: 247
 Potential Novel Enzyme: Yes
 
@@ -233,8 +230,8 @@ Sbjct: LVNGSLPSPTIRLKEGQNVTINVKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQFPVNQSG
 Hit #17
 ------------------------------
 Title: ref|WP_015218909.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum] >gb|AFZ53178.1| copper-resistance protein, CopA family [Cyanobacterium aponinum PCC 10605]
-Identity: 28.74%
-E-value: 9.92324e-22
+Percent Identity: 28.74%
+E-value: 9.92757e-22
 Query/Sbjct Length: 247
 Potential Novel Enzyme: Yes
 
@@ -247,8 +244,8 @@ Sbjct: LVNGSLPSPTIRLKEGQNVTINVKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQFPVNQSG
 Hit #18
 ------------------------------
 Title: ref|WP_138071103.1| copper resistance system multicopper oxidase [Picosynechococcus sp. PCC 11901] >gb|QCS48040.1| copper resistance system multicopper oxidase [Picosynechococcus sp. PCC 11901]
-Identity: 28.74%
-E-value: 1.13212e-21
+Percent Identity: 28.74%
+E-value: 1.13262e-21
 Query/Sbjct Length: 254
 Potential Novel Enzyme: Yes
 
@@ -261,8 +258,8 @@ Sbjct: ITVNGTVPGPVIRLKEGQIAKINVSNELDSETSIHWHGL--ILPATMDGVPGISFNGIKPKTTFSYEFPVNQN
 Hit #19
 ------------------------------
 Title: ref|WP_320002106.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum] >gb|WPF89955.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum AL20115] >gb|WXZ63289.1| copper resistance system multicopper oxidase [Cyanobacterium aponinum AL20118]
-Identity: 29.55%
-E-value: 1.74901e-21
+Percent Identity: 29.55%
+E-value: 1.74977e-21
 Query/Sbjct Length: 247
 Potential Novel Enzyme: Yes
 
@@ -275,8 +272,8 @@ Sbjct: LVNGSLPSPTIRLKEGQNVTINVKNNLNEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQFPVNQSG
 Hit #20
 ------------------------------
 Title: dbj|BAW97929.1| copper-resistance protein, CopA family [[Synechococcus] sp. NIES-970]
-Identity: 28.74%
-E-value: 2.21483e-21
+Percent Identity: 28.74%
+E-value: 2.2158e-21
 Query/Sbjct Length: 254
 Potential Novel Enzyme: Yes
 
@@ -289,8 +286,8 @@ Sbjct: ITVNGTVPGPVIRLKEGQIAKINVSNELDSETSIHWHGL--ILPATMDGVPGISFNGIKPKTTFSYEFPVNQN
 Hit #21
 ------------------------------
 Title: ref|WP_036488318.1| copper resistance system multicopper oxidase [Myxosarcina sp. GI1]
-Identity: 31.30%
-E-value: 2.56101e-21
+Percent Identity: 31.30%
+E-value: 2.56213e-21
 Query/Sbjct Length: 246
 Potential Novel Enzyme: No
 
@@ -303,8 +300,8 @@ Sbjct: TLTVNGSIPGPLVRLREGQTATIQVTNNLDEDTSLHWHGL--IVPREMDGVPGISYAGIKPGETFTYRFPVKQ
 Hit #22
 ------------------------------
 Title: emb|CAB9507669.1| L-ascorbate oxidase [Seminavis robusta]
-Identity: 29.96%
-E-value: 5.7941e-21
+Percent Identity: 29.96%
+E-value: 5.79664e-21
 Query/Sbjct Length: 257
 Potential Novel Enzyme: Yes
 
@@ -317,8 +314,8 @@ Sbjct: LLVDDQNPGPTIRANKGDTIQIKWNNESPSEGVSIHFHGLIMKDQPYADGTGTVSTCVVGPMQTFYQTFVADN
 Hit #23
 ------------------------------
 Title: ref|WP_030007965.1| copper resistance system multicopper oxidase [Picosynechococcus sp. NKBG042902]
-Identity: 28.74%
-E-value: 1.10613e-20
+Percent Identity: 28.74%
+E-value: 1.10661e-20
 Query/Sbjct Length: 254
 Potential Novel Enzyme: Yes
 
@@ -331,8 +328,8 @@ Sbjct: ITVNGTVPGPVIRLKEGQIAKINVSNELDSETSIHWHGL--ILPATMDGVPGISFNGIKPKTTFSYEFPVNQN
 Hit #24
 ------------------------------
 Title: ref|WP_010476388.1| copper resistance system multicopper oxidase [Acaryochloris sp. CCMEE 5410] >gb|KAI9130087.1| copper resistance system multicopper oxidase [Acaryochloris sp. CCMEE 5410]
-Identity: 31.37%
-E-value: 1.76903e-20
+Percent Identity: 31.37%
+E-value: 1.7698e-20
 Query/Sbjct Length: 255
 Potential Novel Enzyme: No
 
@@ -345,8 +342,8 @@ Sbjct: LAIAGKETPAITSNGSIPGPLVRLREGQTATIKVTNQLKEDTSIHWHGI--LLPPEMDGVPGVSFAGIKPGET
 Hit #25
 ------------------------------
 Title: gb|NBQ21553.1| copper resistance system multicopper oxidase [Synechococcaceae bacterium WB6_3B_236]
-Identity: 39.68%
-E-value: 2.19177e-20
+Percent Identity: 39.68%
+E-value: 2.19272e-20
 Query/Sbjct Length: 126
 Potential Novel Enzyme: No
 
@@ -359,8 +356,8 @@ Sbjct: DGVKRGVFGYGGQLIGPTIRVKEGERLNLTVENNLKVPTIVHWHGMHQPGTWKMDGVEGVSGPAIPAGESFTY
 Hit #26
 ------------------------------
 Title: ref|WP_062436887.1| copper resistance system multicopper oxidase [Picosynechococcus sp. PCC 73109] >gb|AMA10702.1| copper resistance protein CopA [Picosynechococcus sp. PCC 73109]
-Identity: 30.00%
-E-value: 2.22212e-20
+Percent Identity: 30.00%
+E-value: 2.22309e-20
 Query/Sbjct Length: 260
 Potential Novel Enzyme: No
 
@@ -373,8 +370,8 @@ Sbjct: ITVNGTVPGPVIRLKEGQIAKINVSNELDSETSIHWHGL--ILPATMDGVPGISFNGIKPKTTFSYEFPVNQN
 Hit #27
 ------------------------------
 Title: gb|MEC5029393.1| copper resistance system multicopper oxidase [Oscillatoria sp. PMC 1051.18]
-Identity: 27.13%
-E-value: 2.82881e-20
+Percent Identity: 27.13%
+E-value: 2.83005e-20
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -387,8 +384,8 @@ Sbjct: TKALTINNSLPGQLIRLREGQTAKIRVTNKLKEDTSIHWHGI--ILPANMDGVPGLSFAGIKPGQTFSYEFSV
 Hit #28
 ------------------------------
 Title: gb|MEB3160845.1| multicopper oxidase domain-containing protein [Synechocystis sp.]
-Identity: 26.81%
-E-value: 2.92799e-20
+Percent Identity: 26.81%
+E-value: 2.92927e-20
 Query/Sbjct Length: 235
 Potential Novel Enzyme: Yes
 
@@ -401,8 +398,8 @@ Sbjct: VTVNGSVPAPLLRFKEGQTVKLKVVNHLKEDTSIHWHGI--ILPFDMDGVPGVSFAGIRPGETFTYQFPLNQN
 Hit #29
 ------------------------------
 Title: gb|MEC4892831.1| copper resistance system multicopper oxidase [Oscillatoria sp. PMC 1050.18]
-Identity: 26.38%
-E-value: 2.94611e-20
+Percent Identity: 26.38%
+E-value: 2.9474e-20
 Query/Sbjct Length: 254
 Potential Novel Enzyme: Yes
 
@@ -415,8 +412,8 @@ Sbjct: TKALTINNSLPGQLIRLREGQTAKIRVTNKLKEDTSIHWHGI--ILPANMDGVPGLSFAGIKPGQTFSYEFSV
 Hit #30
 ------------------------------
 Title: gb|NEO87187.1| copper resistance system multicopper oxidase [Spirulina sp. SIO3F2]
-Identity: 28.63%
-E-value: 3.47426e-20
+Percent Identity: 28.63%
+E-value: 3.47578e-20
 Query/Sbjct Length: 248
 Potential Novel Enzyme: Yes
 
@@ -429,8 +426,8 @@ Sbjct: RDALTVNGIVPGPILRFQEGQTITLNVTNQLETDTSIHWHGL--ILPAQMDGVPGVSFHGIKPGQTFSYRFPL
 Hit #31
 ------------------------------
 Title: gb|NET87623.1| copper resistance system multicopper oxidase [Kamptonema sp. SIO1D9]
-Identity: 27.52%
-E-value: 6.03227e-20
+Percent Identity: 27.52%
+E-value: 6.03491e-20
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -443,8 +440,8 @@ Sbjct: TKALTINNSLPGQLIRLREGQTAKIRVTNKLKEDTSIHWHGI--ILPANMDGVPGLSFAGIKPGETFSYEFSV
 Hit #32
 ------------------------------
 Title: ref|WP_224408813.1| copper resistance system multicopper oxidase [Oscillatoria salina] >gb|MBZ8178850.1| copper resistance system multicopper oxidase [Oscillatoria salina IIICB1]
-Identity: 27.52%
-E-value: 6.18504e-20
+Percent Identity: 27.52%
+E-value: 6.18774e-20
 Query/Sbjct Length: 258
 Potential Novel Enzyme: Yes
 
@@ -457,8 +454,8 @@ Sbjct: TKALTINNSLPGQLIRLREGQTAKIRVTNKLKEDTSIHWHGI--ILPANMDGVPGLSFAGIKPGETFSYEFSV
 Hit #33
 ------------------------------
 Title: ref|WP_010476458.1| copper resistance system multicopper oxidase [Acaryochloris sp. CCMEE 5410] >gb|KAI9129958.1| copper resistance system multicopper oxidase [Acaryochloris sp. CCMEE 5410]
-Identity: 30.77%
-E-value: 9.13781e-20
+Percent Identity: 30.77%
+E-value: 9.1418e-20
 Query/Sbjct Length: 247
 Potential Novel Enzyme: No
 
@@ -471,8 +468,8 @@ Sbjct: PAITSNGSIPGPLVRLREGQTATIQVTNRLKEDTSIHWHGI--LLPPEMDGVPGVSFAGIKPGETFTYRFPVQ
 Hit #34
 ------------------------------
 Title: ref|WP_324630654.1| copper resistance system multicopper oxidase, partial [Phormidium sp. CCY1219] >gb|MEB3827548.1| copper resistance system multicopper oxidase [Phormidium sp. CCY1219]
-Identity: 29.57%
-E-value: 1.2219e-19
+Percent Identity: 29.57%
+E-value: 1.22243e-19
 Query/Sbjct Length: 257
 Potential Novel Enzyme: Yes
 
@@ -485,8 +482,8 @@ Sbjct: GETGSAIAVNDSIPGPLLRLREGQTATIQVTNHLQEDTSIHWHGI--ILPFQMDGVPGLSFAGIKPGETFTYR
 Hit #35
 ------------------------------
 Title: ref|WP_373480696.1| copper resistance system multicopper oxidase [Geminocystis sp.]
-Identity: 28.10%
-E-value: 1.2421e-19
+Percent Identity: 28.10%
+E-value: 1.24265e-19
 Query/Sbjct Length: 274
 Potential Novel Enzyme: Yes
 
@@ -499,8 +496,8 @@ Sbjct: DVITMGYTVNNSLPAPTIRLKEGQTATIKVTNNLKEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQ
 Hit #36
 ------------------------------
 Title: ref|WP_323301441.1| copper resistance system multicopper oxidase [Crocosphaera sp. UHCC 0190] >gb|MEA5510481.1| copper resistance system multicopper oxidase [Crocosphaera sp. UHCC 0190]
-Identity: 27.35%
-E-value: 1.30912e-19
+Percent Identity: 27.35%
+E-value: 1.3097e-19
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -513,8 +510,8 @@ Sbjct: ITVNNTIPAPLIRLKEGQTAKINVTNNLNQDTSIHWHGI--ILPSKMDGVPGVSFAGIKPGQTFTYEFPVIQN
 Hit #37
 ------------------------------
 Title: gb|MBY0497648.1| multicopper oxidase family protein [Cyanobacteriota bacterium]
-Identity: 26.53%
-E-value: 1.43164e-19
+Percent Identity: 26.53%
+E-value: 1.43227e-19
 Query/Sbjct Length: 343
 Potential Novel Enzyme: Yes
 
@@ -527,8 +524,8 @@ Sbjct: KIVEIDLVAKLADVTVDGKTVHAWTYNGGLPGPLIKTRVGDRLIVHFKNELDEPTTVHWHGVR--VPIEMDGV
 Hit #38
 ------------------------------
 Title: tpg|HBB34755.1| copper resistance protein CopA [Cyanobacteria bacterium UBA9273]
-Identity: 29.72%
-E-value: 1.59938e-19
+Percent Identity: 29.72%
+E-value: 1.60008e-19
 Query/Sbjct Length: 249
 Potential Novel Enzyme: Yes
 
@@ -541,8 +538,8 @@ Sbjct: FTVNGSVPGPLVRLREGQTATIRVTNHLKEDTSIHWHGL--ILPAEMDGVPGVSFAGIKPGKTFTYRFPVKQS
 Hit #39
 ------------------------------
 Title: gb|MBL1210733.1| copper resistance system multicopper oxidase [Geminocystis sp. GBBB08]
-Identity: 26.95%
-E-value: 1.94758e-19
+Percent Identity: 26.95%
+E-value: 1.94843e-19
 Query/Sbjct Length: 282
 Potential Novel Enzyme: Yes
 
@@ -555,8 +552,8 @@ Sbjct: VIAETKVNIEDRTAQGKLVNSSLPSPTIRLKEGQNVRINVTNKLKGDTSIHWHGLSL--PANMDGVPGVSVWG
 Hit #40
 ------------------------------
 Title: ref|WP_323290010.1| copper resistance system multicopper oxidase [Crocosphaera sp. XPORK-15E] >gb|MEA5533000.1| copper resistance system multicopper oxidase [Crocosphaera sp. XPORK-15E]
-Identity: 27.35%
-E-value: 2.08155e-19
+Percent Identity: 27.35%
+E-value: 2.08246e-19
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -569,8 +566,8 @@ Sbjct: ITVNNTIPAPLIRLKEGQTAKINVTNNLNQDTSIHWHGI--ILPSKMDGVPGVSFAGIKPGQTFTYEFPVIQN
 Hit #41
 ------------------------------
 Title: ref|WP_308255975.1| copper resistance system multicopper oxidase [Geminocystis sp. GBBB08]
-Identity: 26.95%
-E-value: 2.11567e-19
+Percent Identity: 26.95%
+E-value: 2.11659e-19
 Query/Sbjct Length: 282
 Potential Novel Enzyme: Yes
 
@@ -583,8 +580,8 @@ Sbjct: VIAETKVNIEDRTAQGKLVNSSLPSPTIRLKEGQNVRINVTNKLKGDTSIHWHGLSL--PANMDGVPGVSVWG
 Hit #42
 ------------------------------
 Title: ref|WP_272066608.1| copper resistance system multicopper oxidase [Oscillatoria sp. CS-180] >gb|MDB9529709.1| copper resistance system multicopper oxidase [Oscillatoria sp. CS-180]
-Identity: 27.95%
-E-value: 2.26982e-19
+Percent Identity: 27.95%
+E-value: 2.27081e-19
 Query/Sbjct Length: 297
 Potential Novel Enzyme: Yes
 
@@ -597,8 +594,8 @@ Sbjct: LTINGSVPGPLIRLREGQNISINVTNQLDRDTSIHWHGI--ILPPEMDGVPGVSFAGVKPGQTFTYQFPITQS
 Hit #43
 ------------------------------
 Title: ref|WP_190718182.1| copper resistance system multicopper oxidase [Oscillatoria sp. FACHB-1406] >gb|MBD2579177.1| copper resistance system multicopper oxidase [Oscillatoria sp. FACHB-1406]
-Identity: 27.63%
-E-value: 2.5313e-19
+Percent Identity: 27.63%
+E-value: 2.5324e-19
 Query/Sbjct Length: 257
 Potential Novel Enzyme: Yes
 
@@ -611,8 +608,8 @@ Sbjct: IAVNGTVPGPIIRLKEGQIATLNVSNRLNTDTSIHWHGI--ILPAQMDGVPGISFNGIKPGQTFRYRFPVQQS
 Hit #44
 ------------------------------
 Title: tpg|HAJ64139.1| copper resistance protein CopA [Cyanobacteria bacterium UBA8543]
-Identity: 28.57%
-E-value: 2.57025e-19
+Percent Identity: 28.57%
+E-value: 2.57137e-19
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -625,8 +622,8 @@ Sbjct: FTVNGSIPGPLVRLREGQTATIQVTNHLKEDTSIHWHGL--ILPPEMDGVPGVSFAGIKPGKTFTYRFPVKQS
 Hit #45
 ------------------------------
 Title: ref|WP_110988456.1| copper resistance system multicopper oxidase [Acaryochloris thomasi] >gb|PZD71013.1| Copper resistance protein A [Acaryochloris thomasi RCC1774]
-Identity: 28.46%
-E-value: 3.45044e-19
+Percent Identity: 28.46%
+E-value: 3.45195e-19
 Query/Sbjct Length: 260
 Potential Novel Enzyme: Yes
 
@@ -639,8 +636,8 @@ Sbjct: VQKTKLEIGGKETSAITSNGSIPGPLVRLREGQTATIQVTNRLKEDTSIHWHGI--LLPPEMDGVPGVSFAGI
 Hit #46
 ------------------------------
 Title: ref|WP_017293459.1| copper resistance system multicopper oxidase [Geminocystis herdmanii]
-Identity: 27.38%
-E-value: 3.54392e-19
+Percent Identity: 27.38%
+E-value: 3.54547e-19
 Query/Sbjct Length: 252
 Potential Novel Enzyme: Yes
 
@@ -653,8 +650,8 @@ Sbjct: VNNSLPAPTIRLKEGQIATIRVKNNLKEDTSIHWHGL--ILPANMDGVPGVSFRGIKPQETFTYQFPVNQNGT
 Hit #47
 ------------------------------
 Title: gb|MBY0496451.1| copper resistance system multicopper oxidase [Cyanobacteriota bacterium]
-Identity: 26.02%
-E-value: 4.01178e-19
+Percent Identity: 26.02%
+E-value: 4.01353e-19
 Query/Sbjct Length: 269
 Potential Novel Enzyme: Yes
 
@@ -667,8 +664,8 @@ Sbjct: LNGTVPGPLIRLREGQQVTLNVTNRLSDMTSIHWHGV--LVPHDMDGVPGVSFKGIEPGETFSYKFKVRQYGT
 Hit #48
 ------------------------------
 Title: ref|WP_015212103.1| copper resistance system multicopper oxidase [Stanieria cyanosphaera] >gb|AFZ38200.1| copper-resistance protein, CopA family [Stanieria cyanosphaera PCC 7437]
-Identity: 29.08%
-E-value: 6.46269e-19
+Percent Identity: 29.08%
+E-value: 6.46552e-19
 Query/Sbjct Length: 251
 Potential Novel Enzyme: Yes
 
@@ -681,8 +678,8 @@ Sbjct: GKSASSLTVNGSIPGPLVRLKEGQTATIQVTNQLEEDTSIHWHGI--ILPPNMDGVPGVSFAGIKPGETFTYQ
 Hit #49
 ------------------------------
 Title: ref|WP_012596843.1| copper resistance system multicopper oxidase [Rippkaea orientalis] >gb|ACK67585.1| copper-resistance protein, CopA family [Rippkaea orientalis PCC 8801]
-Identity: 28.16%
-E-value: 7.82321e-19
+Percent Identity: 28.16%
+E-value: 7.82662e-19
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -695,8 +692,8 @@ Sbjct: VTVNNTIPAPLLRLKEGQIAKINVTNNLDQDTSIHWHGI--ILPSKMDGVPGVSFAGIKPGQTFTYEFPVIQS
 Hit #50
 ------------------------------
 Title: gb|MDY6898645.1| copper resistance system multicopper oxidase [Cyanobacteriota bacterium]
-Identity: 27.76%
-E-value: 9.0944e-19
+Percent Identity: 27.76%
+E-value: 9.09837e-19
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -709,8 +706,8 @@ Sbjct: LTVNGSVPGALIRLREGQNVTINVTNELKKDTSIHWHGI--LLRPNMDGVPGVSFAGIKPGQTFSYRFPVAQN
 Hit #51
 ------------------------------
 Title: ref|WP_124978636.1| copper resistance system multicopper oxidase [Aphanothece sacrum] >dbj|GBF82210.1| copper resistance protein CopA [Aphanothece sacrum FPU1] >dbj|GBF87252.1| copper resistance protein A [Aphanothece sacrum FPU3]
-Identity: 27.76%
-E-value: 9.5306e-19
+Percent Identity: 27.76%
+E-value: 9.53476e-19
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -723,8 +720,8 @@ Sbjct: ITVNNSIPAPLIRLKEGQIAKINVTNKLDEDTSIHWHGI--ILPVKMDGVPGVSFAGIKPGQTFTYEFPIIQS
 Hit #52
 ------------------------------
 Title: ref|WP_015117916.1| copper resistance system multicopper oxidase [Rivularia sp. PCC 7116] >gb|AFY54340.1| copper-resistance protein, CopA family [Rivularia sp. PCC 7116]
-Identity: 27.35%
-E-value: 1.09401e-18
+Percent Identity: 27.35%
+E-value: 1.09449e-18
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -737,8 +734,8 @@ Sbjct: LTVNGSVPGALIRLREGQNVTINVTNELKKDTSIHWHGI--LLRPNMDGVPGVSFAGIKPGQTFTYRFPVAQN
 Hit #53
 ------------------------------
 Title: ref|WP_204101982.1| copper resistance system multicopper oxidase [Spirulina sp. CCY15215]
-Identity: 27.76%
-E-value: 1.31198e-18
+Percent Identity: 27.76%
+E-value: 1.31255e-18
 Query/Sbjct Length: 263
 Potential Novel Enzyme: Yes
 
@@ -751,8 +748,8 @@ Sbjct: DLNIQQTTIKIGNQNTNALTVNGSIPGSLVRLREGQTATINVTNYLKKDTSIHWHGL--ILPANMDGVPGVSF
 Hit #54
 ------------------------------
 Title: ref|WP_039728188.1| copper resistance system multicopper oxidase [Leptolyngbya iicbica] >gb|RZM79071.1| copper resistance system multicopper oxidase [Leptolyngbya iicbica LK]
-Identity: 27.06%
-E-value: 1.70716e-18
+Percent Identity: 27.06%
+E-value: 1.7079e-18
 Query/Sbjct Length: 255
 Potential Novel Enzyme: Yes
 
@@ -765,8 +762,8 @@ Sbjct: IQLGGRSAKALTTNGSIPGPLIRLREGQNISINVTNQLNEDTSIHWHGI--ILPPEMDGVPGVSFAGIKSGQT
 Hit #55
 ------------------------------
 Title: gb|NCO73992.1| copper resistance system multicopper oxidase [Cyanobacteria bacterium CG_2015-16_32_12] >gb|NCO77030.1| copper resistance system multicopper oxidase [Cyanobacteria bacterium CG_2015-22_32_23] >gb|NCQ03852.1| copper resistance system multicopper oxidase [Cyanobacteria bacterium CG_2015-09_32_10] >gb|NCQ41155.1| copper resistance system multicopper oxidase [Cyanobacteria bacterium CG_2015-04_32_10] >gb|NCS85557.1| copper resistance system multicopper oxidase [Cyanobacteria bacterium CG_2015-02_32_10]
-Identity: 27.99%
-E-value: 1.99786e-18
+Percent Identity: 27.99%
+E-value: 1.99874e-18
 Query/Sbjct Length: 268
 Potential Novel Enzyme: Yes
 
@@ -779,8 +776,8 @@ Sbjct: VNNSLPAPTIRLKEGQTATIKVTNNLKEDTSIHWHGL--ILPANMDGVPGVSFRGIKPKETFTYQFPVTQNGT
 Hit #56
 ------------------------------
 Title: ref|WP_275265854.1| copper resistance system multicopper oxidase [Gloeothece citriformis]
-Identity: 28.57%
-E-value: 2.59755e-18
+Percent Identity: 28.57%
+E-value: 2.59868e-18
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -793,8 +790,8 @@ Sbjct: ITVNGSIPAPLIRLREGQTATIRVTNHLKQDTSIHWHGL--ILPYEMDGVPGIGFKGIKPGETFTYQFPVVQS
 Hit #57
 ------------------------------
 Title: gb|ACK68849.1| copper-resistance protein, CopA family [Gloeothece citriformis PCC 7424]
-Identity: 28.57%
-E-value: 2.77899e-18
+Percent Identity: 28.57%
+E-value: 2.78021e-18
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -807,8 +804,8 @@ Sbjct: ITVNGSIPAPLIRLREGQTATIRVTNHLKQDTSIHWHGL--ILPYEMDGVPGIGFKGIKPGETFTYQFPVVQS
 Hit #58
 ------------------------------
 Title: gb|NER36382.1| copper resistance system multicopper oxidase [Oscillatoria sp. SIO1A7]
-Identity: 27.42%
-E-value: 1.58578e-17
+Percent Identity: 27.42%
+E-value: 1.58647e-17
 Query/Sbjct Length: 248
 Potential Novel Enzyme: Yes
 
@@ -821,8 +818,8 @@ Sbjct: LTVNGSVPAPLIRWREGQTATIKVTNQLKEDTSIHWHGI--ILPPNMDGVPGLSFAGINPGNTFTYQFPVNQS
 Hit #59
 ------------------------------
 Title: ref|WP_075888489.1| copper resistance system multicopper oxidase [[Limnothrix rosea] IAM M-220] >gb|OKH17679.1| copper resistance protein CopA [[Limnothrix rosea] IAM M-220]
-Identity: 27.64%
-E-value: 1.71467e-17
+Percent Identity: 27.64%
+E-value: 1.71542e-17
 Query/Sbjct Length: 246
 Potential Novel Enzyme: Yes
 
@@ -835,8 +832,8 @@ Sbjct: PGQLIRLKEGQTATIKVTNKLKVDTSIHWHGI--ILPPNMDGVPGVSFAGIKPGETFTYKFDVNQNGTYWYHS
 Hit #60
 ------------------------------
 Title: gb|MBY0493867.1| copper resistance system multicopper oxidase [Cyanobacteriota bacterium]
-Identity: 26.67%
-E-value: 2.09939e-17
+Percent Identity: 26.67%
+E-value: 2.1003e-17
 Query/Sbjct Length: 315
 Potential Novel Enzyme: Yes
 
@@ -849,8 +846,8 @@ Sbjct: MNFTGRTRTALTVNGSIPAPTLRWREGDTVTLRVTNAFKNTREDTSIHWHGI--LLPANMDGVPGISFPGIHP
 Hit #61
 ------------------------------
 Title: gb|KAL3906893.1| MAG: hypothetical protein SGARI_003797 [Bacillariaceae sp.]
-Identity: 30.23%
-E-value: 2.50716e-17
+Percent Identity: 30.23%
+E-value: 2.50826e-17
 Query/Sbjct Length: 215
 Potential Novel Enzyme: No
 
@@ -863,8 +860,8 @@ Sbjct: ISRSASLINGTLPGPTLVAEEGDQVIIRVKNIQDAGGSEASLHWHGMFQPGTPFMDGVQGVTQCGICVGCEEV
 Hit #62
 ------------------------------
 Title: ref|WP_193963211.1| copper resistance system multicopper oxidase [Nodosilinea sp. LEGE 07088] >gb|MBE9135709.1| copper resistance system multicopper oxidase [Nodosilinea sp. LEGE 07088]
-Identity: 27.06%
-E-value: 2.52364e-17
+Percent Identity: 27.06%
+E-value: 2.52474e-17
 Query/Sbjct Length: 255
 Potential Novel Enzyme: Yes
 
@@ -877,8 +874,8 @@ Sbjct: IKLGGQNAKALTTNGSIPGPLIRLREGQTVSINVTNQLNEDTSIHWHGI--ILPPEMDGVPGVSFAGIKARQT
 Hit #63
 ------------------------------
 Title: ref|WP_054467835.1| copper resistance system multicopper oxidase [Planktothricoides sp. SR001] >gb|KOR35494.1| copper resistance protein CopA [Planktothricoides sp. SR001]
-Identity: 28.16%
-E-value: 2.80742e-17
+Percent Identity: 28.16%
+E-value: 2.80864e-17
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -891,8 +888,8 @@ Sbjct: VTVNNVLPAPIIRWKEGQTATIKVTNNLKEDTSIHWHGI--ILPANMDGVPGISFAGIKPGQTFTYQFPINQS
 Hit #64
 ------------------------------
 Title: ref|WP_190879001.1| copper resistance system multicopper oxidase [Planktothricoides raciborskii] >gb|MBD2545207.1| copper resistance system multicopper oxidase [Planktothricoides raciborskii FACHB-1370] >gb|MBD2583264.1| copper resistance system multicopper oxidase [Planktothricoides raciborskii FACHB-1261] >gb|XCM37356.1| copper resistance system multicopper oxidase [Planktothricoides raciborskii GIHE-MW2]
-Identity: 28.16%
-E-value: 2.80742e-17
+Percent Identity: 28.16%
+E-value: 2.80864e-17
 Query/Sbjct Length: 245
 Potential Novel Enzyme: Yes
 
@@ -905,8 +902,8 @@ Sbjct: VTVNNVLPAPIIRWKEGQTATIKVTNNLKEDTSIHWHGI--ILPANMDGVPGISFAGIKPGQTFTYQFPINQS
 Hit #65
 ------------------------------
 Title: gb|MDF2381793.1| copper resistance system multicopper oxidase [Nostoc ellipsosporum NOK]
-Identity: 24.48%
-E-value: 4.02139e-17
+Percent Identity: 24.48%
+E-value: 4.02314e-17
 Query/Sbjct Length: 286
 Potential Novel Enzyme: Yes
 
@@ -919,8 +916,8 @@ Sbjct: TLRISRMTMVLDGRRSNAIGVNGTVPAPLLRLREGQTVRLNVVNDLDEDSSIHWHGL--LVPPQFDGVPGVSF
 Hit #66
 ------------------------------
 Title: gb|NES66381.1| copper resistance system multicopper oxidase [Okeania sp. SIO2D1]
-Identity: 28.29%
-E-value: 4.19016e-17
+Percent Identity: 28.29%
+E-value: 4.19199e-17
 Query/Sbjct Length: 251
 Potential Novel Enzyme: Yes
 
@@ -933,8 +930,8 @@ Sbjct: MTVNGAIPGPLIRLREGQTATIQVTNNLKTDTSIHWHGI--ILPPEMDGVPGLSFAGIKPGETFTYRFAVNQS
 Hit #67
 ------------------------------
 Title: ref|WP_293137627.1| copper resistance system multicopper oxidase [Okeania sp. SIO3I5] >gb|NEQ37703.1| copper resistance system multicopper oxidase [Okeania sp. SIO3I5]
-Identity: 28.29%
-E-value: 5.66403e-17
+Percent Identity: 28.29%
+E-value: 5.6665e-17
 Query/Sbjct Length: 251
 Potential Novel Enzyme: Yes
 
@@ -947,8 +944,8 @@ Sbjct: MTVNGAIPGPLIRLREGQTATIKVTNNLKTDTSIHWHGI--ILPPEMDGVPGLSFAGIKPGETFTYRFPVNQS
 Hit #68
 ------------------------------
 Title: ref|WP_342001610.1| copper oxidase [Chlorogloeopsis sp. ULAP02] >gb|MFQ4143912.1| copper oxidase [Chlorogloeopsis sp. ULAP02]
-Identity: 27.51%
-E-value: 6.51669e-17
+Percent Identity: 27.51%
+E-value: 6.51954e-17
 Query/Sbjct Length: 349
 Potential Novel Enzyme: Yes
 
@@ -961,8 +958,8 @@ Sbjct: GGTKFPTPVSL-LPPAPMSSVTQMNGLVMPPGMIMT------SDMSMEAMADMAAVDLTKIAYTAPIDARGDQ
 Hit #69
 ------------------------------
 Title: gb|EJK68654.1| hypothetical protein THAOC_10148 [Thalassiosira oceanica]
-Identity: 29.66%
-E-value: 6.70278e-17
+Percent Identity: 29.66%
+E-value: 6.70571e-17
 Query/Sbjct Length: 263
 Potential Novel Enzyme: Yes
 
@@ -975,8 +972,8 @@ Sbjct: IRAKVGDTVRLTVQNNSPTDVLTVHMHGLTMKGQPYIDGVSSVTQCGSPPLSSQAYEFEVFDVGTHYWHGHVS
 Hit #70
 ------------------------------
 Title: gb|MDF2381865.1| copper resistance system multicopper oxidase [Nostoc ellipsosporum NOK]
-Identity: 25.09%
-E-value: 8.80876e-17
+Percent Identity: 25.09%
+E-value: 8.81261e-17
 Query/Sbjct Length: 283
 Potential Novel Enzyme: Yes
 
@@ -989,8 +986,8 @@ Sbjct: IARQRMAIDGRHYRAIGVNGTVPAPLIRLREGQNVRLHVENALDEDSSIHWHGL--IVPAQFDGVPGVSFPGI
 Hit #71
 ------------------------------
 Title: ref|WP_293127421.1| copper resistance system multicopper oxidase [Okeania sp. SIO1I7] >gb|NET30137.1| copper resistance system multicopper oxidase [Okeania sp. SIO1I7]
-Identity: 27.87%
-E-value: 1.03392e-16
+Percent Identity: 27.87%
+E-value: 1.03437e-16
 Query/Sbjct Length: 244
 Potential Novel Enzyme: Yes
 
@@ -1003,8 +1000,8 @@ Sbjct: PGPLIRLREGQTATIQVTNNLKTDTSIHWHGI--ILPPEMDGVPGLSFAGIKPGETFTYRFAVNQSGTYWYHS
 Hit #72
 ------------------------------
 Title: gb|KAL3780026.1| hypothetical protein HJC23_011822, partial [Cyclotella cryptica]
-Identity: 25.93%
-E-value: 2.06185e-16
+Percent Identity: 25.93%
+E-value: 2.06275e-16
 Query/Sbjct Length: 270
 Potential Novel Enzyme: Yes
 
@@ -1017,8 +1014,8 @@ Sbjct: RPMLLVNDQFPGPAIEASVGDTVRVTLVNHSPTESVSLHFHGLTMLGQPYVDGTGSVSQCASGPLQTQVYEFV
 Hit #73
 ------------------------------
 Title: ref|WP_409879932.1| multicopper oxidase family protein [Nostoc sp. EfeVER01] >gb|MFN6456158.1| multicopper oxidase family protein [Nostoc sp. EfeVER01]
-Identity: 27.27%
-E-value: 2.19468e-16
+Percent Identity: 27.27%
+E-value: 2.19564e-16
 Query/Sbjct Length: 341
 Potential Novel Enzyme: Yes
 
@@ -1031,8 +1028,8 @@ Sbjct: SPTPVSSLPPAPMSSVTQMNGLVMPPGMIMT------SDMSMEAMADMAAVDLTKIAYTAPVDARGDETLTPK
 Hit #74
 ------------------------------
 Title: ref|WP_179070470.1| multicopper oxidase family protein [Nostoc sp. C052] >gb|QLE46129.1| copper oxidase [Nostoc sp. C052]
-Identity: 27.17%
-E-value: 3.34179e-16
+Percent Identity: 27.17%
+E-value: 3.34325e-16
 Query/Sbjct Length: 368
 Potential Novel Enzyme: Yes
 
@@ -1045,8 +1042,8 @@ Sbjct: QPESMPGMNMGNQSMPGMNMGGTKSL---TPISSLPPAPMSSVTQMNGLVMPPGMIMT------SDMSMEAME
 Hit #75
 ------------------------------
 Title: ref|WP_251960893.1| multicopper oxidase family protein [Nostoc commune] >dbj|BDI20769.1| hypothetical protein ANSO36C_65710 [Nostoc cf. commune SO-36]
-Identity: 27.27%
-E-value: 3.39276e-16
+Percent Identity: 27.27%
+E-value: 3.39424e-16
 Query/Sbjct Length: 374
 Potential Novel Enzyme: Yes
 
@@ -1059,8 +1056,8 @@ Sbjct: NSIAQNSPLSQPATNQ---NMPGMNMGGTK---SPTPLSSLPPAPMSSVTQMNGLVMPPGMIMT------SDM
 Hit #76
 ------------------------------
 Title: ref|WP_124146593.1| MULTISPECIES: copper resistance system multicopper oxidase [Okeania] >gb|NET12566.1| copper resistance system multicopper oxidase [Okeania sp. SIO1H6] >gb|NES79930.1| copper resistance system multicopper oxidase [Okeania sp. SIO1H4] >gb|NET20569.1| copper resistance system multicopper oxidase [Okeania sp. SIO1H5] >gb|NET80348.1| copper resistance system multicopper oxidase [Okeania sp. SIO1F9] >gb|NET96928.1| copper resistance system multicopper oxidase [Okeania sp. SIO1H2]
-Identity: 27.89%
-E-value: 4.03937e-16
+Percent Identity: 27.89%
+E-value: 4.04114e-16
 Query/Sbjct Length: 251
 Potential Novel Enzyme: Yes
 
@@ -1073,8 +1070,8 @@ Sbjct: MTVNGAIPGPLIRLREGQTATIQVTNNLKTDTSIHWHGI--ILPPEMDGVPGVSFAGIKPGETFTYSFPVNQS
 Hit #77
 ------------------------------
 Title: gb|OKH50298.1| copper oxidase [Calothrix sp. HK-06]
-Identity: 28.69%
-E-value: 5.54189e-16
+Percent Identity: 28.69%
+E-value: 5.54431e-16
 Query/Sbjct Length: 237
 Potential Novel Enzyme: Yes
 
@@ -1087,8 +1084,8 @@ Sbjct: PGPRIRITEGDRVRIVVKNNLPDATTVHWHGM--ILPNKMDGPADVTQKPIEPGASYNYEFTAKQRGTYFYHS
 Hit #78
 ------------------------------
 Title: dbj|BDA73913.1| hypothetical protein CAL7716_080790 [Calothrix sp. PCC 7716]
-Identity: 29.54%
-E-value: 5.90351e-16
+Percent Identity: 29.54%
+E-value: 5.90609e-16
 Query/Sbjct Length: 237
 Potential Novel Enzyme: Yes
 
@@ -1101,8 +1098,8 @@ Sbjct: PGPRIRITEGDRVRIVVKNNLPDATTVHWHGM--ILPNKMDGPADVTQKPIEPGASYNYEFTAKQRGTYFYHS
 Hit #79
 ------------------------------
 Title: ref|WP_199326376.1| MULTISPECIES: multicopper oxidase family protein [Leptolyngbya] >dbj|BAY59458.1| copper-resistance protein, CopA family [Leptolyngbya boryana NIES-2135]
-Identity: 26.03%
-E-value: 8.05548e-16
+Percent Identity: 26.03%
+E-value: 8.059e-16
 Query/Sbjct Length: 365
 Potential Novel Enzyme: Yes
 
@@ -1115,8 +1112,8 @@ Sbjct: GMNQSNGSMPGMNMKGTT---APAPVASLPTALMSSVSQMNGLVMPPGMIMT------ADTSMEAMEDMAAVD
 Hit #80
 ------------------------------
 Title: gb|TGG78536.1| MAG: multicopper oxidase family protein [Aphanocapsa feldmannii 288cV]
-Identity: 28.39%
-E-value: 8.93776e-16
+Percent Identity: 28.39%
+E-value: 8.94167e-16
 Query/Sbjct Length: 236
 Potential Novel Enzyme: Yes
 
@@ -1129,8 +1126,8 @@ Sbjct: PLLGFNGSSPGPEIRARQGDRLSISFKNGSGLRSTIHWHGI-HIDNA-MDGVPELTQAPVEPGDTFGYAFAVP
 Hit #81
 ------------------------------
 Title: gb|MBD2373041.1| copper oxidase [Leptolyngbya sp. FACHB-238] >gb|MBD2397204.1| copper oxidase [Leptolyngbya sp. FACHB-239] >gb|MBD2403990.1| copper oxidase [Leptolyngbya sp. FACHB-402]
-Identity: 26.03%
-E-value: 1.13572e-15
+Percent Identity: 26.03%
+E-value: 1.13621e-15
 Query/Sbjct Length: 365
 Potential Novel Enzyme: Yes
 
@@ -1143,8 +1140,8 @@ Sbjct: GMNQSNGSMPGMNMKGTT---APAPVASLPTALMSSVSQMNGLVMPPGMIMT------ADTSMEAMEDMAAVD
 Hit #82
 ------------------------------
 Title: ref|WP_099068974.1| multicopper oxidase family protein [Nostoc linckia] >gb|PHK41397.1| multicopper oxidase [Nostoc linckia z15] >gb|PHK45933.1| multicopper oxidase [Nostoc linckia z16] >gb|PHJ60886.1| multicopper oxidase [Nostoc linckia z3] >gb|PHJ67217.1| multicopper oxidase [Nostoc linckia z1] >gb|PHJ76749.1| multicopper oxidase [Nostoc linckia z2]
-Identity: 27.27%
-E-value: 1.17513e-15
+Percent Identity: 27.27%
+E-value: 1.17565e-15
 Query/Sbjct Length: 341
 Potential Novel Enzyme: Yes
 
@@ -1157,8 +1154,8 @@ Sbjct: SPTPISSLPPAPMSSVTQMNGLVMPPGMIMT------SDMSMEAMEDMAAVDLTKIAYTAPIDARGDRTLTPK
 Hit #83
 ------------------------------
 Title: gb|TGG93739.1| MAG: multicopper oxidase family protein [Aphanocapsa feldmannii 277cV] >gb|TGH27595.1| MAG: multicopper oxidase family protein [Aphanocapsa feldmannii 277cI]
-Identity: 28.39%
-E-value: 1.33025e-15
+Percent Identity: 28.39%
+E-value: 1.33083e-15
 Query/Sbjct Length: 236
 Potential Novel Enzyme: Yes
 
@@ -1171,8 +1168,8 @@ Sbjct: PLLGFNGSSPGPEIRARQGDRLSISFKNGSGLRSTIHWHGI-HIDNA-MDGVPELTQAPVEPGDTFGYAFAVP
 Hit #84
 ------------------------------
 Title: gb|MBY0493374.1| copper resistance system multicopper oxidase [Cyanobacteriota bacterium]
-Identity: 25.52%
-E-value: 1.34292e-15
+Percent Identity: 25.52%
+E-value: 1.34351e-15
 Query/Sbjct Length: 290
 Potential Novel Enzyme: Yes
 
@@ -1185,8 +1182,8 @@ Sbjct: DLSIDSLAFPVDGRVGGAIAMNGTVPGPLVRLREGQEAVLRVTNHLKEISSIHWHGL--ILPPGMDGVPGVSF
 Hit #85
 ------------------------------
 Title: ref|WP_026100555.1| multicopper oxidase family protein [Fortiea contorta]
-Identity: 27.17%
-E-value: 1.5125e-15
+Percent Identity: 27.17%
+E-value: 1.51316e-15
 Query/Sbjct Length: 346
 Potential Novel Enzyme: Yes
 
@@ -1199,8 +1196,8 @@ Sbjct: GGTKFPTPVS-SLPPAPMSSVTQMNGLVMPPGMIMT------SDMSMEAMADMAAVDLTKIAYSAPVDARGDQ
 Hit #86
 ------------------------------
 Title: ref|WP_211178357.1| MULTISPECIES: multicopper oxidase family protein [Brasilonema]
-Identity: 26.85%
-E-value: 1.90455e-15
+Percent Identity: 26.85%
+E-value: 1.90539e-15
 Query/Sbjct Length: 365
 Potential Novel Enzyme: Yes
 
@@ -1213,8 +1210,8 @@ Sbjct: SMPGMNMSNQSTPGMNMGGT---KSPAPVSSLPPAPISSVTQTNGLVMPPGMIMT------SDMSMETMEDMA
 Hit #87
 ------------------------------
 Title: emb|VEU38467.1| unnamed protein product [Pseudo-nitzschia multistriata]
-Identity: 27.03%
-E-value: 2.35192e-15
+Percent Identity: 27.03%
+E-value: 2.35295e-15
 Query/Sbjct Length: 333
 Potential Novel Enzyme: Yes
 
@@ -1227,8 +1224,8 @@ Sbjct: PPIHARNGDDISVIVKNSLSTTGLSIHWHGFEMEDSMVYDGVVGVTQCPISPSDTFAYNFSVNETPGTYWYHT
 Hit #88
 ------------------------------
 Title: gb|NMF62579.1| copper oxidase [Brasilonema octagenarum UFV-OR1] >gb|QDL12642.1| copper oxidase [Brasilonema sennae CENA114]
-Identity: 26.85%
-E-value: 2.46547e-15
+Percent Identity: 26.85%
+E-value: 2.46655e-15
 Query/Sbjct Length: 365
 Potential Novel Enzyme: Yes
 
@@ -1241,8 +1238,8 @@ Sbjct: SMPGMNMSNQSTPGMNMGGT---KSPAPVSSLPPAPISSVTQTNGLVMPPGMIMT------SDMSMETMEDMA
 Hit #89
 ------------------------------
 Title: ref|WP_323202583.1| copper oxidase [Nostoc sp. UHCC 0251] >gb|MEA5626180.1| copper oxidase [Nostoc sp. UHCC 0251]
-Identity: 29.49%
-E-value: 4.74539e-15
+Percent Identity: 29.49%
+E-value: 4.74746e-15
 Query/Sbjct Length: 234
 Potential Novel Enzyme: Yes
 
@@ -1255,8 +1252,8 @@ Sbjct: PGPRIRVTEGDRVRIVVKNNLPESTTVHWHGM--ILPNNMDGPADVTQKPIAPGASYVYEFTVKQAGTYFYHS
 Hit #90
 ------------------------------
 Title: ref|WP_059002128.1| multicopper oxidase family protein [Leptolyngbya sp. NIES-2104] >dbj|GAP99491.1| multicopper oxidase [Leptolyngbya sp. NIES-2104]
-Identity: 26.10%
-E-value: 5.48667e-15
+Percent Identity: 26.10%
+E-value: 5.48906e-15
 Query/Sbjct Length: 364
 Potential Novel Enzyme: Yes
 
@@ -1269,8 +1266,8 @@ Sbjct: GVSQGNESMPGMNMNGTT---APAPVSSLPAAPMSSVSQMNGFVMPPGMIMT------ADTSMKAMADMAAVD
 Hit #91
 ------------------------------
 Title: ref|WP_289791877.1| multicopper oxidase family protein [Chlorogloeopsis sp. ULAP01] >gb|MDM9383647.1| copper oxidase [Chlorogloeopsis sp. ULAP01]
-Identity: 27.78%
-E-value: 5.6661e-15
+Percent Identity: 27.78%
+E-value: 5.66857e-15
 Query/Sbjct Length: 234
 Potential Novel Enzyme: Yes
 
@@ -1283,8 +1280,8 @@ Sbjct: PGPRIQVTEGDRVRIVVKNNLPESTSVHWHGM--ILPNAMDGAANVTQKPIAPGASFTYEFTVKQPGTYFYHS
 Hit #92
 ------------------------------
 Title: ref|WP_334892053.1| copper oxidase [Nostoc sp.] >gb|MEH2264619.1| copper oxidase [Nostoc sp.]
-Identity: 29.06%
-E-value: 8.904e-15
+Percent Identity: 29.06%
+E-value: 8.90789e-15
 Query/Sbjct Length: 234
 Potential Novel Enzyme: Yes
 
@@ -1297,8 +1294,8 @@ Sbjct: PGPRIQVTEGDRVRIVVKNNLPEPTTVHWHGM--IVPNNMDGPADVTQKPIAPGASYIYEFTVKQAGTYFYHS
 Hit #93
 ------------------------------
 Title: gb|MBY0493408.1| multicopper oxidase family protein [Cyanobacteriota bacterium]
-Identity: 26.52%
-E-value: 9.25632e-15
+Percent Identity: 26.52%
+E-value: 9.26036e-15
 Query/Sbjct Length: 279
 Potential Novel Enzyme: Yes
 
@@ -1311,8 +1308,8 @@ Sbjct: GLPGPLIKTRLGDRLIVHFKNELKEPTTVHWHGVR--VPIEMDGVPDISQPPVNEDGSFTYGFVVRDAGLYWY
 Hit #94
 ------------------------------
 Title: gb|MEA5507923.1| copper oxidase [Halotia wernerae UHCC 0503]
-Identity: 25.34%
-E-value: 1.25004e-14
+Percent Identity: 25.34%
+E-value: 1.25058e-14
 Query/Sbjct Length: 367
 Potential Novel Enzyme: Yes
 
@@ -1325,8 +1322,8 @@ Sbjct: TTSKNIQQDESMPGMNM-GSTKFPTPVS-SLPPAPMSSVTQMHGFVMPPGMIMT------SDMSMEAMEDMAA
 Hit #95
 ------------------------------
 Title: tpg|HEY9605716.1| multicopper oxidase domain-containing protein [Allocoleopsis sp.]
-Identity: 30.29%
-E-value: 1.36659e-14
+Percent Identity: 30.29%
+E-value: 1.36719e-14
 Query/Sbjct Length: 241
 Potential Novel Enzyme: No
 
@@ -1339,8 +1336,8 @@ Sbjct: SQQGSMPGMNMGNESAP----GMNMGNESMPGMNMGGTK---APAPVSSLPSAPMSSVSQINGLVMPPGMIMT
 Hit #96
 ------------------------------
 Title: ref|WP_127084804.1| multicopper oxidase family protein [Dulcicalothrix desertica] >gb|RUT01534.1| hypothetical protein DSM106972_066310 [Dulcicalothrix desertica PCC 7102]
-Identity: 35.26%
-E-value: 1.74077e-14
+Percent Identity: 35.26%
+E-value: 1.74153e-14
 Query/Sbjct Length: 156
 Potential Novel Enzyme: No
 
@@ -1353,8 +1350,8 @@ Sbjct: PGPRIRITEGDQVRIVVKNNLPDATTVHWHGM--ILPNKMDGPADVTQKPIEPGASYNYEFTAKQRGTYFYHS
 Hit #97
 ------------------------------
 Title: ref|WP_162398319.1| multicopper oxidase family protein [Nostoc edaphicum] >gb|MBE9103565.1| multicopper oxidase domain-containing protein [Nostoc cf. edaphicum LEGE 07299] >gb|NDJ24433.1| multicopper oxidase domain-containing protein [Nostoc sp. B(2019)]
-Identity: 26.84%
-E-value: 3.51588e-14
+Percent Identity: 26.84%
+E-value: 3.51742e-14
 Query/Sbjct Length: 354
 Potential Novel Enzyme: Yes
 
@@ -1367,8 +1364,8 @@ Sbjct: SMPGTNMSGT-KFPTPIS-SLSPAPMSSVTQMNGLVMPPGMIMT------SDMSMEAMADMAAVDLTKIAYTA
 Hit #98
 ------------------------------
 Title: ref|WP_191756549.1| multicopper oxidase family protein [Komarekiella delphini-convector] >gb|MBD6615302.1| copper oxidase [Komarekiella delphini-convector SJRDD-AB1]
-Identity: 26.39%
-E-value: 3.98611e-14
+Percent Identity: 26.39%
+E-value: 3.98785e-14
 Query/Sbjct Length: 341
 Potential Novel Enzyme: Yes
 
@@ -1381,8 +1378,8 @@ Sbjct: SPTPISSLPLAPMSSVTQMNGLVMPPGMIMT------SDMSMEAMADMAAVDLTKIAYTAPVDVRGDQTLTPK
 Hit #99
 ------------------------------
 Title: gb|MBE9020731.1| copper oxidase [Chroococcidiopsidales cyanobacterium LEGE 13417]
-Identity: 28.63%
-E-value: 5.85782e-14
+Percent Identity: 28.63%
+E-value: 5.86038e-14
 Query/Sbjct Length: 234
 Potential Novel Enzyme: Yes
 
@@ -1395,8 +1392,8 @@ Sbjct: PGPRIRVTEGDRVRIVVKNNLPEPSTVHWHGM--ILPNNMDGPADITQKPIAPGTSYIYEFTVKQAGTYFYHS
 Hit #100
 ------------------------------
 Title: gb|MDL5054993.1| multicopper oxidase domain-containing protein [Oscillatoria laete-virens NRMC-F 0139]
-Identity: 43.48%
-E-value: 7.12954e-14
+Percent Identity: 43.48%
+E-value: 7.13266e-14
 Query/Sbjct Length: 92
 Potential Novel Enzyme: No
 

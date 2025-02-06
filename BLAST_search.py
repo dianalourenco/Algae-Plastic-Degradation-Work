@@ -26,8 +26,8 @@ def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDE
             for hsp in alignment.hsps:
                 if hsp.expect < E_VALUE_THRESH:
                     hits_found = True
-                    identity = (hsp.identities / hsp.align_length) * 100
-                    potential_novelty = "Yes" if identity < IDENTITY_THRESH*100 else "No"
+                    identity = (hsp.identities / hsp.align_length) 
+                    potential_novelty = "Yes" if identity < IDENTITY_THRESH else "No"
                     
                     txt_file.write(f"\nHit #{i}\n{'-'*30}\n")
                     txt_file.write(f"Title: {alignment.title}\n")
