@@ -51,3 +51,21 @@ python NCBI_seq_retrieval.py input_file.txt
 ### Output
 - The sequences are saved in the sequences directory.
 - Each files contains the protein sequence in Fasta format.
+
+
+## 3. BLAST Analysis
+
+### Script: *BLAST_search.py*
+
+This script is design to run a BLASTP search from the sequences available in the 'sequences' directory. 
+It evaluates the potential of new plastic-degrading enzymes.
+
+## Usage
+
+### Running the Script
+Execute the script from the command line:
+```bash
+python BLAST_search.py
+```
+### Output
+- The BLAST results are saved in the 'blast_results' directory.
