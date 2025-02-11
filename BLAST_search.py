@@ -7,7 +7,7 @@ def run_blast(sequence):
     '''
     Runs BLASTP for a given sequence
     '''
-    result_handle = NCBIWWW.qblast('blastp', 'nr',sequence,
+    result_handle = NCBIWWW.qblast('blastp', 'pdb',sequence,
         entrez_query="(microalgae[ORGN] OR cyanobacteria[ORGN] OR diatoms[ORGN])",
         hitlist_size=100)
     return result_handle
