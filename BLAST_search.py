@@ -3,11 +3,14 @@ import os
 import tqdm
 import datetime
 
-def run_blast(sequence):
+
+
+# Searzh blast against PDB database
+def run_blast(sequence, database = 'pdb'):
     '''
     Runs BLASTP for a given sequence
     '''
-    result_handle = NCBIWWW.qblast('blastp', 'pdb',sequence,
+    result_handle = NCBIWWW.qblast('blastp', database ,sequence,
         entrez_query="(microalgae[ORGN] OR cyanobacteria[ORGN] OR diatoms[ORGN])",
         hitlist_size=100)
     return result_handle
@@ -49,7 +52,7 @@ def blast_result_exist(results_dir, filename):
     '''
     Check if BLAST already exist for a given sequence
     '''
-    result_filename = os.path.join(results_dir, filename.replace('.xml','.fasta'))
+    result_filename = os.path.join(results_dir, filename.replace('.txt','.fasta'))
     return os.path.exists(result_filename)
 
 def main():
