@@ -5,7 +5,7 @@ import datetime
 
 
 
-# Searzh blast against PDB database
+# Search blast against PDB database
 def run_blast(sequence, database = 'pdb'):
     '''
     Runs BLASTP for a given sequence
