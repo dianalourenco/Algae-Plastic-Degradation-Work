@@ -337,5 +337,5 @@ versatile peroxidase, Jacksonvillea sp. ISTCYN1
 esterase, Jacksonvillea sp. ISTCYN1
 lipase, Jacksonvillea sp. ISTCYN1
 peroxidase, Jacksonvillea sp. ISTCYN1
-
+PHL7, Chlamydomonas reinhardtii
 

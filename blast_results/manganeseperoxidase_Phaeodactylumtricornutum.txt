@@ -1,8 +1,8 @@
-2025-02-11 16:51:47.272490
+2025-02-16 16:40:35.585696
 
 Query Length: 736
-E-value threshold: 1e-10
-Identity threshold: 0.3
+E-value threshold: 0.001
+Identity threshold: 0.2
 
 
 Hit #1

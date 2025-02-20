@@ -12,12 +12,12 @@ def run_blast(sequence, database = 'pdb'):
     '''
     result_handle = NCBIWWW.qblast('blastp', database ,sequence,
         entrez_query="(microalgae[ORGN] OR cyanobacteria[ORGN] OR diatoms[ORGN])",
-        hitlist_size=100)
+        hitlist_size=500)
     return result_handle
 
 
 # https://pmc.ncbi.nlm.nih.gov/articles/PMC3820096/
-def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDENTITY_THRESH=0.30):
+def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-3, IDENTITY_THRESH=0.20):
     blast_record = NCBIXML.read(result_handle)
     
     with open(output_filename, 'w') as txt_file:
@@ -52,7 +52,7 @@ def blast_result_exist(results_dir, filename):
     '''
     Check if BLAST already exist for a given sequence
     '''
-    result_filename = os.path.join(results_dir, filename.replace('.txt','.fasta'))
+    result_filename = os.path.join(results_dir, filename.replace('.fasta','.txt'))
     return os.path.exists(result_filename)
 
 def main():

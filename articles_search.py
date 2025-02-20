@@ -5,6 +5,8 @@ import time
 import random
 import datetime
 import re
+import csv 
+
 
 # Keyword categories
 ALGAE_KEYWORDS = [
@@ -55,10 +57,10 @@ def find_articles(keyword):
                 
             articles.append({
                 'title': title,
-                'url': link
+                'url': link,
                 })
 
-    print(f'\nFound {len(articles)} articles for query: {keyword}')
+    print(f'\nFound {len(articles)} articles for query: {keyword}\n\n')
 
     return articles
 
@@ -88,35 +90,49 @@ def save_articles(articles, filename="articles.txt"):
     current_time = datetime.datetime.now()
 
     with open(filename, 'a', encoding='utf-8') as f:
-        f.write('\n#####################################\n')
+        f.write('\n##################################################\n')
         f.write(f'Articles searched on: {current_time}\n')
-        f.write('#######################################\n\n')
+        f.write('####################################################\n\n')
 
         # Add articles
         for i, (url,article) in enumerate(articles.items()):
             f.write(f"{i+1}. Title: {article['title']}\n")
             f.write(f"   Link: {article['url']}\n\n")
 
-def main():
-    # Retrieve existing URLs
-    existing_urls = set_url()
+def save_to_csv(articles, filename="zotero_import.csv"):
+    '''
+    Save articles to a csv file for zotero import
+    '''
+    with open(filename, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(['Title', 'URL']) # Column Names
 
+        for article in articles.values():
+            writer.writerow([article['title'], article['url']])
+
+
+
+def main():
+    existing_urls = set_url()
     search_queries = generate_queries()
     all_articles = []
-        
+    
     for keyword in tqdm(search_queries, desc="Searching articles"):
         articles = find_articles(keyword)
         all_articles.extend(articles)    
-
+        
     # Remove duplicates based on URL
     unique_articles = {}
     for article in all_articles:
         if article['url'] not in existing_urls:
             unique_articles[article['url']] = article
-    
+
+    total_articles = len(unique_articles)
+
     if unique_articles:
         save_articles(unique_articles)
-        print(f'\n{len(unique_articles)} new articles added to the articles.txt file.')
+        save_to_csv(unique_articles)
+        print(f'\n{total_articles} new articles added to the articles.txt file.')
     else:
         print(f'\nNo new articles found.')
 
