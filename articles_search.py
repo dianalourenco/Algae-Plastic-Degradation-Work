@@ -60,7 +60,7 @@ def find_articles(keyword):
                 'url': link,
                 })
 
-    print(f'\nFound {len(articles)} articles for query: {keyword}\n\n')
+    print(f'\nFound {len(articles)} articles for query: {keyword}\n')
 
     return articles
 
