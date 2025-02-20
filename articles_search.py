@@ -99,17 +99,20 @@ def save_articles(articles, filename="articles.txt"):
             f.write(f"{i+1}. Title: {article['title']}\n")
             f.write(f"   Link: {article['url']}\n\n")
 
-def save_to_csv(articles, filename="zotero_import.csv"):
+def save_to_bibtex(articles, filename="zotero_import.bib"):
     '''
-    Save articles to a csv file for zotero import
+    Save articles to a BibTex file for zotero import
     '''
     with open(filename, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.writer(f)
-        writer.writerow(['Title', 'URL']) # Column Names
-
-        for article in articles.values():
-            writer.writerow([article['title'], article['url']])
-
+        for i, article in enumerate(articles.values()):
+            bib_entry = f"""
+            @article{{article{i+1},
+                title = {{{article['title']}}},
+                url = {{{article['url']}}}
+                }}
+                """.strip()
+            f.write(bib_entry + "\n\n")
+    print(f"\n{len(articles)} articles saved to BibTeX format: {filename}")
 
 
 def main():
@@ -131,7 +134,7 @@ def main():
 
     if unique_articles:
         save_articles(unique_articles)
-        save_to_csv(unique_articles)
+        save_to_bibtex(unique_articles)
         print(f'\n{total_articles} new articles added to the articles.txt file.')
     else:
         print(f'\nNo new articles found.')
