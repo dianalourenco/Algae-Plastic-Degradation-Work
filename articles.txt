@@ -401,3 +401,39 @@ Articles searched on: 2025-02-21 15:18:19.769231
 55. Title: Marine polymers. IV Diatom polysaccharides
    Link: https://www.degruyter.com/document/doi/10.1515/botm.1972.15.2.102/html
 
+
+##################################################
+Articles searched on: 2025-02-25 15:02:58.474171
+####################################################
+
+1. Title: [LIVRO][B] Algae based polymers, blends, and composites: chemistry, biotechnology and materials science
+   Link: https://books.google.com/books?hl=pt-PT&lr=&id=oAKqDQAAQBAJ&oi=fnd&pg=PP1&dq=algae+polymeric+materials+degradation&ots=PQ5KLAsrw2&sig=bEDTeE1LeNuxUSDgkfDIXL_GQss
+
+2. Title: Preparation, characterisation, and controlled-release of biodegradable polyester and marine-algae composite
+   Link: https://link.springer.com/article/10.1007/s10924-015-0712-0
+
+3. Title: [PDF][PDF] Isolation purification and screening of biodegradable polymer PHB producing cyanobacteria from marine and fresh water resources
+   Link: https://www.ijee.net/article_64514_5b4a44328a11c35ce976c2654956ff49.pdf
+
+4. Title: [HTML][HTML] Toxicity due to Release of Microplastic Fibres from Disposable Face Masks on Marine Diatom Chaetoceros sp. and the Role of EPS in Combating the Toxic …
+   Link: https://www.sciencedirect.com/science/article/pii/S2405665025000150
+
+
+##################################################
+Articles searched on: 2025-02-26 19:42:01.061380
+####################################################
+
+1. Title: [BOEK][B] Algae based polymers, blends, and composites: chemistry, biotechnology and materials science
+   Link: https://books.google.com/books?hl=nl&lr=&id=oAKqDQAAQBAJ&oi=fnd&pg=PP1&dq=algae+polymeric+materials+degradation&ots=PQ5KMAvsy6&sig=nJoTZaCZK4taLTnzislKjcW-eMU
+
+2. Title: Biocomposites using whole or valuable component-extracted microalgae blended with polymers: A review
+   Link: https://www.mdpi.com/2073-4344/12/1/25
+
+
+##################################################
+Articles searched on: 2025-03-07 11:12:07.047821
+####################################################
+
+1. Title: [BOEK][B] Algae based polymers, blends, and composites: chemistry, biotechnology and materials science
+   Link: https://books.google.com/books?hl=nl&lr=&id=oAKqDQAAQBAJ&oi=fnd&pg=PP1&dq=algae+polymeric+materials+degradation&ots=PQ5LKvssA3&sig=mCZb0DuUdOMwfqdDEM2GSq-rchY
+

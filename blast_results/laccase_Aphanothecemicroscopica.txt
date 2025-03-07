@@ -1,8 +1,0 @@
-2025-02-16 16:36:15.694317
-
-Query Length: 342
-E-value threshold: 0.001
-Identity threshold: 0.2
-
-
-No significant hits found meeting the E-value threshold.

@@ -10,7 +10,7 @@ def fetch_protein_sequence(protein_name:str, species_name:str):
     '''
     Entrez.email = "dianalourenco14@gmail.com"
 
-    search_term =  f'({protein_name}[Protein] OR {protein_name}[All Fields]) AND "{species_name}"[Organism]'
+    search_term = f'{protein_name}[Protein] AND {species_name}[Organism]'
     try:
         # Search for the protein
         handle = Entrez.esearch(db="protein", term=search_term, retmax=5)

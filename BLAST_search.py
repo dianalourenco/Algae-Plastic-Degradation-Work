@@ -3,21 +3,18 @@ import os
 import tqdm
 import datetime
 
-
-
 # Search blast against PDB database
-def run_blast(sequence, database = 'pdb'):
+def run_blast(sequence, database='pdb'):
     '''
     Runs BLASTP for a given sequence
     '''
-    result_handle = NCBIWWW.qblast('blastp', database ,sequence,
-        entrez_query="(microalgae[ORGN] OR cyanobacteria[ORGN] OR diatoms[ORGN])",
-        hitlist_size=500)
+    result_handle = NCBIWWW.qblast('blastp', database, sequence,
+                                   entrez_query="(microalgae[ORGN] OR cyanobacteria[ORGN] OR diatoms[ORGN])",
+                                   hitlist_size=500)
     return result_handle
 
-
 # https://pmc.ncbi.nlm.nih.gov/articles/PMC3820096/
-def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-3, IDENTITY_THRESH=0.20):
+def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDENTITY_THRESH=0.30):
     blast_record = NCBIXML.read(result_handle)
     
     with open(output_filename, 'w') as txt_file:
@@ -30,20 +27,22 @@ def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-3, IDEN
         for i, alignment in enumerate(blast_record.alignments, 1):
             for hsp in alignment.hsps:
                 if hsp.expect < E_VALUE_THRESH:
-                    hits_found = True
-                    identity = (hsp.identities / hsp.align_length) 
+                    identity = (hsp.identities / hsp.align_length)
                     potential_novelty = "Yes" if identity > IDENTITY_THRESH else "No"
                     
-                    txt_file.write(f"\nHit #{i}\n{'-'*30}\n")
-                    txt_file.write(f"Title: {alignment.title}\n")
-                    txt_file.write(f"Percent Identity: {identity:.2%}\n")
-                    txt_file.write(f"E-value: {hsp.expect}\n")
-                    txt_file.write(f"Query/Sbjct Length: {hsp.align_length}\n")
-                    txt_file.write(f"Potential Novel Enzyme: {potential_novelty}\n\n")
-                    txt_file.write("Alignment:\n")
-                    txt_file.write(f"Query: {hsp.query}\n")
-                    txt_file.write(f"Match: {hsp.match}\n")
-                    txt_file.write(f"Sbjct: {hsp.sbjct}\n\n")
+                    # Check if the organism is microalgae, cyanobacteria, or diatoms
+                    if any(org in alignment.hit_def for org in ["microalgae", "cyanobacteria", "diatoms"]):
+                        hits_found = True
+                        txt_file.write(f"\nHit #{i}\n{'-'*30}\n")
+                        txt_file.write(f"Title: {alignment.title}\n")
+                        txt_file.write(f"Percent Identity: {identity:.2%}\n")
+                        txt_file.write(f"E-value: {hsp.expect}\n")
+                        txt_file.write(f"Query/Sbjct Length: {hsp.align_length}\n")
+                        txt_file.write(f"Potential Novel Enzyme: {potential_novelty}\n\n")
+                        txt_file.write("Alignment:\n")
+                        txt_file.write(f"Query: {hsp.query}\n")
+                        txt_file.write(f"Match: {hsp.match}\n")
+                        txt_file.write(f"Sbjct: {hsp.sbjct}\n\n")
         
         if not hits_found:
             txt_file.write("\nNo significant hits found meeting the E-value threshold.\n")
