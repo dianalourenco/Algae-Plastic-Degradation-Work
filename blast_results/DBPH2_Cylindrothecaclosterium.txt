@@ -1,4 +1,4 @@
-2025-03-07 14:30:18.825952
+2025-03-07 15:35:11.635169
 
 Query Length: 338
 E-value threshold: 1e-10
@@ -9,7 +9,7 @@ Hit #1
 ------------------------------
 Title: pdb|4XVC|A Chain A, Esterase E40 [environmental samples] >pdb|4XVC|B Chain B, Esterase E40 [environmental samples] >pdb|4XVC|C Chain C, Esterase E40 [environmental samples] >pdb|4XVC|D Chain D, Esterase E40 [environmental samples] >pdb|4XVC|E Chain E, Esterase E40 [environmental samples] >pdb|4XVC|F Chain F, Esterase E40 [environmental samples] >pdb|4XVC|G Chain G, Esterase E40 [environmental samples] >pdb|4XVC|H Chain H, Esterase E40 [environmental samples]
 Percent Identity: 30.99%
-E-value: 1.50386e-19
+E-value: 2.96933e-19
 Query/Sbjct Length: 242
 Potential Novel Enzyme: Yes
 

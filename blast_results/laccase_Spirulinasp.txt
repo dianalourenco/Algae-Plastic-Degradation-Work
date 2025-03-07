@@ -1,6 +1,6 @@
-2025-03-07 15:38:31.619470
+2025-03-07 15:55:11.684367
 
-Query Length: 534
+Query Length: 106
 E-value threshold: 1e-10
 Identity threshold: 0.3
 
