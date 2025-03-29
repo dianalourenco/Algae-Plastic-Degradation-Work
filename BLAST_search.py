@@ -2,28 +2,35 @@ from Bio.Blast import NCBIWWW, NCBIXML
 import os
 import tqdm
 import datetime
+import sys
+
+# Taxonomic information for microalgae, diatoms or cyanobacteria
+taxon_query = (
+    "(txid1117[ORGN] OR "  # Cyanobacteria
+    "txid135618[ORGN] OR " # Prochlorococcus
+    "txid1214[ORGN] OR "  # Synechococcus
+    "txid2836[ORGN] OR "  # Diatoms
+    "txid3041[ORGN] OR "  # Chlorophyta (green algae)
+    "txid2763[ORGN] OR "  # Rhodophyta (red algae)
+    "txid3046[ORGN] OR "  # Haptophyta
+    "txid2864[ORGN] OR "  # Dinoflagellates
+    "txid35669[ORGN] OR " # Eustigmatophyceae
+    "txid2765[ORGN])"     # Glaucophyta
+)
 
 # Search blast against PDB database
-def run_blast(sequence, database='pdb'):
+def run_blast(sequence, database):
     '''
     Runs BLASTP for a given sequence
     '''
-    taxon_query = (
-        "(txid1117[ORGN] OR "  # Cyanobacteria
-        "txid2836[ORGN] OR "  # Diatoms
-        "txid3041[ORGN] OR "  # Chlorophyta (green algae)
-        "txid2763[ORGN] OR "  # Rhodophyta (red algae)
-        "txid3046[ORGN] OR "  # Haptophyta
-        "txid2864[ORGN])"     # Dinoflagellates
-    )
-
+    entrez_query = taxon_query if database in ['pdb_taxon', 'nr'] else None
     result_handle = NCBIWWW.qblast('blastp', database, sequence,
-                                   entrez_query=taxon_query,
+                                   entrez_query=entrez_query,
                                    hitlist_size=500)
     return result_handle
 
 # https://pmc.ncbi.nlm.nih.gov/articles/PMC3820096/
-def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDENTITY_THRESH=0.30):
+def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDENTITY_THRESH=0.25):
     blast_record = NCBIXML.read(result_handle)
     
     with open(output_filename, 'w') as txt_file:
@@ -62,8 +69,23 @@ def blast_result_exist(results_dir, filename):
     return os.path.exists(result_filename)
 
 def main():
+    if len(sys.argv) != 2:
+        print('Usage: python BLAST_search <database>')
+        print('Possible databases: pdb, pdb_taxon, nr')
+        print('pdb: runs againt all the PDB database, to find possible templates for homology modeling')
+        print('pdb_taxon: finds new potential enzymes with structure available')
+        print('nr: runs againt the non-redundant database for microalgar, find potential new sequences ')
+
+    database = sys.argv[1]
+    if database not in ['pdb', 'pdb_taxon', 'nr']:
+        print('Invalid database: pdb, pdb_taxon, nr')
+        print('Possible databases: pdb, pdb_taxon, nr')
+        print('pdb: runs againt all the PDB database, to find possible templates for homology modeling')
+        print('pdb_taxon: finds new potential enzymes with structure available')
+        print('nr: runs againt the non-redundant database for microalgar, find potential new sequences ')
+    
     # Create results directory
-    results_dir = f'blast_results'
+    results_dir = f'blast_results/{database}'
     os.makedirs(results_dir, exist_ok=True)
 
     base_dir = 'sequences'
@@ -78,7 +100,7 @@ def main():
             sequence = file.read()
 
         # Run BLAST search
-        result_handle = run_blast(sequence)
+        result_handle = run_blast(sequence, database)
         count += 1
 
         if result_handle:

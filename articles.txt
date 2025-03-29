@@ -437,3 +437,20 @@ Articles searched on: 2025-03-07 11:12:07.047821
 1. Title: [BOEK][B] Algae based polymers, blends, and composites: chemistry, biotechnology and materials science
    Link: https://books.google.com/books?hl=nl&lr=&id=oAKqDQAAQBAJ&oi=fnd&pg=PP1&dq=algae+polymeric+materials+degradation&ots=PQ5LKvssA3&sig=mCZb0DuUdOMwfqdDEM2GSq-rchY
 
+
+##################################################
+Articles searched on: 2025-03-20 11:39:23.824193
+####################################################
+
+1. Title: [BOOK][B] Algae based polymers, blends, and composites: chemistry, biotechnology and materials science
+   Link: https://books.google.com/books?hl=en&lr=&id=oAKqDQAAQBAJ&oi=fnd&pg=PP1&dq=algae+polymeric+materials+degradation&ots=PQ5MLxxqB3&sig=6cLSWS_nYGwJDxpcHLzfiMDuCB4
+
+2. Title: Volatile compounds characterization of microalgae biomass (Chlorella sp. HS2) at high processing temperatures for application to an eco-friendly polymer composite
+   Link: https://www.sciencedirect.com/science/article/pii/S0141391025001600
+
+3. Title: Phenotypically complex living materials containing engineered cyanobacteria
+   Link: https://www.nature.com/articles/s41467-023-40265-2
+
+4. Title: Investigation on extracellular polymeric substances from mucilaginous cyanobacterial blooms in eutrophic freshwater lakes
+   Link: https://www.sciencedirect.com/science/article/pii/S0045653513007029
+

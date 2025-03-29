@@ -1,8 +1,8 @@
-2025-03-07 15:57:31.900191
+2025-03-29 15:56:54.078236
 
-Query Length: 333
+Query Length: 338
 E-value threshold: 1e-10
-Identity threshold: 0.3
+Identity threshold: 0.25
 
 
 No significant hits found meeting the E-value threshold.
