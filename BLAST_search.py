@@ -5,18 +5,19 @@ import datetime
 import sys
 
 # Taxonomic information for microalgae, diatoms or cyanobacteria
+#FROM: https://www.ncbi.nlm.nih.gov/taxonomy
 taxon_query = (
     "(txid1117[ORGN] OR "  # Cyanobacteria
-    "txid135618[ORGN] OR " # Prochlorococcus
-    "txid1214[ORGN] OR "  # Synechococcus
     "txid2836[ORGN] OR "  # Diatoms
     "txid3041[ORGN] OR "  # Chlorophyta (green algae)
     "txid2763[ORGN] OR "  # Rhodophyta (red algae)
-    "txid3046[ORGN] OR "  # Haptophyta
     "txid2864[ORGN] OR "  # Dinoflagellates
-    "txid35669[ORGN] OR " # Eustigmatophyceae
-    "txid2765[ORGN])"     # Glaucophyta
+    "txid2870[ORGN] OR "  # Phaeophyceae (brown algae)
+    "txid261840[ORGN] OR " # Pyrophaceae
+    "txid2825[ORGN] OR "  # Chrysophyceae (golden algae)
+    "txid33849[ORGN])"     # Bacillariophyceae
 )
+
 
 # Search blast against PDB database
 def run_blast(sequence, database):
@@ -24,13 +25,14 @@ def run_blast(sequence, database):
     Runs BLASTP for a given sequence
     '''
     entrez_query = taxon_query if database in ['pdb_taxon', 'nr'] else None
+    database = 'pdb' if database == 'pdb_taxon' else database
     result_handle = NCBIWWW.qblast('blastp', database, sequence,
                                    entrez_query=entrez_query,
                                    hitlist_size=500)
     return result_handle
 
 # https://pmc.ncbi.nlm.nih.gov/articles/PMC3820096/
-def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDENTITY_THRESH=0.25):
+def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDENTITY_THRESH=0.30):
     blast_record = NCBIXML.read(result_handle)
     
     with open(output_filename, 'w') as txt_file:
@@ -42,25 +44,26 @@ def parse_save_results(result_handle, output_filename, E_VALUE_THRESH=1e-10, IDE
         hits_found = False
         for i, alignment in enumerate(blast_record.alignments, 1):
             for hsp in alignment.hsps:
-                if hsp.expect < E_VALUE_THRESH:
-                    identity = (hsp.identities / hsp.align_length)
-                    potential_novelty = "Yes" if identity > IDENTITY_THRESH else "No"
-                    
+                identity = float(hsp.identities) / float(hsp.align_length)
+                e_value = hsp.expect  # E-value of the hit
+                coverage = float(hsp.align_length) / float(blast_record.query_length)  # Query coverage
+
+                # Check both the E-value and Identity threshold
+                if e_value <= E_VALUE_THRESH and identity >= IDENTITY_THRESH:  
                     hits_found = True
                     txt_file.write(f"\nHit #{i}\n{'-'*30}\n")
                     txt_file.write(f"Title: {alignment.title}\n")
                     txt_file.write(f"Percent Identity: {identity:.2%}\n")
-                    txt_file.write(f"E-value: {hsp.expect}\n")
+                    txt_file.write(f"Coverage: {coverage:.2%}\n")  # Added coverage info
+                    txt_file.write(f"E-value: {e_value}\n")
                     txt_file.write(f"Query/Sbjct Length: {hsp.align_length}\n")
-                    txt_file.write(f"Potential Novel Enzyme: {potential_novelty}\n\n")
                     txt_file.write("Alignment:\n")
                     txt_file.write(f"Query: {hsp.query}\n")
                     txt_file.write(f"Match: {hsp.match}\n")
                     txt_file.write(f"Sbjct: {hsp.sbjct}\n\n")
         
         if not hits_found:
-            txt_file.write("\nNo significant hits found meeting the E-value threshold.\n")
-
+            txt_file.write("\nNo significant hits found meeting the E-value and Identity thresholds.\n")
 def blast_result_exist(results_dir, filename):
     '''
     Check if BLAST already exist for a given sequence
@@ -108,7 +111,7 @@ def main():
             parse_save_results(result_handle, output_filename)
 
     print(f'\n\n {count} new BLAST searches completed.')
-    print(f'\n\n\BLAST searches completes. Results saved in {results_dir} ')
+    print(f'\n\n\BLAST searches completes. Results saved in {results_dir}')
 
 if __name__ == '__main__':
     main()
